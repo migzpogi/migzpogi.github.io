@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-[Link](https://migzpogi.github.io/notes/helloworld)
+[Link](https://migzpogi.github.io/notes/archive)
 
 Hello.
 
