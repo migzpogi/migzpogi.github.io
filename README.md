@@ -1,19 +1,25 @@
-# The Plain v1
+# A blog
 
-A minimalist Jekyll theme that focues on writing matters, made with passion for simplicity. A great, white clean theme for personal blog use. Made with [Sass](https://github.com/sass/sass) which automates the compression of the compiled CSS code, and cool **Jekyll layout** by [Anatol Broder](http://jch.penibelst.de/) for compressing the HTML code on-the-fly. Typeface used is [Fira Sans font](https://github.com/mozilla/Fira) by Mozilla.
+This is where Mu-An writes her stuff and messes around every once in a while. See the messes [here](https://github.com/muan/muan.github.com/releases).
 
-[**Demo**](http://heiswayi.github.io/the-plain/)
+## Complie
 
-You may refer [this post here](http://heiswayi.github.io/the-plain.html) for how-to-use instructions.
+```
+jekyll server -w
+```
 
-### screenshot
+## License
 
-![Screenshot](http://i.imgur.com/zAkZq0d.png)
+The following directories and their contents are Copyright Mu-An Chiou. You may not reuse anything therein without my permission:
 
-### Credits
+```
+_posts/
+images/
+```
 
-This theme is based on Leonard Lamprecht's [Jekyll theme](https://github.com/leo/leo.github.io).
+All other directories and files are MIT Licensed (where applicable).
 
-### License
+## Me
 
-[MIT](LICENSE.md)
+:wave: [@muanchiou](http://twitter.com/muanchiou)
+:panda_face:
