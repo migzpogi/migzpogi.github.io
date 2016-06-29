@@ -1,7 +1,9 @@
-<aside class="logo">
 
+<aside class="logo">
+	{% x = "migz" %}
 	{% if page.url == '/index.html' or page.url == '/' %}
 		{% assign link = '/about' %}
+		{% assign prompt = x %}
 	{% else %}
 		{% assign link = '/' %}
 		{% assign prompt = 'Back to Home' %}
