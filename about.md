@@ -9,4 +9,4 @@ title: About
 Fun facts in really simple words. Literally.  
 *Inspired by Randall Munroe's Thing Explainer.*
 
-[TIELI5 Archive](http://www.migzpogi.github.io/tieli5)
+[TIELI5 Archive](https://migzpogi.github.io/tieli5)
