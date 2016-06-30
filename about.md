@@ -14,6 +14,8 @@ Inspired by Randall Munroe's Thing Explainer.
 
 Let's say you have text that you want to refer with a footnote, you can do that too! This is an example for the footnote number one [^1]. You can even add more footnotes, with link! [^2]
 
+![Minion](http://octodex.github.com/images/minion.png)
+
 [^1]: Footnote number one yeah baby!
 
 [^2]: A footnote you can link to - [click here!](#)
