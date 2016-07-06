@@ -2,7 +2,7 @@
 title: His Next Chapter
 ---
 
-## Changed A Few Words And Then Some
+**Changed A Few Words And Then Some**
 
 This has been by far the most challenging few weeks in my professional life. I understood cognitively that I was facing a crossroads in my evolution as an employee and as a man, and that it came with exceptionally difficult choices. What I didn’t truly understand, however, was the range of emotions I would feel during this process.
 
