@@ -1,3 +1,9 @@
+---
+title: His Next Chapter
+---
+
+## Changed A Few Words And Then Some
+
 This has been by far the most challenging few weeks in my professional life. I understood cognitively that I was facing a crossroads in my evolution as an employee and as a man, and that it came with exceptionally difficult choices. What I didn’t truly understand, however, was the range of emotions I would feel during this process.
 
 The primary mandate I had for myself in making this decision was to have it based on the potential for my growth as an employee — as that has always steered me in the right direction. But I am also at a point in my life where it is of equal importance to find an opportunity that encourages my evolution as a man: moving out of my comfort zone to a new city and community which offers the greatest potential for my contribution and personal growth. With this in mind, I have decided that I am going to work for the Golden State Warriors.
