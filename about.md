@@ -2,9 +2,9 @@
 title: About
 ---
 
-## TIL
-> Today I Learned
+> Isnabero in the streets. Lover boy in the sheets.
 
-Not so fun facts.
+Below are some of the cool stuff you can find around the web.
 
-[TIL](https://migzpogi.github.io/til)
+[Not so fun facts.](https://migzpogi.github.io/til)
+[Brain candy.](https://migzpogi.github.io/til)
