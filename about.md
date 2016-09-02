@@ -2,10 +2,9 @@
 title: About
 ---
 
-## TIELI5
-> Today I Explained Like I'm Five
+## TIL
+> Today I Learned
 
-Fun facts in really simple words. Literally.  
-*Inspired by Randall Munroe's Thing Explainer.*
+Not so fun facts.
 
-[TIELI5 Archive](https://migzpogi.github.io/tieli5)
+[TIL](https://migzpogi.github.io/til)
