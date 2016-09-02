@@ -3,7 +3,7 @@ title: Kendrick Lamar x Rick and Morty
 tags: [candy]
 ---
 
-![Swimming Pool]()
+![Swimming Pool](http://i.imgur.com/FJupn5J.gif)
 
 Now I down grew up 'round some people livin' their life in bottles  
 Granddaddy had the golden flask, backstroke everyday in Chicago  
