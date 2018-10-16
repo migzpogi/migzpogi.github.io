@@ -1,5 +1,5 @@
 title: Hello, World.
-description: Hi.
+description: Hi
 author: Migz Estrella
 github: https://github.com/migzpogi
 about: Software engineer that loves creating Python and Java applications, deploying them to cloud services such as AWS, and providing insights through data analytics. I also like mechanical keyboards.
@@ -16,28 +16,22 @@ collections:
     permalink: /project/:path/
 
 social:
-    - icon: fa-facebook
-      link: "#"
-    - icon: fa-twitter
-      link: "https://twitter.com/agusmakmun6"
     - icon: fa-linkedin
       link: "https://www.linkedin.com/in/migzestrella"
-    - icon: fa-stack-exchange
-      link: "#"
     - icon: fa-github
       link: "https://github.com/migzpogi"
-
-share:
-  twitter_username: agusmakmun6
-  fb_appid: 1749788565247320
 
 urls:
     - text: About Me
       url: /about/
     - text: My Projects
       url: /projects/
+    - text: XML Feed
+      url: /feed.xml
 
-
+url: "https://migzpogi.github.io"
+baseurl: ""
+paginate: 20
 per_page: 20
 paginate_path: "/page/:num/"
 markdown: kramdown
