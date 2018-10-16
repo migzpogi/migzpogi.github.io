@@ -1,8 +1,9 @@
 ---
+layout: page
 title: About
+permalink: /about/
 ---
 
-> Isnabero in the streets. Lover boy in the sheets.
+I am freelance developer. Currently doing more in backend, focused in Python and Django.
 
-+ [Not so fun facts](https://migzpogi.github.io/til) - Facts nevertheless.
-+ [Brain candy](https://migzpogi.github.io/candy) - Things that *could possibly* make you go woah.
+email: agus[at]python.web.id
