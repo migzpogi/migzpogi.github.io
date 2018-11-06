@@ -14,11 +14,12 @@ Captain America: The Winter Soldier holds a very special place in my heart. It i
 
 ![](https://media.giphy.com/media/8cVKgAeOE9oZ6jWN6E/giphy.gif)
 
-[Captain America vs. Bucky]: https://www.youtube.com/watch?v=PObYPk1vK6k
+[Captain America vs. Bucky](https://www.youtube.com/watch?v=PObYPk1vK6k)
 
 Daredevil Season 3 Episode 6 comes close.
 
 ![](https://media.giphy.com/media/A7ZcBS5h631LgTDM4E/giphy.gif)
 
-[Daredevil vs. Bullseye]: https://media.giphy.com/media/A7ZcBS5h631LgTDM4E/giphy.gif
+[Daredevil vs. Bullseye](https://media.giphy.com/media/A7ZcBS5h631LgTDM4E/giphy.gif)
 
+Dang.
