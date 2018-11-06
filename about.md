@@ -5,3 +5,10 @@ permalink: /about/
 ---
 
 Software engineer that loves creating Python and Java applications, deploying them to cloud services such as AWS, and providing insights through data analytics. I also like mechanical keyboards.
+
+---
+
+Recent favorites:
+
+* Daredevil Season 3
+* juan karlos
