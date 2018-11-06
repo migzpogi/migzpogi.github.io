@@ -1,9 +1,8 @@
-title: Hello, World.
-description: Hi
+title: Click, Clack.
+description: All things non-sequitur.
 author: Migz Estrella
 github: https://github.com/migzpogi
 about: Software engineer that loves creating Python and Java applications, deploying them to cloud services such as AWS, and providing insights through data analytics. I also like mechanical keyboards.
-disqus_shortname: helloworld
 google_analytics: UA-XXXXXXXX-Y
 avatar_url: /static/img/headshot.png
 
