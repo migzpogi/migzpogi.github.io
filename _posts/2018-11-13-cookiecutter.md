@@ -32,7 +32,7 @@ I have a template of this structure as you can see below:
 ```
 python_template
 |-- cookiecutter.json
-|-- `{{cookiecutter.directory_name}}`
+|-- cookiecutter.directory_name
     |-- README.rst
     |-- LICENSE
     |-- setup.py
