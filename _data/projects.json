@@ -2,16 +2,16 @@
 	{
 		"slug": "poker_calculator",
 		"name": "Poker Calculator",
-		"image": "placeholder.jpg",
-		"url": "https://www.google.com",
+		"image": "poker.jpeg",
+		"url": "https://github.com/migzpogi/PokerCalculator",
 		"date": "2018",
 		"tags": ["Python"]
 	},
 	{
-		"name": "Cool project 2",
-		"image": "placeholder.jpg",
-		"url": "#",
-		"date": "May 2014",
-		"tags": ["HTML"]
+		"name": "Codevember",
+		"image": "codevember.jpg",
+		"url": "https://github.com/migzpogi/Codevember",
+		"date": "November 2018",
+		"tags": ["Python"]
 	}
 ]
