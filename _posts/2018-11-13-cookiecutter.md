@@ -32,7 +32,7 @@ I have a template of this structure as you can see below:
 ```
 python_template
 |-- cookiecutter.json
-|-- {{cookiecutter.directory_name}}
+|-- `{{cookiecutter.directory_name}}`
     |-- README.rst
     |-- LICENSE
     |-- setup.py
@@ -51,8 +51,8 @@ python_template
 Whenever I want to create a new project, I just run Cookiecutter. It automatically follows this structure.
 
 Some key features you should take note are:
-* It is cross-platform. Windows, Mac, and Linux are officially supported
-* Runs of Python
+* It is cross-platform. Windows, Mac, and Linux are officially supported.
+* Runs on Python
 * Templates can be in any programming language or markup format. You can use multiple languages in the same project template.
 * Supports unlimited levels of directory nesting.
 * Templating is done with Jinja2. Define your variables in a JSON file.
