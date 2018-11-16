@@ -12,3 +12,11 @@ Recent favorites:
 
 * Daredevil Season 3
 * juan karlos
+* ChilledCow
+* The Anthem by Ayn Rand
+* Red Dead Redemption 2
+* Stardew Valley
+
+---
+
+[Awesome Stuff Here](https://github.com/migzpogi/awesome-stuff)
