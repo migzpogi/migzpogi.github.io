@@ -2,7 +2,7 @@
 layout: post
 title:  "Cookiecutter"
 date:   2018-11-13 10:14:00 +0800
-categories: [python]
+categories: [tools]
 ---
 
 # Cookiecutter
