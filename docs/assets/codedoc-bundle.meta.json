@@ -1,0 +1,111 @@
+{
+  "init": [
+    {
+      "name": "initJssCs",
+      "filename": "/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/transport/setup-jss.js",
+      "hash": "Mqfnbti/cOV5aZ8TlGKQig=="
+    },
+    {
+      "name": "installTheme",
+      "filename": "/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/content/theme.ts",
+      "hash": "ulMlMSXhy+iZN+fhryZ5Sg=="
+    },
+    {
+      "name": "codeSelection",
+      "filename": "/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/selection.js",
+      "hash": "ejZUnNLexpO1MA/g53kb9g=="
+    },
+    {
+      "name": "sameLineLengthInCodes",
+      "filename": "/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/same-line-length.js",
+      "hash": "jHYVQwxfGeESGl46Leq+7w=="
+    },
+    {
+      "name": "initHintBox",
+      "filename": "/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-hint/index.js",
+      "hash": "S9MXfIIMoKjtDuDEPnJt8w=="
+    },
+    {
+      "name": "initCodeLineRef",
+      "filename": "/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-ref/index.js",
+      "hash": "UaNI12NPAgFAshdYYRUZCA=="
+    },
+    {
+      "name": "initSmartCopy",
+      "filename": "/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/smart-copy.js",
+      "hash": "Kxe/jX8KQk85Ll7bUj53/A=="
+    },
+    {
+      "name": "copyHeadings",
+      "filename": "/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/heading/copy-headings.js",
+      "hash": "MikvFI9J9J6F5EJuPjCFSw=="
+    },
+    {
+      "name": "contentNavHighlight",
+      "filename": "/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/contentnav/highlight.js",
+      "hash": "yxhtZiGghZGU9Dg7I3a4+A=="
+    },
+    {
+      "name": "loadDeferredIFrames",
+      "filename": "/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/transport/deferred-iframe.js",
+      "hash": "+mZcM+gE77LpSr1RFbt5Tg=="
+    },
+    {
+      "name": "smoothLoading",
+      "filename": "/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/transport/smooth-loading.js",
+      "hash": "SMbB5zqDrxDi7OXjGVybdw=="
+    },
+    {
+      "name": "tocHighlight",
+      "filename": "/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toc-highlight.js",
+      "hash": "FTRoQyfddCBHEZo1DcD2Jw=="
+    },
+    {
+      "name": "postNavSearch",
+      "filename": "/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/search/post-nav/index.js",
+      "hash": "r0Z0ECn48vPyRaRpzo5hoQ=="
+    },
+    {
+      "name": "copyLineLinks",
+      "filename": "/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-links/copy-line-link.js",
+      "hash": "t9VycVqv4lJJom94r1VuRA=="
+    }
+  ],
+  "components": [
+    {
+      "name": "ToCPrevNext",
+      "filename": "/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js",
+      "hash": "uFnrvcJ+D1F1GDCh65DQAw=="
+    },
+    {
+      "name": "ToCToggle",
+      "filename": "/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toggle/index.js",
+      "hash": "SWqLNoA0MvrMLz5OC3Afig=="
+    },
+    {
+      "name": "DarkModeSwitch",
+      "filename": "/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/darkmode/index.js",
+      "hash": "d6qGVPx99lKPu2PLJuKqIQ=="
+    },
+    {
+      "name": "ConfigTransport",
+      "filename": "/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/transport/config.js",
+      "hash": "lqCTtIEwAWbDZIUT6vFTOw=="
+    },
+    {
+      "name": "TabSelector",
+      "filename": "/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/tabs/selector.js",
+      "hash": "fy98CTzf8FViHeU0sP48hA=="
+    },
+    {
+      "name": "CollapseControl",
+      "filename": "/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/collapse/collapse-control.js",
+      "hash": "0866BrlkclpEOc1LwO/nOg=="
+    }
+  ],
+  "renderer": {
+    "name": "getRenderer",
+    "filename": "/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/transport/renderer.js",
+    "hash": "dvmJVv5dEETe1frDAHyBsQ=="
+  }
+}
