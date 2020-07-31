@@ -13,7 +13,6 @@ import { smoothLoading } from '/home/migzubuntu/gitprojects/migzpogi.github.io/.
 import { tocHighlight } from '/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toc-highlight.js';tocHighlight();
 import { postNavSearch } from '/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/search/post-nav/index.js';postNavSearch();
 import { copyLineLinks } from '/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-links/copy-line-link.js';copyLineLinks();
-import { reloadOnChange } from '/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/serve/reload.js';reloadOnChange();
 import { CollapseControl } from '/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/collapse/collapse-control.js';
 import { ToCToggle } from '/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toggle/index.js';
 import { DarkModeSwitch } from '/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/darkmode/index.js';
