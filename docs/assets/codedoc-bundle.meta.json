@@ -69,6 +69,11 @@
       "name": "copyLineLinks",
       "filename": "/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-links/copy-line-link.js",
       "hash": "t9VycVqv4lJJom94r1VuRA=="
+    },
+    {
+      "name": "reloadOnChange",
+      "filename": "/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/serve/reload.js",
+      "hash": "x1iP+ISbwzhwQ+zX+wIwGw=="
     }
   ],
   "components": [
@@ -93,14 +98,14 @@
       "hash": "lqCTtIEwAWbDZIUT6vFTOw=="
     },
     {
-      "name": "ToCPrevNext",
-      "filename": "/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js",
-      "hash": "uFnrvcJ+D1F1GDCh65DQAw=="
-    },
-    {
       "name": "TabSelector",
       "filename": "/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/tabs/selector.js",
       "hash": "fy98CTzf8FViHeU0sP48hA=="
+    },
+    {
+      "name": "ToCPrevNext",
+      "filename": "/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js",
+      "hash": "uFnrvcJ+D1F1GDCh65DQAw=="
     }
   ],
   "renderer": {
