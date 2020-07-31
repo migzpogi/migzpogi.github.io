@@ -13,20 +13,20 @@ import { smoothLoading } from '/home/migzubuntu/gitprojects/migzpogi.github.io/.
 import { tocHighlight } from '/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toc-highlight.js';tocHighlight();
 import { postNavSearch } from '/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/search/post-nav/index.js';postNavSearch();
 import { copyLineLinks } from '/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-links/copy-line-link.js';copyLineLinks();
-import { ToCPrevNext } from '/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js';
+import { CollapseControl } from '/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/collapse/collapse-control.js';
 import { ToCToggle } from '/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toggle/index.js';
 import { DarkModeSwitch } from '/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/darkmode/index.js';
 import { ConfigTransport } from '/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/transport/config.js';
+import { ToCPrevNext } from '/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js';
 import { TabSelector } from '/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/tabs/selector.js';
-import { CollapseControl } from '/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/collapse/collapse-control.js';
 
 const components = {
-  'uFnrvcJ+D1F1GDCh65DQAw==': ToCPrevNext,
+  '0866BrlkclpEOc1LwO/nOg==': CollapseControl,
   'SWqLNoA0MvrMLz5OC3Afig==': ToCToggle,
   'd6qGVPx99lKPu2PLJuKqIQ==': DarkModeSwitch,
   'lqCTtIEwAWbDZIUT6vFTOw==': ConfigTransport,
-  'fy98CTzf8FViHeU0sP48hA==': TabSelector,
-  '0866BrlkclpEOc1LwO/nOg==': CollapseControl
+  'uFnrvcJ+D1F1GDCh65DQAw==': ToCPrevNext,
+  'fy98CTzf8FViHeU0sP48hA==': TabSelector
 };
 
 const renderer = getRenderer();

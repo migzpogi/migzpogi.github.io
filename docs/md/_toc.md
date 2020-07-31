@@ -1,8 +1,10 @@
 [Home](/)
-[Markdown Cheat Sheet](/docs/cheat-sheet)
-[Code Features](/docs/code-features)
 
-<br><br>
+> :Collapse label=Project Euler
+>
+> [001](/euler/001)
 
-To add links to your other documents, simply
-modify contents of `docs/md/_toc.md`.
+> :Collapse label=Essays
+>
+> [Distractions In Disguise](/essays/distractions)
+> [Importance Of Art](/essays/importance-art)
