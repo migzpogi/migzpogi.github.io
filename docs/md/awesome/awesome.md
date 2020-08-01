@@ -30,3 +30,37 @@ reason to have fun and live as happy as possible.
 * [The Past We Can Never Return To](https://www.youtube.com/watch?v=YbgnlkJPga4) - These communities hunted and gathered 
 and there were no large caloric surpluses. So every healthy person would have had to contribute to the acquisition of 
 food and water, and yet somehow they still made time to create art. Almost as if art isn't optional.
+
+## [menu_book](:Icon) Books 
+### 2020
+* An Astronaut's Guide to Life on Earth by Chris Hadfield
+* Talking to Strangers: What We Should Know About the People We Don't Know by Malcolm Gladwell
+* On Writing: A Memoir of the Craft by Stephen King
+* What I Talk About When I Talk About Running by Haruki Murakami 
+* The Phoenix Project by Gene Kim
+
+### 2019
+* 56 by Bob Ong
+
+### 2018
+* Anthem by Ayn Rand
+
+### 2017
+* 1Q84 by Haruki Murakami
+* Norse Mythology by Neil Gaiman
+* Thirteen Reasons Why by Jay Asher
+* Wool Omnibus by Hugh Howey
+* Fahrenheit 451 by Ray Bradbury
+* Lord of the Flies by William Golding
+* The Ocean at the End of the Lane by Neil Gaiman
+* The Happiness Project by Gretchen Rubin
+
+### 2016
+* How Music Got Free by Stephen Richard Witt
+* Go Set A Watchman by Harper Lee
+* Harry Potter and the Sorcerer's Stone by J.K. Rowling
+* The Golem and the Jinni by Helene Wecker
+* Challenger Deep by Neil Shusterman
+* The Story of Kullervo by J.R.R. Tolkien
+* What If? by Randall Munroe
+* Ready Player One by Ernest Cline
