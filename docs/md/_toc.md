@@ -9,5 +9,6 @@
 > [Distractions In Disguise](/essays/distractions)
 > [Importance Of Art](/essays/importance-art)
 > [Ludic Fallacy](/essays/ludic-fallacy)
+> [Running](/essays/running)
 
 [Awesome Stuff](/awesome/awesome)
