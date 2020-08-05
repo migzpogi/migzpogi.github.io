@@ -10,5 +10,6 @@
 > [Importance Of Art](/essays/importance-art)
 > [Ludic Fallacy](/essays/ludic-fallacy)
 > [Running](/essays/running)
+> [Unsolicited Advice](/essays/unsolicited)
 
 [Awesome Stuff](/awesome/awesome)
