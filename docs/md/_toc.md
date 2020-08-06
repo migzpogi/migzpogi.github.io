@@ -3,6 +3,7 @@
 > :Collapse label=Project Euler
 >
 > [001](/euler/001)
+> [002](/euler/002)
 
 > :Collapse label=Essays
 >
