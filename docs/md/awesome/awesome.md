@@ -9,6 +9,8 @@ gangsters.
 * [8:46 - Dave Chappelle](https://www.youtube.com/watch?v=3tR6mKcBbT4) - Why isn't Dave Chappelle saying anything? 
 Because Dave Chappelle understands what the fuck he is seeing. And these streets will speak for themselves whether I am 
 alive or dead.
+* [Better | Mamba Forever | Nike](https://www.youtube.com/watch?v=C9I-W1eTCbk) - Nike ad for 2020 Kobe Bryant Day.
+* [Rafael Nadal: Rally | Nike](https://www.youtube.com/watch?v=1tSDyLeUwJ4) - Nike ad for my favorite tennis player, Rafael Nadal.
 
 ### Hot Ones
 I love Sean Evans.
@@ -19,6 +21,8 @@ I love Sean Evans.
 * [Hot Ones | Pete Davidson](https://www.youtube.com/watch?v=-6BvA4U1dLI) - Hot Ones Pete Davidson Episode
 * [Hot Ones | Big Sean](https://www.youtube.com/watch?v=4VoqwrEEAZM) - Hot Ones Big Sean Episode
 * [Hot Ones | Zac Efron](https://www.youtube.com/watch?v=J5nz24jrLDE) - Hot Ones Zac Efron Episode
+* [Hot Ones | T-Pain](https://www.youtube.com/watch?v=O0g2EtKFAcA) - Hot Ones T-Pain Episode 1
+* [Hot Ones | T-Pain 2](https://www.youtube.com/watch?v=OSurn7YvpGk) - Hot Ones T-Pain Episode 2
 
 ### Kurzgesagt
 In a nutshell.
@@ -33,6 +37,7 @@ food and water, and yet somehow they still made time to create art. Almost as if
 
 ## [menu_book](:Icon) Books 
 ### 2020
+* Open by Andre Agassi
 * An Astronaut's Guide to Life on Earth by Chris Hadfield
 * Talking to Strangers: What We Should Know About the People We Don't Know by Malcolm Gladwell
 * On Writing: A Memoir of the Craft by Stephen King
