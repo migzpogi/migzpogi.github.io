@@ -4,6 +4,7 @@
 >
 > [001](/euler/001)
 > [002](/euler/002)
+> [042](/euler/042)
 
 > :Collapse label=Essays
 >
