@@ -13,5 +13,6 @@
 > [Ludic Fallacy](/essays/ludic-fallacy)
 > [Running](/essays/running)
 > [Unsolicited Advice](/essays/unsolicited)
+> [Open](/essays/open)
 
 [Awesome Stuff](/awesome/awesome)
