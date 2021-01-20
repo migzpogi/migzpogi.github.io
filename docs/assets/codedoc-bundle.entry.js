@@ -17,16 +17,16 @@ import { CollapseControl } from '/home/migzubuntu/gitprojects/migzpogi.github.io
 import { ToCToggle } from '/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toggle/index.js';
 import { DarkModeSwitch } from '/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/darkmode/index.js';
 import { ConfigTransport } from '/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/transport/config.js';
-import { TabSelector } from '/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/tabs/selector.js';
 import { ToCPrevNext } from '/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js';
+import { TabSelector } from '/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/tabs/selector.js';
 
 const components = {
   '0866BrlkclpEOc1LwO/nOg==': CollapseControl,
   'SWqLNoA0MvrMLz5OC3Afig==': ToCToggle,
   'd6qGVPx99lKPu2PLJuKqIQ==': DarkModeSwitch,
   'lqCTtIEwAWbDZIUT6vFTOw==': ConfigTransport,
-  'fy98CTzf8FViHeU0sP48hA==': TabSelector,
-  'uFnrvcJ+D1F1GDCh65DQAw==': ToCPrevNext
+  'uFnrvcJ+D1F1GDCh65DQAw==': ToCPrevNext,
+  'fy98CTzf8FViHeU0sP48hA==': TabSelector
 };
 
 const renderer = getRenderer();
