@@ -17,5 +17,9 @@
 > [Unsolicited Advice](/essays/unsolicited)
 > [Open](/essays/open)
 
+> :Collapse label=Blogs
+>
+> [First Built Keyboard](/blog/kbd75)
+
 [Awesome Stuff](/awesome/awesome)
 
