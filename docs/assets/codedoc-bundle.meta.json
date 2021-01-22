@@ -11,6 +11,11 @@
       "hash": "ulMlMSXhy+iZN+fhryZ5Sg=="
     },
     {
+      "name": "zoomOnFormula",
+      "filename": "/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/formula/zoom-on-formula.js",
+      "hash": "atHvO0bH2jNk9LCQKCr4Zg=="
+    },
+    {
       "name": "codeSelection",
       "filename": "/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/selection.js",
       "hash": "ejZUnNLexpO1MA/g53kb9g=="

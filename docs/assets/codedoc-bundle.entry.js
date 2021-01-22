@@ -1,6 +1,7 @@
 import { getRenderer } from '/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/transport/renderer.js';
 import { initJssCs } from '/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/transport/setup-jss.js';initJssCs();
 import { installTheme } from '/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/content/theme.ts';installTheme();
+import { zoomOnFormula } from '/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/formula/zoom-on-formula.js';zoomOnFormula();
 import { codeSelection } from '/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/selection.js';codeSelection();
 import { sameLineLengthInCodes } from '/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/same-line-length.js';sameLineLengthInCodes();
 import { initHintBox } from '/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-hint/index.js';initHintBox();

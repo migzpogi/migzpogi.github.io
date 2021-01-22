@@ -1,5 +1,6 @@
 
 import { configuration } from '@codedoc/core';
+import { formulaPlugin } from '@codedoc/core/components';
 
 import { theme } from './theme';
 
@@ -13,6 +14,10 @@ export const config = /*#__PURE__*/configuration({
     },
      favicon: "/favicon.png"
   },
+
+  plugins: [
+    formulaPlugin
+  ],
 
   
 });
