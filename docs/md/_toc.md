@@ -15,6 +15,7 @@
 > [Ludic Fallacy](/essays/ludic-fallacy)
 > [Running](/essays/running)
 > [Unsolicited Advice](/essays/unsolicited)
+> [Tips For A Better Life](/essays/better-life)
 > [Open](/essays/open)
 
 > :Collapse label=Blogs
