@@ -11,6 +11,7 @@ Because Dave Chappelle understands what the fuck he is seeing. And these streets
 alive or dead.
 * [Better | Mamba Forever | Nike](https://www.youtube.com/watch?v=C9I-W1eTCbk) - Nike ad for 2020 Kobe Bryant Day.
 * [Rafael Nadal: Rally | Nike](https://www.youtube.com/watch?v=1tSDyLeUwJ4) - Nike ad for my favorite tennis player, Rafael Nadal.
+* [TED | Linus Torvalds](https://www.ted.com/talks/linus_torvalds_the_mind_behind_linux) - The mind behind Linux
 
 ### Hot Ones
 I love Sean Evans.
