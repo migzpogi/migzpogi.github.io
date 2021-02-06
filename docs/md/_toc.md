@@ -21,6 +21,7 @@
 > :Collapse label=Blogs
 >
 > [First Built Keyboard](/blog/kbd75)
+> [2020 Quarantine Gaming List](/blog/games)
 
 [Awesome Stuff](/awesome/awesome)
 
