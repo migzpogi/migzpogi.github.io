@@ -98,14 +98,14 @@
       "hash": "lqCTtIEwAWbDZIUT6vFTOw=="
     },
     {
-      "name": "TabSelector",
-      "filename": "/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/tabs/selector.js",
-      "hash": "fy98CTzf8FViHeU0sP48hA=="
-    },
-    {
       "name": "ToCPrevNext",
       "filename": "/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js",
       "hash": "uFnrvcJ+D1F1GDCh65DQAw=="
+    },
+    {
+      "name": "TabSelector",
+      "filename": "/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/tabs/selector.js",
+      "hash": "fy98CTzf8FViHeU0sP48hA=="
     }
   ],
   "renderer": {

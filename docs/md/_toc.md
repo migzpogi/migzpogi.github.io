@@ -22,6 +22,7 @@
 >
 > [First Built Keyboard](/blog/kbd75)
 > [2020 Quarantine Gaming List](/blog/games)
+> [charm-crypto for Windows](/blog/charmforwindows)
 
 [Awesome Stuff](/awesome/awesome)
 
