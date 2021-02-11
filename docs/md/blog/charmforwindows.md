@@ -66,6 +66,11 @@ sudo apt-get install libgmp-dev
 sudo apt-get -y install flex bison
 ```
 
+### Install libssl-dev
+```
+sudo apt-get install libssl-dev
+```
+
 ## Install charm
 Create a folder named `charm_root` in your Windows desktop. This will just simplify things and make the guide easier to 
 follow.
