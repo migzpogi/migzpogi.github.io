@@ -13,6 +13,7 @@ alive or dead.
 * [Rafael Nadal: Rally | Nike](https://www.youtube.com/watch?v=1tSDyLeUwJ4) - Nike ad for my favorite tennis player, Rafael Nadal.
 * [TED | Linus Torvalds](https://www.ted.com/talks/linus_torvalds_the_mind_behind_linux) - The mind behind Linux
 * [Sax-A-Boom](https://www.youtube.com/watch?v=cLmCJKT5ssw) - Jack Black plays the Sax-A-Boom
+* [Veritasium | These Pools Help Support Half The People On Earth](https://www.youtube.com/watch?v=YMDJA4UvXLA) - I didn't know that potassium came from potash which is literally ash from a pot.
 
 ### Hot Ones
 I love Sean Evans.
