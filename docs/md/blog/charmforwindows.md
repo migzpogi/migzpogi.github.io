@@ -1,4 +1,4 @@
-# Running charm-crypto in Windows
+# Running charm-crypto in Windows  
 For all intents and purposes, we will be using Windows Subsystem for Linux (WSL) to make this work. Any attempt I made 
 to make this run natively has been frustratingly unsuccessful. With that being said, let us begin.
 
@@ -119,3 +119,5 @@ sudo ldconfig
 python3
 >>> import charm
 ```
+---
+*07-Feb-2021*

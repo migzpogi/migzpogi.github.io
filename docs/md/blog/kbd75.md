@@ -1,4 +1,5 @@
 # KBD75v2
+
 I had lots of fun building my first mechanical keyboard. The kit I used was the KBD75v2 which is almost always available 
 in KBDFans.com. Just can't go back to using non-75% keyboards. 
 
@@ -24,3 +25,6 @@ it to the PCB. (Nerd alert)
 
 ## Finished Product
 ![KBD65v2](https://i.imgur.com/FJ9CoZ0.jpg)
+
+---
+*02-Jan-2021*
