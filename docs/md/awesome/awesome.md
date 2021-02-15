@@ -40,11 +40,18 @@ and there were no large caloric surpluses. So every healthy person would have ha
 food and water, and yet somehow they still made time to create art. Almost as if art isn't optional.
 
 ## [menu_book](:Icon) Books 
+### 2021
+* The Neil Gaiman Reader: Selected Fiction by Neil Gaiman
+
 ### 2020
+* The Grapes of Wrath by John Steinbeck
+* The Invisible Hook by Peter Leeson
+* What Do You Care What Other People Think by Richard Feynman
 * Open by Andre Agassi
 * An Astronaut's Guide to Life on Earth by Chris Hadfield
 * Talking to Strangers: What We Should Know About the People We Don't Know by Malcolm Gladwell
 * On Writing: A Memoir of the Craft by Stephen King
+* The Elements of Style by William Strunk
 * What I Talk About When I Talk About Running by Haruki Murakami 
 * The Phoenix Project by Gene Kim
 
