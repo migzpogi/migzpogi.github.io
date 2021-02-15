@@ -20,6 +20,7 @@
 
 > :Collapse label=Blogs
 >
+> [Find The Missing Number](/blog/missingno)
 > [In-Place Swapping](/blog/swap)
 > [Mark 2](/blog/tank)
 > [charm-crypto for Windows](/blog/charmforwindows)
