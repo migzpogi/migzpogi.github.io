@@ -84,3 +84,4 @@ food and water, and yet somehow they still made time to create art. Almost as if
 ## [language](:Icon) Websites
 * [The True Size Of](https://thetruesize.com/) - Shows a country's true size
 * [github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
+* [Sonic Pi](https://sonic-pi.net/) - Code-based music creation and performance tool
