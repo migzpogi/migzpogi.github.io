@@ -44,6 +44,8 @@ alive or dead.
 * [Sax-A-Boom](https://www.youtube.com/watch?v=cLmCJKT5ssw) - Jack Black plays the Sax-A-Boom
 * [Veritasium | These Pools Help Support Half The People On Earth](https://www.youtube.com/watch?v=YMDJA4UvXLA) - I didn't know that potassium came from potash which is literally ash from a pot.
 * [Damian Lillard Game Winner](https://streamable.com/vflu6r) - Damian Lillard's shot against Paul George
+* [Sicario Mexico Border Scene](https://www.youtube.com/watch?v=LzKwClRvRco) - My favorite scene of a movie.
+* [A Few Good Men | You Can't Handle The Truth](https://www.youtube.com/watch?v=9FnO3igOkOk) - My second favorite scene of a movie.
 
 ## [menu_book](:Icon) Books 
 ### 2021
