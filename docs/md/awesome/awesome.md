@@ -47,6 +47,7 @@ alive or dead.
 * [Sicario Mexico Border Scene](https://www.youtube.com/watch?v=LzKwClRvRco) - My favorite scene of a movie.
 * [A Few Good Men | You Can't Handle The Truth](https://www.youtube.com/watch?v=9FnO3igOkOk) - My second favorite scene of a movie.
 * [The Art of Code - Dylan Beattie](https://www.youtube.com/watch?v=6avJHaC3C2U) - Finally, a rockstar developer.
+* [How To Speak - Patrick Winston](https://www.youtube.com/watch?v=Unzc731iCUY) -  Improve your speaking ability in critical situations by teaching you a few heuristic rules.
 
 ## [menu_book](:Icon) Books 
 ### 2021
