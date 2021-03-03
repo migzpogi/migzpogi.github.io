@@ -10,6 +10,7 @@
 
 > :Collapse label=Essays
 >
+> [Progress Bars](/essays/progress-bars)
 > [Distractions In Disguise](/essays/distractions)
 > [Importance Of Art](/essays/importance-art)
 > [Ludic Fallacy](/essays/ludic-fallacy)
