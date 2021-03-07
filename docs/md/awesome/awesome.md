@@ -95,3 +95,5 @@ alive or dead.
 * [The True Size Of](https://thetruesize.com/) - Shows a country's true size
 * [github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 * [Sonic Pi](https://sonic-pi.net/) - Code-based music creation and performance tool
+* [Take That For Data](https://www.youtube.com/watch?v=LGN5S-X9wIw&t=1s) - Fizdale's postgame rant
+* [Reputation](https://www.theplayerstribune.com/posts/reputation-julius-randle-new-york-knicks-basketball-nba) - By Julius Randle
