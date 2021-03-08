@@ -48,6 +48,7 @@ alive or dead.
 * [A Few Good Men | You Can't Handle The Truth](https://www.youtube.com/watch?v=9FnO3igOkOk) - My second favorite scene of a movie.
 * [The Art of Code - Dylan Beattie](https://www.youtube.com/watch?v=6avJHaC3C2U) - Finally, a rockstar developer.
 * [How To Speak - Patrick Winston](https://www.youtube.com/watch?v=Unzc731iCUY) -  Improve your speaking ability in critical situations by teaching you a few heuristic rules.
+* [Take That For Data](https://www.youtube.com/watch?v=LGN5S-X9wIw&t=1s) - Fizdale's postgame rant
 
 ## [menu_book](:Icon) Books 
 ### 2021
@@ -95,5 +96,5 @@ alive or dead.
 * [The True Size Of](https://thetruesize.com/) - Shows a country's true size
 * [github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 * [Sonic Pi](https://sonic-pi.net/) - Code-based music creation and performance tool
-* [Take That For Data](https://www.youtube.com/watch?v=LGN5S-X9wIw&t=1s) - Fizdale's postgame rant
 * [Reputation](https://www.theplayerstribune.com/posts/reputation-julius-randle-new-york-knicks-basketball-nba) - By Julius Randle
+* [Remove commits from remote branch](https://stackoverflow.com/questions/3293531/how-to-permanently-remove-few-commits-from-remote-branch) - We all know it is bad yada yada, but sometimes you just have to.
