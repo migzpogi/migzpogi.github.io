@@ -2,115 +2,115 @@
   "init": [
     {
       "name": "initJssCs",
-      "filename": "/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/transport/setup-jss.js",
-      "hash": "Mqfnbti/cOV5aZ8TlGKQig=="
+      "filename": "C:/Users/Migz-NZXT/Documents/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es5/transport/setup-jss.js",
+      "hash": "JmWFh2iQ8tz4whzSpy7Qvg=="
     },
     {
       "name": "installTheme",
-      "filename": "/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/content/theme.ts",
-      "hash": "ulMlMSXhy+iZN+fhryZ5Sg=="
+      "filename": "C:/Users/Migz-NZXT/Documents/gitprojects/migzpogi.github.io/.codedoc/content/theme.ts",
+      "hash": "S+59uYfjNGE472ewhRFdLg=="
     },
     {
       "name": "zoomOnFormula",
-      "filename": "/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/formula/zoom-on-formula.js",
-      "hash": "atHvO0bH2jNk9LCQKCr4Zg=="
+      "filename": "C:/Users/Migz-NZXT/Documents/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es5/components/formula/zoom-on-formula.js",
+      "hash": "M1MJHy2QjTDDooFFEhLlkw=="
     },
     {
       "name": "codeSelection",
-      "filename": "/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/selection.js",
-      "hash": "ejZUnNLexpO1MA/g53kb9g=="
+      "filename": "C:/Users/Migz-NZXT/Documents/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es5/components/code/selection.js",
+      "hash": "qnUGKmpJIkFUt1tpNOuSpw=="
     },
     {
       "name": "sameLineLengthInCodes",
-      "filename": "/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/same-line-length.js",
-      "hash": "jHYVQwxfGeESGl46Leq+7w=="
+      "filename": "C:/Users/Migz-NZXT/Documents/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es5/components/code/same-line-length.js",
+      "hash": "/75WX7j/jEt39YwT8NhHpw=="
     },
     {
       "name": "initHintBox",
-      "filename": "/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-hint/index.js",
-      "hash": "S9MXfIIMoKjtDuDEPnJt8w=="
+      "filename": "C:/Users/Migz-NZXT/Documents/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es5/components/code/line-hint/index.js",
+      "hash": "ELecssG2cpIdcmF+QHt7ag=="
     },
     {
       "name": "initCodeLineRef",
-      "filename": "/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-ref/index.js",
-      "hash": "UaNI12NPAgFAshdYYRUZCA=="
+      "filename": "C:/Users/Migz-NZXT/Documents/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es5/components/code/line-ref/index.js",
+      "hash": "PrhalN8N3uFtC29bbsg5Aw=="
     },
     {
       "name": "initSmartCopy",
-      "filename": "/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/smart-copy.js",
-      "hash": "Kxe/jX8KQk85Ll7bUj53/A=="
+      "filename": "C:/Users/Migz-NZXT/Documents/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es5/components/code/smart-copy.js",
+      "hash": "/nB31epSIZQ0EC8ivuPihg=="
     },
     {
       "name": "copyHeadings",
-      "filename": "/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/heading/copy-headings.js",
-      "hash": "MikvFI9J9J6F5EJuPjCFSw=="
+      "filename": "C:/Users/Migz-NZXT/Documents/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es5/components/heading/copy-headings.js",
+      "hash": "YcPgwAcDjrOHFBSsy0of+Q=="
     },
     {
       "name": "contentNavHighlight",
-      "filename": "/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/contentnav/highlight.js",
-      "hash": "yxhtZiGghZGU9Dg7I3a4+A=="
+      "filename": "C:/Users/Migz-NZXT/Documents/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es5/components/page/contentnav/highlight.js",
+      "hash": "esHY8gfQjjvoJMfCnjDWFA=="
     },
     {
       "name": "loadDeferredIFrames",
-      "filename": "/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/transport/deferred-iframe.js",
-      "hash": "+mZcM+gE77LpSr1RFbt5Tg=="
+      "filename": "C:/Users/Migz-NZXT/Documents/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es5/transport/deferred-iframe.js",
+      "hash": "i+k3qTZy9gjzycP97TsoXg=="
     },
     {
       "name": "smoothLoading",
-      "filename": "/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/transport/smooth-loading.js",
-      "hash": "SMbB5zqDrxDi7OXjGVybdw=="
+      "filename": "C:/Users/Migz-NZXT/Documents/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es5/transport/smooth-loading.js",
+      "hash": "oFCW3DySXQFrwcqF7nshmw=="
     },
     {
       "name": "tocHighlight",
-      "filename": "/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toc-highlight.js",
-      "hash": "FTRoQyfddCBHEZo1DcD2Jw=="
+      "filename": "C:/Users/Migz-NZXT/Documents/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es5/components/page/toc/toc-highlight.js",
+      "hash": "HN5hPrciOmHuPeOlyRjIvQ=="
     },
     {
       "name": "postNavSearch",
-      "filename": "/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/search/post-nav/index.js",
-      "hash": "r0Z0ECn48vPyRaRpzo5hoQ=="
+      "filename": "C:/Users/Migz-NZXT/Documents/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es5/components/page/toc/search/post-nav/index.js",
+      "hash": "vG3do/XkVVS/roO2lp2vyQ=="
     },
     {
       "name": "copyLineLinks",
-      "filename": "/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-links/copy-line-link.js",
-      "hash": "t9VycVqv4lJJom94r1VuRA=="
+      "filename": "C:/Users/Migz-NZXT/Documents/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es5/components/code/line-links/copy-line-link.js",
+      "hash": "oqgO82PEB+njYmAke2rupQ=="
     }
   ],
   "components": [
     {
       "name": "CollapseControl",
-      "filename": "/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/collapse/collapse-control.js",
-      "hash": "0866BrlkclpEOc1LwO/nOg=="
+      "filename": "C:/Users/Migz-NZXT/Documents/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es5/components/collapse/collapse-control.js",
+      "hash": "Ifg8pDJj2CBZ3Z8umrOgDg=="
     },
     {
       "name": "ToCToggle",
-      "filename": "/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toggle/index.js",
-      "hash": "SWqLNoA0MvrMLz5OC3Afig=="
+      "filename": "C:/Users/Migz-NZXT/Documents/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es5/components/page/toc/toggle/index.js",
+      "hash": "Nh6re0dgnQiGVEdDYkhqmw=="
     },
     {
       "name": "DarkModeSwitch",
-      "filename": "/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/darkmode/index.js",
-      "hash": "d6qGVPx99lKPu2PLJuKqIQ=="
+      "filename": "C:/Users/Migz-NZXT/Documents/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es5/components/darkmode/index.js",
+      "hash": "DirrDhSuHWw/BdHCBv7rXQ=="
     },
     {
       "name": "ConfigTransport",
-      "filename": "/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/transport/config.js",
-      "hash": "lqCTtIEwAWbDZIUT6vFTOw=="
+      "filename": "C:/Users/Migz-NZXT/Documents/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es5/transport/config.js",
+      "hash": "cENvn186VTFomXH41rxoNg=="
     },
     {
       "name": "TabSelector",
-      "filename": "/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/tabs/selector.js",
-      "hash": "fy98CTzf8FViHeU0sP48hA=="
+      "filename": "C:/Users/Migz-NZXT/Documents/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es5/components/tabs/selector.js",
+      "hash": "4gB8PPOMhTAsadzFtD6Puw=="
     },
     {
       "name": "ToCPrevNext",
-      "filename": "/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js",
-      "hash": "uFnrvcJ+D1F1GDCh65DQAw=="
+      "filename": "C:/Users/Migz-NZXT/Documents/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es5/components/page/toc/prevnext/index.js",
+      "hash": "Nm2TKrJuxpRyhNfFQiRtjg=="
     }
   ],
   "renderer": {
     "name": "getRenderer",
-    "filename": "/home/migzubuntu/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/transport/renderer.js",
-    "hash": "dvmJVv5dEETe1frDAHyBsQ=="
+    "filename": "C:/Users/Migz-NZXT/Documents/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es5/transport/renderer.js",
+    "hash": "3jIctPEyA8805JWx5f2dZQ=="
   }
 }
