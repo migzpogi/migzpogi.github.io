@@ -96,5 +96,8 @@ alive or dead.
 * [The True Size Of](https://thetruesize.com/) - Shows a country's true size
 * [github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 * [Sonic Pi](https://sonic-pi.net/) - Code-based music creation and performance tool
-* [Reputation](https://www.theplayerstribune.com/posts/reputation-julius-randle-new-york-knicks-basketball-nba) - By Julius Randle
 * [Remove commits from remote branch](https://stackoverflow.com/questions/3293531/how-to-permanently-remove-few-commits-from-remote-branch) - We all know it is bad yada yada, but sometimes you just have to.
+
+## [article](:Icon) Articles
+* [Reputation](https://www.theplayerstribune.com/posts/reputation-julius-randle-new-york-knicks-basketball-nba) - I'm grateful for the chance to make a second first impression. I'm damn proud to be a Knick.
+* [Donate Unrestricted](http://www.paulgraham.com/donate.html) - If you want to donate to a nonprofit, donate unrestricted. If you trust them to spend your money, trust them to decide how.
