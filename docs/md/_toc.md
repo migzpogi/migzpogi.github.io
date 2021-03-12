@@ -11,6 +11,7 @@
 > :Collapse label=Essays
 >
 > [Progress Bars](/essays/progress-bars)
+> [New Codebase](/essays/new-codebase)
 > [Distractions In Disguise](/essays/distractions)
 > [Importance Of Art](/essays/importance-art)
 > [Ludic Fallacy](/essays/ludic-fallacy)
