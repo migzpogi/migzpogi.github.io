@@ -101,3 +101,6 @@ alive or dead.
 ## [article](:Icon) Articles
 * [Reputation](https://www.theplayerstribune.com/posts/reputation-julius-randle-new-york-knicks-basketball-nba) - I'm grateful for the chance to make a second first impression. I'm damn proud to be a Knick.
 * [Donate Unrestricted](http://www.paulgraham.com/donate.html) - If you want to donate to a nonprofit, donate unrestricted. If you trust them to spend your money, trust them to decide how.
+
+## [cake](:Icon) Fun
+* [XKCD | Circles](https://xkcd.com/2436/)
