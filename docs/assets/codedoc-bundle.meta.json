@@ -74,6 +74,11 @@
       "name": "copyLineLinks",
       "filename": "C:/Users/Migz-NZXT/Documents/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es5/components/code/line-links/copy-line-link.js",
       "hash": "oqgO82PEB+njYmAke2rupQ=="
+    },
+    {
+      "name": "reloadOnChange",
+      "filename": "C:/Users/Migz-NZXT/Documents/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es5/serve/reload.js",
+      "hash": "477ZaR7JJsCrqruJ5chyNA=="
     }
   ],
   "components": [
