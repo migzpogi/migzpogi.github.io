@@ -14,6 +14,7 @@
 > [New Codebase](/essays/new-codebase)
 > [Online Voting](/essays/online-voting)
 > [Best Practices For REST API Design](/essays/rest-practices)
+> [Energy For Hobbies](/essays/hobbies)
 > [Distractions In Disguise](/essays/distractions)
 > [Importance Of Art](/essays/importance-art)
 > [Ludic Fallacy](/essays/ludic-fallacy)
