@@ -107,3 +107,4 @@ alive or dead.
 
 ## [cake](:Icon) Fun
 * [XKCD | Circles](https://xkcd.com/2436/)
+* [Explosm | Noise Canceling](https://explosm.net/comics/5825/)
