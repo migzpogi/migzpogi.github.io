@@ -103,6 +103,7 @@ alive or dead.
 * [Donate Unrestricted](http://www.paulgraham.com/donate.html) - If you want to donate to a nonprofit, donate unrestricted. If you trust them to spend your money, trust them to decide how.
 * [Remove commits from remote branch](https://stackoverflow.com/questions/3293531/how-to-permanently-remove-few-commits-from-remote-branch) - We all know it is bad yada yada, but sometimes you just have to.
 * [ISO 8601](https://kirby.kevinson.org/blog/iso-8601-the-better-date-format/) - The only date format we should be using.
+* [Write Libraries Where Possible](http://catern.com/services.html) - The only date format we should be using.
 
 
 ## [cake](:Icon) Fun
