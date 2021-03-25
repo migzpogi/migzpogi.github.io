@@ -15,6 +15,7 @@
 > [Online Voting](/essays/online-voting)
 > [Best Practices For REST API Design](/essays/rest-practices)
 > [Energy For Hobbies](/essays/hobbies)
+> [Toxic And Woke Orgs](/essays/toxic-work-orgs)
 > [Distractions In Disguise](/essays/distractions)
 > [Importance Of Art](/essays/importance-art)
 > [Ludic Fallacy](/essays/ludic-fallacy)
