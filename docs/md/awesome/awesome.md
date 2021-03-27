@@ -50,6 +50,7 @@ alive or dead.
 * [How To Speak - Patrick Winston](https://www.youtube.com/watch?v=Unzc731iCUY) -  Improve your speaking ability in critical situations by teaching you a few heuristic rules.
 * [Take That For Data](https://www.youtube.com/watch?v=LGN5S-X9wIw&t=1s) - Fizdale's postgame rant
 * [Tom Scott | Explosions](https://www.youtube.com/watch?v=nqJiWbD08Yw) - Why real explosions don't look like movie explosions
+* [CGP Grey | Metric Paper & Everything In The Universe](https://www.youtube.com/watch?v=pUF5esTscZI) - A4 paper and everything in the universe
 
 ## [menu_book](:Icon) Books 
 ### 2021
