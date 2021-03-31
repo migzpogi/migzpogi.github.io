@@ -112,3 +112,4 @@ alive or dead.
 ## [cake](:Icon) Fun
 * [XKCD | Circles](https://xkcd.com/2436/)
 * [Explosm | Noise Canceling](https://explosm.net/comics/5825/)
+* [Penny Arcade | Pokemonopoly](https://www.penny-arcade.com/comic/2021/03/29/cards)
