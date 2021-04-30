@@ -53,6 +53,7 @@ alive or dead.
 * [CGP Grey | Metric Paper & Everything In The Universe](https://www.youtube.com/watch?v=pUF5esTscZI) - A4 paper and everything in the universe
 * [The Fastest Way To Loop In Python](https://www.youtube.com/watch?v=Qgevy75co8c) - numpy > sum range > for > while
 * [Let's Crack Zodiac - Episode 5 - The 340 Is Solved!](https://www.youtube.com/watch?v=-1oQLPRE21o) - The Zodiac Killer's cipher solved
+* [Saul Teaches Jesse Money Laundering](https://www.youtube.com/watch?v=RhsUHDJ0BFM) - Saul Goodman teaches Jesse Pinkman how to launder his money with a nail salon.
 
 ## [menu_book](:Icon) Books 
 ### 2021
