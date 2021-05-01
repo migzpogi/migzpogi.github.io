@@ -54,6 +54,7 @@ alive or dead.
 * [The Fastest Way To Loop In Python](https://www.youtube.com/watch?v=Qgevy75co8c) - numpy > sum range > for > while
 * [Let's Crack Zodiac - Episode 5 - The 340 Is Solved!](https://www.youtube.com/watch?v=-1oQLPRE21o) - The Zodiac Killer's cipher solved
 * [Saul Teaches Jesse Money Laundering](https://www.youtube.com/watch?v=RhsUHDJ0BFM) - Saul Goodman teaches Jesse Pinkman how to launder his money with a nail salon.
+* [The Future Of Reasoning](https://www.youtube.com/watch?v=_ArVh3Cj9rw) - Reasoning is a group activity.
 
 ## [menu_book](:Icon) Books 
 ### 2021
