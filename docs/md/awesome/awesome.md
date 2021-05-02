@@ -30,6 +30,10 @@ food and water, and yet somehow they still made time to create art. Almost as if
   * > :Collapse label=short, Favorite episodes
 > * [Madmen - Layers of Meaning](https://www.youtube.com/watch?v=uQ1Rbdi189w) - I honestly thought this show was about
 gangsters.
+* [Tom Scott](https://www.youtube.com/channel/UCBa659QWEk1AI4Tg--mrJ2A)
+  * > :Collapse label=short, Favorite episodes
+> * [Explosions](https://www.youtube.com/watch?v=nqJiWbD08Yw) - Why real explosions don't look like movie explosions
+> * [Why Electronic Voting Is Still A Bad Idea](https://www.youtube.com/watch?v=LkH2r-sNjQs) - We still shouldn't be using electronic voting. Here's why. 
 * [Stuff Made Here](https://www.youtube.com/channel/UCj1VqrHhDte54oLgPG4xpuQ)
 
 ### Others
@@ -49,7 +53,6 @@ alive or dead.
 * [The Art of Code - Dylan Beattie](https://www.youtube.com/watch?v=6avJHaC3C2U) - Finally, a rockstar developer.
 * [How To Speak - Patrick Winston](https://www.youtube.com/watch?v=Unzc731iCUY) -  Improve your speaking ability in critical situations by teaching you a few heuristic rules.
 * [Take That For Data](https://www.youtube.com/watch?v=LGN5S-X9wIw&t=1s) - Fizdale's postgame rant
-* [Tom Scott | Explosions](https://www.youtube.com/watch?v=nqJiWbD08Yw) - Why real explosions don't look like movie explosions
 * [CGP Grey | Metric Paper & Everything In The Universe](https://www.youtube.com/watch?v=pUF5esTscZI) - A4 paper and everything in the universe
 * [The Fastest Way To Loop In Python](https://www.youtube.com/watch?v=Qgevy75co8c) - numpy > sum range > for > while
 * [Let's Crack Zodiac - Episode 5 - The 340 Is Solved!](https://www.youtube.com/watch?v=-1oQLPRE21o) - The Zodiac Killer's cipher solved
