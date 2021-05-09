@@ -62,6 +62,8 @@ alive or dead.
 
 ## [menu_book](:Icon) Books 
 ### 2021
+* Anansi Boys by Neil Gaiman
+* Eleven Rings: The Soul Of Success by Phil Jackson
 * The Neil Gaiman Reader: Selected Fiction by Neil Gaiman
 
 ### 2020
