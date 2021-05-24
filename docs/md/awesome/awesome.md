@@ -36,6 +36,9 @@ gangsters.
 > * [Explosions](https://www.youtube.com/watch?v=nqJiWbD08Yw) - Why real explosions don't look like movie explosions
 > * [Why Electronic Voting Is Still A Bad Idea](https://www.youtube.com/watch?v=LkH2r-sNjQs) - We still shouldn't be using electronic voting. Here's why. 
 > * [Taking The Emergency Exit From A Wind Turbine](https://www.youtube.com/watch?v=UWSckm8zTc8) - Wind turbines have emergency exits, but they might not be for the reason you think. 
+* [Mark Rober](https://www.youtube.com/channel/UCY1kMZp36IQSyNx_9h4mpCg)
+  * > :Collapse label=short, Favorite episodes
+  * [Backyard Squirrel Maze 2.0- The Walnut Heist](https://www.youtube.com/watch?v=DTvS9lvRxZ8) - The dedication of this guy.
 * [Stuff Made Here](https://www.youtube.com/channel/UCj1VqrHhDte54oLgPG4xpuQ)
 
 ### Others
