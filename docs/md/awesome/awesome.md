@@ -39,6 +39,7 @@ gangsters.
 * [Mark Rober](https://www.youtube.com/channel/UCY1kMZp36IQSyNx_9h4mpCg)
   * > :Collapse label=short, Favorite episodes
   * [Backyard Squirrel Maze 2.0- The Walnut Heist](https://www.youtube.com/watch?v=DTvS9lvRxZ8) - The dedication of this guy.
+  * [Is NASA a waste of money?](https://www.youtube.com/watch?v=lARpY0nIQx0) - 5 reasons NASA is da best.
 * [Stuff Made Here](https://www.youtube.com/channel/UCj1VqrHhDte54oLgPG4xpuQ)
 
 ### Others
