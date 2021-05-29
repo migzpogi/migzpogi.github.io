@@ -40,6 +40,10 @@ gangsters.
   * > :Collapse label=short, Favorite episodes
   * [Backyard Squirrel Maze 2.0- The Walnut Heist](https://www.youtube.com/watch?v=DTvS9lvRxZ8) - The dedication of this guy.
   * [Is NASA a waste of money?](https://www.youtube.com/watch?v=lARpY0nIQx0) - 5 reasons NASA is da best.
+* [Veritasium](https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA) 
+  * > :Collapse label=short, Favorite episodes
+  * [The Discovery That Transformed Pi](https://www.youtube.com/watch?v=gMlf1ELvRzc) - For thousands of years, mathematicians were calculating Pi the obvious but numerically inefficient way. Then Newton came along  and changed the game.
+  * [These Pools Help Support Half The People On Earth](https://www.youtube.com/watch?v=YMDJA4UvXLA) - I didn't know that potassium came from potash which is literally ash from a pot.
 * [Stuff Made Here](https://www.youtube.com/channel/UCj1VqrHhDte54oLgPG4xpuQ)
 
 ### Others
@@ -52,7 +56,6 @@ alive or dead.
 * [Rafael Nadal: Rally | Nike](https://www.youtube.com/watch?v=1tSDyLeUwJ4) - Nike ad for my favorite tennis player, Rafael Nadal.
 * [TED | Linus Torvalds](https://www.ted.com/talks/linus_torvalds_the_mind_behind_linux) - The mind behind Linux
 * [Sax-A-Boom](https://www.youtube.com/watch?v=cLmCJKT5ssw) - Jack Black plays the Sax-A-Boom
-* [Veritasium | These Pools Help Support Half The People On Earth](https://www.youtube.com/watch?v=YMDJA4UvXLA) - I didn't know that potassium came from potash which is literally ash from a pot.
 * [Damian Lillard Game Winner](https://streamable.com/vflu6r) - Damian Lillard's shot against Paul George
 * [Sicario Mexico Border Scene](https://www.youtube.com/watch?v=LzKwClRvRco) - My favorite scene of a movie.
 * [A Few Good Men | You Can't Handle The Truth](https://www.youtube.com/watch?v=9FnO3igOkOk) - My second favorite scene of a movie.
