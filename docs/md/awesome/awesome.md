@@ -27,6 +27,7 @@ reason to have fun and live as happy as possible.
 and there were no large caloric surpluses. So every healthy person would have had to contribute to the acquisition of 
 food and water, and yet somehow they still made time to create art. Almost as if art isn't optional.
 > * [TRUE Limits Of Humanity – The Final Border We Will Never Cross](https://www.youtube.com/watch?v=uzkD5SeuwzM) - How much universe is there for us and how far can we go?
+> * [What Are You Doing With Your Life? The Tail End](https://www.youtube.com/watch?v=JXeJANDKwDc) - Reprioritize things.
 * [Lessons From The Screenplay](https://www.youtube.com/channel/UCErSSa3CaP_GJxmFpdjG9Jw)
   * > :Collapse label=short, Favorite episodes
 > * [Madmen - Layers of Meaning](https://www.youtube.com/watch?v=uQ1Rbdi189w) - I honestly thought this show was about
@@ -38,12 +39,12 @@ gangsters.
 > * [Taking The Emergency Exit From A Wind Turbine](https://www.youtube.com/watch?v=UWSckm8zTc8) - Wind turbines have emergency exits, but they might not be for the reason you think. 
 * [Mark Rober](https://www.youtube.com/channel/UCY1kMZp36IQSyNx_9h4mpCg)
   * > :Collapse label=short, Favorite episodes
-  * [Backyard Squirrel Maze 2.0- The Walnut Heist](https://www.youtube.com/watch?v=DTvS9lvRxZ8) - The dedication of this guy.
-  * [Is NASA a waste of money?](https://www.youtube.com/watch?v=lARpY0nIQx0) - 5 reasons NASA is da best.
+  > * [Backyard Squirrel Maze 2.0- The Walnut Heist](https://www.youtube.com/watch?v=DTvS9lvRxZ8) - The dedication of this guy.
+  > * [Is NASA a waste of money?](https://www.youtube.com/watch?v=lARpY0nIQx0) - 5 reasons NASA is da best.
 * [Veritasium](https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA) 
   * > :Collapse label=short, Favorite episodes
-  * [The Discovery That Transformed Pi](https://www.youtube.com/watch?v=gMlf1ELvRzc) - For thousands of years, mathematicians were calculating Pi the obvious but numerically inefficient way. Then Newton came along  and changed the game.
-  * [These Pools Help Support Half The People On Earth](https://www.youtube.com/watch?v=YMDJA4UvXLA) - I didn't know that potassium came from potash which is literally ash from a pot.
+  > * [The Discovery That Transformed Pi](https://www.youtube.com/watch?v=gMlf1ELvRzc) - For thousands of years, mathematicians were calculating Pi the obvious but numerically inefficient way. Then Newton came along  and changed the game.
+  > * [These Pools Help Support Half The People On Earth](https://www.youtube.com/watch?v=YMDJA4UvXLA) - I didn't know that potassium came from potash which is literally ash from a pot.
 * [Stuff Made Here](https://www.youtube.com/channel/UCj1VqrHhDte54oLgPG4xpuQ)
 
 ### Others
