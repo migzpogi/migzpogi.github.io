@@ -70,6 +70,7 @@ alive or dead.
 * [The Future Of Reasoning](https://www.youtube.com/watch?v=_ArVh3Cj9rw) - Reasoning is a group activity.
 * [how we write/review code in big tech companies](https://www.youtube.com/watch?v=rR4n-0KYeKQ) - I have no idea what I'm doing.
 * [Unpickable Locks From Stuff Made Here](https://www.youtube.com/watch?v=Ecy1FBdCRbQ) - Best collab video in the internet. LPL x Stuff Made Here
+* [Super Mario Bros: The Human Limit](https://www.youtube.com/watch?v=7rIJNT7dCmE) - Explaining speed runs and the limits of human
 
 ## [menu_book](:Icon) Books 
 ### 2021
