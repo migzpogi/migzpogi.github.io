@@ -1,4 +1,34 @@
-# 20 Bits of Unsolicited Advice
+# Advices
+*A witty saying proves nothing. -Voltaire.*
+
+---
+
+## Uncategorized
+* Talk to people more.  Read more long content and less tweets.  Watch less TV.  Spend less time on the Internet.
+* However, as valuable as planning is, if a great opportunity comes along you should take it.
+* Get rid of distractions in your life. 
+* Don’t worry so much.  Things in life are rarely as risky as they seem. 
+* Ask for what you want. 
+* Go out of your way to help people.  Few things in life are as satisfying.  Be nice to strangers.  Be nice even when it doesn’t matter.
+* Youth is a really great thing.  Don’t waste it.  In fact, in your 20s, I think it’s ok to take a “Give me financial discipline, but not just yet” attitude.  All the money in the world will never get back time that passed you by.
+* Don’t screw people and don’t burn bridges.  Pick your battles carefully.
+* Forgive people. 
+
+## Possessions
+* Things you use for a significant fraction of your life such as beds and chairs are worth investing in.
+* If you are looking for your "good" X then you have a "bad" X. Throw those out.
+* Establish clear rules about when to throw out old junk. Once clear rules are established, junk will probably
+cease to be a problem.
+
+## Productivity
+* Done is better than perfect.
+* Discipline is superior than motivation.
+* How you spend your day is how you spend your life.
+
+## Self
+* Deficiencies do not make you special.
+* Things that aren't your fault can still be your responsibility.
+* Compliment people more.
 
 ## Relationship With Other People
 * Learn how to learn from those you disagree with, or even offend you. See if you can find the truth in what they 
@@ -42,7 +72,14 @@ where you found it. Put it back where you first looked for it.
 using some tool for a job, buy the very best you can afford.
 
 
+## Sources
+* [The Days Are Long But The Decades Are Short](https://blog.samaltman.com/the-days-are-long-but-the-decades-are-short)
+* [Tips For A Better Life](https://ideopunk.com/blog/tipsforabetterlife)
+* [Unsolicited Advice](https://kk.org/thetechnium/68-bits-of-unsolicited-advice/)
+
 > :Buttons
-> > :Button label=description, url="https://kk.org/thetechnium/68-bits-of-unsolicited-advice/", icon=true
+> > :Button label=Source, url="https://99percentinvisible.org/episode/wait-wait-tell-me/"
+>
+> > :Button label=See Also, url="https://www.youtube.com/watch?v=iZnLZFRylbs"
 
 > :ToCPrevNext
