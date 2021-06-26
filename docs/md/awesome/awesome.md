@@ -16,6 +16,7 @@ A curated list of things I find awesome. Inspired by the [awesome list](https://
 > * [Zac Efron](https://www.youtube.com/watch?v=J5nz24jrLDE)
 > * [T-Pain](https://www.youtube.com/watch?v=O0g2EtKFAcA) 
 > * [T-Pain Pt. 2](https://www.youtube.com/watch?v=OSurn7YvpGk)
+> * [Gordon Ramsay](https://www.youtube.com/watch?v=U9DyHthJ6LA)
 * [Kurzgesagt](https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q)
   * > :Collapse label=short, Favorite episodes
 > * [An Antidote to Dissatisfaction](https://www.youtube.com/watch?v=WPPPFqsECz0) - Gratitude: while it may sound like 
