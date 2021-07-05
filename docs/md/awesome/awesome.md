@@ -131,7 +131,7 @@ alive or dead.
 * [ISO 8601](https://kirby.kevinson.org/blog/iso-8601-the-better-date-format/) - The only date format we should be using.
 * [Write Libraries Where Possible](http://catern.com/services.html) - The only date format we should be using
 * [How I Make Podcasts](https://www.caseyliss.com/2014/11/22/how-i-make-podcasts) - Casey Liss is a host in one of my favorite podcasts: ATP
-
+* [The Tail End](https://waitbutwhy.com/2015/12/the-tail-end.html) - Quality time matters.
 
 ## [cake](:Icon) Fun
 * [XKCD | Circles](https://xkcd.com/2436/)
