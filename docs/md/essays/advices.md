@@ -77,9 +77,4 @@ using some tool for a job, buy the very best you can afford.
 * [Tips For A Better Life](https://ideopunk.com/blog/tipsforabetterlife)
 * [Unsolicited Advice](https://kk.org/thetechnium/68-bits-of-unsolicited-advice/)
 
-> :Buttons
-> > :Button label=Source, url="https://99percentinvisible.org/episode/wait-wait-tell-me/"
->
-> > :Button label=See Also, url="https://www.youtube.com/watch?v=iZnLZFRylbs"
-
 > :ToCPrevNext

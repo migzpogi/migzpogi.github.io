@@ -10,6 +10,7 @@
 
 > :Collapse label=Essays
 >
+> [Mise-en-place for Knowledge Workers](/essays/mise-en-place)
 > [Advices](/essays/advices)
 > [Progress Bars](/essays/progress-bars)
 > [New Codebase](/essays/new-codebase)
