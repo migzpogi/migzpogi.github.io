@@ -72,6 +72,7 @@ alive or dead.
 * [how we write/review code in big tech companies](https://www.youtube.com/watch?v=rR4n-0KYeKQ) - I have no idea what I'm doing.
 * [Unpickable Locks From Stuff Made Here](https://www.youtube.com/watch?v=Ecy1FBdCRbQ) - Best collab video in the internet. LPL x Stuff Made Here
 * [Super Mario Bros: The Human Limit](https://www.youtube.com/watch?v=7rIJNT7dCmE) - Explaining speed runs and the limits of human
+* [BrainCraft | Procrastination](https://www.youtube.com/watch?v=v7RX_5eGNJM) - Many people think procrastination is the opposite of productivity. 
 
 ## [menu_book](:Icon) Books 
 ### 2021
