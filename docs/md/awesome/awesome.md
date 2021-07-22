@@ -74,6 +74,13 @@ alive or dead.
 * [Super Mario Bros: The Human Limit](https://www.youtube.com/watch?v=7rIJNT7dCmE) - Explaining speed runs and the limits of human
 * [BrainCraft | Procrastination](https://www.youtube.com/watch?v=v7RX_5eGNJM) - Many people think procrastination is the opposite of productivity. 
 
+### NBA Finals 2021
+* [Giannis x Father Stretch My Hands](https://www.reddit.com/r/nba/comments/omp8j9/giannis_x_father_stretch_my_hands/)
+* [Giannis Ego, Pride, Humility](https://twitter.com/Bucks/status/1416201484622917633)
+* [Giannis Block](https://www.reddit.com/r/nba/comments/okl4tt/highlight_gianniss_gamesaving_block_on_deandre/)
+* [Kevin Durant Clutch](https://www.reddit.com/r/nba/comments/o0w4w2/highlight_kevin_durant_comes_up_clutch_late_in/)
+* [Ayton Alley-Oop](https://www.reddit.com/r/suns/comments/o6akkf/amazing_angle_of_the_valleyoop_i_found_on_twitter/)
+
 ## [menu_book](:Icon) Books 
 ### 2021
 * Becoming by Michelle Obama
