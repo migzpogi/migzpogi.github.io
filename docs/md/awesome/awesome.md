@@ -141,6 +141,7 @@ alive or dead.
 * [Write Libraries Where Possible](http://catern.com/services.html) - The only date format we should be using
 * [How I Make Podcasts](https://www.caseyliss.com/2014/11/22/how-i-make-podcasts) - Casey Liss is a host in one of my favorite podcasts: ATP
 * [The Tail End](https://waitbutwhy.com/2015/12/the-tail-end.html) - Quality time matters.
+* [Why Should I Care About Climate Change](https://www.reddit.com/r/TooAfraidToAsk/comments/osmydt/if_100_companies_are_responsible_for_71_of/) -  Don’t let the impossibility of perfection stop you from trying to improve.t
 
 ## [cake](:Icon) Fun
 * [XKCD | Circles](https://xkcd.com/2436/)
