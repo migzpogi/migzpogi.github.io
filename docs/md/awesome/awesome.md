@@ -142,6 +142,7 @@ alive or dead.
 * [How I Make Podcasts](https://www.caseyliss.com/2014/11/22/how-i-make-podcasts) - Casey Liss is a host in one of my favorite podcasts: ATP
 * [The Tail End](https://waitbutwhy.com/2015/12/the-tail-end.html) - Quality time matters.
 * [Why Should I Care About Climate Change](https://www.reddit.com/r/TooAfraidToAsk/comments/osmydt/if_100_companies_are_responsible_for_71_of/) -  Don’t let the impossibility of perfection stop you from trying to improve.t
+* [Command Line Interface Guidelines](https://clig.dev/) - An open-source guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
 
 ## [cake](:Icon) Fun
 * [XKCD | Circles](https://xkcd.com/2436/)
