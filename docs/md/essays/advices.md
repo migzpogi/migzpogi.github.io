@@ -1,4 +1,4 @@
-# Advices
+# (Cherry-picked) Advices
 *A witty saying proves nothing. -Voltaire.*
 
 ---
@@ -78,10 +78,18 @@ using some tool for a job, buy the very best you can afford.
 * Establish clear rules about when to throw out old junk. Once clear rules are established, junk will probably
 cease to be a problem.
 
+## Career
+* The best way I've advanced my career is by changing companies.
+* Tests are important but TDD is a damn cult.
+* Being a good engineer means knowing best practices. Being a senior engineer means knowing when to break best practices.
+* If people are trying to assign blame to a bug or outage, it's time to move on.
+
+
 ## Sources
 * [The Days Are Long But The Decades Are Short](https://blog.samaltman.com/the-days-are-long-but-the-decades-are-short)
 * [Tips For A Better Life](https://ideopunk.com/blog/tipsforabetterlife)
 * [Unsolicited Advice](https://kk.org/thetechnium/68-bits-of-unsolicited-advice/)
 * [99 Additional Bits of Unsolicited Advice](https://kk.org/thetechnium/99-additional-bits-of-unsolicited-advice/)
+* [Things I've learned as a Sr Engineer](https://old.reddit.com/r/ExperiencedDevs/comments/nmodyl/drunk_post_things_ive_learned_as_a_sr_engineer/)
 
 > :ToCPrevNext
