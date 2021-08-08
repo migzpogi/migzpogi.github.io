@@ -143,6 +143,7 @@ alive or dead.
 * [The Tail End](https://waitbutwhy.com/2015/12/the-tail-end.html) - Quality time matters.
 * [Why Should I Care About Climate Change](https://www.reddit.com/r/TooAfraidToAsk/comments/osmydt/if_100_companies_are_responsible_for_71_of/) -  Don’t let the impossibility of perfection stop you from trying to improve.t
 * [Command Line Interface Guidelines](https://clig.dev/) - An open-source guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
+* [An incomplete list of skills senior engineers need, beyond coding](https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f)
 
 ## [cake](:Icon) Fun
 * [XKCD | Circles](https://xkcd.com/2436/)
