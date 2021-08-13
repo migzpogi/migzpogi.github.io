@@ -134,6 +134,7 @@ alive or dead.
 * [Bartosz Ciechanowski](https://ciechanow.ski/archives/) - One of the best websites out there.
 * [Ticker](https://github.com/achannarasappa/ticker) - Terminal stock watcher and position tracker.
 * [Taskwarrior](https://taskwarrior.org/) - TODO list from the command line.
+* [Mitype](https://github.com/Mithil467/mitype) - Typing speed test in terminal.
 
 ## [article](:Icon) Articles
 * [Reputation](https://www.theplayerstribune.com/posts/reputation-julius-randle-new-york-knicks-basketball-nba) - I'm grateful for the chance to make a second first impression. I'm damn proud to be a Knick.
