@@ -137,6 +137,7 @@ alive or dead.
 * [Mitype](https://github.com/Mithil467/mitype) - Typing speed test in terminal.
 * [Pronouncing Non-English Names for English Speakers](https://github.com/SteveMCarroll/PronouncingNamesForEnglishSpeakers) -  A practical guide.
 * [Gooey](https://github.com/chriskiehl/Gooey) - Turn almost any Python 2/3 console program into a GUI application
+* [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
 ## [article](:Icon) Articles
 * [Reputation](https://www.theplayerstribune.com/posts/reputation-julius-randle-new-york-knicks-basketball-nba) - I'm grateful for the chance to make a second first impression. I'm damn proud to be a Knick.
