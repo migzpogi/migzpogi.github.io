@@ -137,6 +137,7 @@ alive or dead.
 * [Mitype](https://github.com/Mithil467/mitype) - Typing speed test in terminal.
 * [Pronouncing Non-English Names for English Speakers](https://github.com/SteveMCarroll/PronouncingNamesForEnglishSpeakers) -  A practical guide.
 * [Gooey](https://github.com/chriskiehl/Gooey) - Turn almost any Python 2/3 console program into a GUI application
+* [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
 ## [article](:Icon) Articles
 * [Reputation](https://www.theplayerstribune.com/posts/reputation-julius-randle-new-york-knicks-basketball-nba) - I'm grateful for the chance to make a second first impression. I'm damn proud to be a Knick.
@@ -149,6 +150,7 @@ alive or dead.
 * [Why Should I Care About Climate Change](https://www.reddit.com/r/TooAfraidToAsk/comments/osmydt/if_100_companies_are_responsible_for_71_of/) -  Don’t let the impossibility of perfection stop you from trying to improve.t
 * [Command Line Interface Guidelines](https://clig.dev/) - An open-source guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
 * [An incomplete list of skills senior engineers need, beyond coding](https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f)
+* [Fake Downtown LA Freeway Sign](https://www.motorbiscuit.com/guerrilla-artist-fakes-downtown-la-freeway-sign-stays-up-for-years/)
 
 ## [cake](:Icon) Fun
 * [XKCD | Circles](https://xkcd.com/2436/)
