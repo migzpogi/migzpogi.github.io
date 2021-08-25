@@ -151,6 +151,7 @@ alive or dead.
 * [Command Line Interface Guidelines](https://clig.dev/) - An open-source guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
 * [An incomplete list of skills senior engineers need, beyond coding](https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f)
 * [Fake Downtown LA Freeway Sign](https://www.motorbiscuit.com/guerrilla-artist-fakes-downtown-la-freeway-sign-stays-up-for-years/)
+* [You don't need to work on hard problems](https://www.benkuhn.net/hard/)
 
 ## [cake](:Icon) Fun
 * [XKCD | Circles](https://xkcd.com/2436/)
