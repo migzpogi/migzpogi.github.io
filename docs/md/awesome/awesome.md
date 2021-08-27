@@ -152,6 +152,7 @@ alive or dead.
 * [An incomplete list of skills senior engineers need, beyond coding](https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f)
 * [Fake Downtown LA Freeway Sign](https://www.motorbiscuit.com/guerrilla-artist-fakes-downtown-la-freeway-sign-stays-up-for-years/)
 * [You don't need to work on hard problems](https://www.benkuhn.net/hard/)
+* [How to run cron jobs every 5 minutes](https://linuxize.com/post/cron-jobs-every-5-10-15-minutes/)
 
 ## [cake](:Icon) Fun
 * [XKCD | Circles](https://xkcd.com/2436/)
