@@ -165,3 +165,4 @@ alive or dead.
 * [How A Sewing Machine Works](https://www.reddit.com/r/woahdude/comments/o49rhf/how_a_sewing_machine_works/)
 * [Ask a bartender a question](https://www.datasecretslox.com/index.php/topic,4086.msg135692.html)
 * [Spider-Man: No Way Home Trailer Cartoon Style](https://www.youtube.com/watch?v=IrrgeCuKPz4)
+* [Perceptual Illusions](https://nautil.us/blog/12-mind_bending-perceptual-illusions)
