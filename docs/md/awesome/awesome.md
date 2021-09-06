@@ -84,6 +84,7 @@ alive or dead.
 
 ## [menu_book](:Icon) Books 
 ### 2021
+* Catch-22 by Joseph Heller
 * Becoming by Michelle Obama
 * Anansi Boys by Neil Gaiman
 * Eleven Rings: The Soul Of Success by Phil Jackson
