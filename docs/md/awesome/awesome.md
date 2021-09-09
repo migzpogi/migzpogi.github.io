@@ -154,6 +154,7 @@ alive or dead.
 * [Fake Downtown LA Freeway Sign](https://www.motorbiscuit.com/guerrilla-artist-fakes-downtown-la-freeway-sign-stays-up-for-years/)
 * [You don't need to work on hard problems](https://www.benkuhn.net/hard/)
 * [How to run cron jobs every 5 minutes](https://linuxize.com/post/cron-jobs-every-5-10-15-minutes/)
+* [Big company tale: six months for a list and a button](https://rachelbythebay.com/w/2021/08/28/big/)
 
 ## [cake](:Icon) Fun
 * [XKCD | Circles](https://xkcd.com/2436/)
