@@ -156,6 +156,7 @@ alive or dead.
 * [You don't need to work on hard problems](https://www.benkuhn.net/hard/)
 * [How to run cron jobs every 5 minutes](https://linuxize.com/post/cron-jobs-every-5-10-15-minutes/)
 * [Big company tale: six months for a list and a button](https://rachelbythebay.com/w/2021/08/28/big/)
+* [The Quiet World](https://www.poetryfoundation.org/poems/49238/the-quiet-world)
 
 ## [cake](:Icon) Fun
 * [XKCD | Circles](https://xkcd.com/2436/)
