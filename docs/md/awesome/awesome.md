@@ -157,6 +157,7 @@ alive or dead.
 * [How to run cron jobs every 5 minutes](https://linuxize.com/post/cron-jobs-every-5-10-15-minutes/)
 * [Big company tale: six months for a list and a button](https://rachelbythebay.com/w/2021/08/28/big/)
 * [The Quiet World](https://www.poetryfoundation.org/poems/49238/the-quiet-world)
+* [Flowers make a nice gift](https://www.echevarria.io/blog/flowers-make-a-nice-gift/index.html)
 
 ## [cake](:Icon) Fun
 * [XKCD | Circles](https://xkcd.com/2436/)
