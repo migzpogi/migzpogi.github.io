@@ -4,7 +4,7 @@
 * [keyboard](:Icon) Mechanical keyboards  
 
 I am currently working on a personal project called [azdo-cli](https://pypi.org/project/azdo-cli/), a command-line
-interface client for Azure DevOps.
+interface client for Azure DevOps; reading Catch-22 by Joseph Heller; and playing World of Warcraft after ten years.
 
 > :Buttons
 > > :Button label=Github, url="https://github.com/migzpogi"
