@@ -158,6 +158,7 @@ alive or dead.
 * [Big company tale: six months for a list and a button](https://rachelbythebay.com/w/2021/08/28/big/)
 * [The Quiet World](https://www.poetryfoundation.org/poems/49238/the-quiet-world)
 * [Flowers make a nice gift](https://www.echevarria.io/blog/flowers-make-a-nice-gift/index.html)
+* [Wget and Curl from github](https://gist.github.com/jwebcat/5122366)
 
 ## [cake](:Icon) Fun
 * [XKCD | Circles](https://xkcd.com/2436/)
