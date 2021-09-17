@@ -1,5 +1,7 @@
 [Home](/)
 
+[Awesome Stuff](/awesome/awesome)
+
 > :Collapse label=Project Euler
 >
 > [001](/euler/001)
@@ -32,6 +34,4 @@
 > [charm-crypto for Windows](/blog/charmforwindows)
 > [2020 Quarantine Gaming List](/blog/games)
 > [First Built Keyboard](/blog/kbd75)
-
-[Awesome Stuff](/awesome/awesome)
 
