@@ -153,6 +153,7 @@ alive or dead.
 * [The Quiet World](https://www.poetryfoundation.org/poems/49238/the-quiet-world)
 * [Flowers make a nice gift](https://www.echevarria.io/blog/flowers-make-a-nice-gift/index.html)
 * [Wget and Curl from github](https://gist.github.com/jwebcat/5122366)
+* [How percentile approximation works](https://blog.timescale.com/blog/how-percentile-approximation-works-and-why-its-more-useful-than-averages/)
 
 ## [cake](:Icon) Fun
 * [XKCD | Circles](https://xkcd.com/2436/)
