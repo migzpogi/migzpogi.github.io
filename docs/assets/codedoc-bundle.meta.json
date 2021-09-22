@@ -98,14 +98,14 @@
       "hash": "cENvn186VTFomXH41rxoNg=="
     },
     {
-      "name": "ToCPrevNext",
-      "filename": "C:/Users/Migz-NZXT/Documents/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es5/components/page/toc/prevnext/index.js",
-      "hash": "Nm2TKrJuxpRyhNfFQiRtjg=="
-    },
-    {
       "name": "TabSelector",
       "filename": "C:/Users/Migz-NZXT/Documents/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es5/components/tabs/selector.js",
       "hash": "4gB8PPOMhTAsadzFtD6Puw=="
+    },
+    {
+      "name": "ToCPrevNext",
+      "filename": "C:/Users/Migz-NZXT/Documents/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es5/components/page/toc/prevnext/index.js",
+      "hash": "Nm2TKrJuxpRyhNfFQiRtjg=="
     }
   ],
   "renderer": {
