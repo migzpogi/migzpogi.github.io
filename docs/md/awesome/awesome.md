@@ -155,6 +155,7 @@ alive or dead.
 * [Wget and Curl from github](https://gist.github.com/jwebcat/5122366)
 * [How percentile approximation works](https://blog.timescale.com/blog/how-percentile-approximation-works-and-why-its-more-useful-than-averages/)
 * [Vacation isn't the answer to employee burnout](https://technical.ly/2021/08/30/vacation-employee-burnout/)
+* [Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
 
 ## [cake](:Icon) Fun
 * [XKCD | Circles](https://xkcd.com/2436/)
