@@ -68,6 +68,7 @@ alive or dead.
 * [Super Mario Bros: The Human Limit](https://www.youtube.com/watch?v=7rIJNT7dCmE) - Explaining speed runs and the limits of human
 * [BrainCraft | Procrastination](https://www.youtube.com/watch?v=v7RX_5eGNJM) - Many people think procrastination is the opposite of productivity. 
 * [Student pilot loses engine](https://www.youtube.com/watch?v=PTrLxkVOShg) - Keeping cool under pressure
+* [Active Ball Joint Mechanism](https://www.youtube.com/watch?v=AHUv9Zda_48)
 
 ### NBA Finals 2021
 * [Giannis x Father Stretch My Hands](https://www.reddit.com/r/nba/comments/omp8j9/giannis_x_father_stretch_my_hands/)
