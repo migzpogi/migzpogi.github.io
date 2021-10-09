@@ -4,7 +4,8 @@
 
 > :Collapse label=Guides
 >
-> [MongoDB in Debian 10](/guides/mongodb)
+> [MongoDB for Debian 10](/guides/mongodb)
+> [Node.js for  Ubuntu 20.04](/guides/nodeubuntu)
 
 
 > :Collapse label=Project Euler

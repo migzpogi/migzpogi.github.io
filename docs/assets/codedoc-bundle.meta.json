@@ -2,115 +2,125 @@
   "init": [
     {
       "name": "initJssCs",
-      "filename": "C:/Users/Migz-NZXT/Documents/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es5/transport/setup-jss.js",
-      "hash": "JmWFh2iQ8tz4whzSpy7Qvg=="
+      "filename": "/home/migzwslnzxt/ubuntu_gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/transport/setup-jss.js",
+      "hash": "Mrcr6Gu/QJkHN7V/aFE1Mw=="
     },
     {
       "name": "installTheme",
-      "filename": "C:/Users/Migz-NZXT/Documents/gitprojects/migzpogi.github.io/.codedoc/content/theme.ts",
-      "hash": "S+59uYfjNGE472ewhRFdLg=="
+      "filename": "/home/migzwslnzxt/ubuntu_gitprojects/migzpogi.github.io/.codedoc/content/theme.ts",
+      "hash": "cZM43664Cnz3A/ifzqJX5Q=="
     },
     {
       "name": "zoomOnFormula",
-      "filename": "C:/Users/Migz-NZXT/Documents/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es5/components/formula/zoom-on-formula.js",
-      "hash": "M1MJHy2QjTDDooFFEhLlkw=="
+      "filename": "/home/migzwslnzxt/ubuntu_gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/formula/zoom-on-formula.js",
+      "hash": "SBrh7QPcckQ6qP+rXauXhg=="
     },
     {
       "name": "codeSelection",
-      "filename": "C:/Users/Migz-NZXT/Documents/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es5/components/code/selection.js",
-      "hash": "qnUGKmpJIkFUt1tpNOuSpw=="
+      "filename": "/home/migzwslnzxt/ubuntu_gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/selection.js",
+      "hash": "hgcjy3Qy/fufYPbsaKBxaw=="
     },
     {
       "name": "sameLineLengthInCodes",
-      "filename": "C:/Users/Migz-NZXT/Documents/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es5/components/code/same-line-length.js",
-      "hash": "/75WX7j/jEt39YwT8NhHpw=="
+      "filename": "/home/migzwslnzxt/ubuntu_gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/same-line-length.js",
+      "hash": "czoh/Uvm4/fLLtSmk0IGIg=="
     },
     {
       "name": "initHintBox",
-      "filename": "C:/Users/Migz-NZXT/Documents/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es5/components/code/line-hint/index.js",
-      "hash": "ELecssG2cpIdcmF+QHt7ag=="
+      "filename": "/home/migzwslnzxt/ubuntu_gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-hint/index.js",
+      "hash": "uUEkXNJtkioFvR+6m9//DQ=="
     },
     {
       "name": "initCodeLineRef",
-      "filename": "C:/Users/Migz-NZXT/Documents/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es5/components/code/line-ref/index.js",
-      "hash": "PrhalN8N3uFtC29bbsg5Aw=="
+      "filename": "/home/migzwslnzxt/ubuntu_gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-ref/index.js",
+      "hash": "q1QUSqBJGewUdtny7Dt3lg=="
     },
     {
       "name": "initSmartCopy",
-      "filename": "C:/Users/Migz-NZXT/Documents/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es5/components/code/smart-copy.js",
-      "hash": "/nB31epSIZQ0EC8ivuPihg=="
+      "filename": "/home/migzwslnzxt/ubuntu_gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/smart-copy.js",
+      "hash": "jHLNC+v9VR50b6rY5uU/yw=="
     },
     {
       "name": "copyHeadings",
-      "filename": "C:/Users/Migz-NZXT/Documents/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es5/components/heading/copy-headings.js",
-      "hash": "YcPgwAcDjrOHFBSsy0of+Q=="
+      "filename": "/home/migzwslnzxt/ubuntu_gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/heading/copy-headings.js",
+      "hash": "5U+zHKYYCbrnxu3R5DZCIg=="
     },
     {
       "name": "contentNavHighlight",
-      "filename": "C:/Users/Migz-NZXT/Documents/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es5/components/page/contentnav/highlight.js",
-      "hash": "esHY8gfQjjvoJMfCnjDWFA=="
+      "filename": "/home/migzwslnzxt/ubuntu_gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/contentnav/highlight.js",
+      "hash": "zEXMNPt1Kt62JINKByFSQA=="
     },
     {
       "name": "loadDeferredIFrames",
-      "filename": "C:/Users/Migz-NZXT/Documents/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es5/transport/deferred-iframe.js",
-      "hash": "i+k3qTZy9gjzycP97TsoXg=="
+      "filename": "/home/migzwslnzxt/ubuntu_gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/transport/deferred-iframe.js",
+      "hash": "0bqMfob3ELFaPl0DEhcEDQ=="
     },
     {
       "name": "smoothLoading",
-      "filename": "C:/Users/Migz-NZXT/Documents/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es5/transport/smooth-loading.js",
-      "hash": "oFCW3DySXQFrwcqF7nshmw=="
+      "filename": "/home/migzwslnzxt/ubuntu_gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/transport/smooth-loading.js",
+      "hash": "fufoaswSGLPq/+U74MHhPw=="
     },
     {
       "name": "tocHighlight",
-      "filename": "C:/Users/Migz-NZXT/Documents/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es5/components/page/toc/toc-highlight.js",
-      "hash": "HN5hPrciOmHuPeOlyRjIvQ=="
+      "filename": "/home/migzwslnzxt/ubuntu_gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toc-highlight.js",
+      "hash": "2V9OZrIniS5v1ASYVIsqNA=="
     },
     {
       "name": "postNavSearch",
-      "filename": "C:/Users/Migz-NZXT/Documents/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es5/components/page/toc/search/post-nav/index.js",
-      "hash": "vG3do/XkVVS/roO2lp2vyQ=="
+      "filename": "/home/migzwslnzxt/ubuntu_gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/search/post-nav/index.js",
+      "hash": "Us97mcFxpFsFOhGCwnunIA=="
     },
     {
       "name": "copyLineLinks",
-      "filename": "C:/Users/Migz-NZXT/Documents/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es5/components/code/line-links/copy-line-link.js",
-      "hash": "oqgO82PEB+njYmAke2rupQ=="
+      "filename": "/home/migzwslnzxt/ubuntu_gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-links/copy-line-link.js",
+      "hash": "19q6FoB+Dd+tNK5gcHtbxw=="
+    },
+    {
+      "name": "gatherFootnotes",
+      "filename": "/home/migzwslnzxt/ubuntu_gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/footnote/gather-footnotes.js",
+      "hash": "L12WG3WUtYIwQFlrydE9Rw=="
+    },
+    {
+      "name": "reloadOnChange",
+      "filename": "/home/migzwslnzxt/ubuntu_gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/serve/reload.js",
+      "hash": "PW7tkVQLZtDkUz161j6YbA=="
     }
   ],
   "components": [
     {
       "name": "CollapseControl",
-      "filename": "C:/Users/Migz-NZXT/Documents/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es5/components/collapse/collapse-control.js",
-      "hash": "Ifg8pDJj2CBZ3Z8umrOgDg=="
+      "filename": "/home/migzwslnzxt/ubuntu_gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/collapse/collapse-control.js",
+      "hash": "SpFpnsAKsTQ3acQirgVykA=="
     },
     {
       "name": "ToCToggle",
-      "filename": "C:/Users/Migz-NZXT/Documents/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es5/components/page/toc/toggle/index.js",
-      "hash": "Nh6re0dgnQiGVEdDYkhqmw=="
+      "filename": "/home/migzwslnzxt/ubuntu_gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toggle/index.js",
+      "hash": "+KieMbbjofCG8mi4EMUxhw=="
     },
     {
       "name": "DarkModeSwitch",
-      "filename": "C:/Users/Migz-NZXT/Documents/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es5/components/darkmode/index.js",
-      "hash": "DirrDhSuHWw/BdHCBv7rXQ=="
+      "filename": "/home/migzwslnzxt/ubuntu_gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/darkmode/index.js",
+      "hash": "NqBTEGb5LCZ9A/R386IgBw=="
     },
     {
       "name": "ConfigTransport",
-      "filename": "C:/Users/Migz-NZXT/Documents/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es5/transport/config.js",
-      "hash": "cENvn186VTFomXH41rxoNg=="
+      "filename": "/home/migzwslnzxt/ubuntu_gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/transport/config.js",
+      "hash": "0fzUui8WISeUIekbH6XOXw=="
     },
     {
       "name": "TabSelector",
-      "filename": "C:/Users/Migz-NZXT/Documents/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es5/components/tabs/selector.js",
-      "hash": "4gB8PPOMhTAsadzFtD6Puw=="
+      "filename": "/home/migzwslnzxt/ubuntu_gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/tabs/selector.js",
+      "hash": "gSftm/D577h6CiJyPVdP7Q=="
     },
     {
       "name": "ToCPrevNext",
-      "filename": "C:/Users/Migz-NZXT/Documents/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es5/components/page/toc/prevnext/index.js",
-      "hash": "Nm2TKrJuxpRyhNfFQiRtjg=="
+      "filename": "/home/migzwslnzxt/ubuntu_gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js",
+      "hash": "rO4PjVi70GuVKXXpNrRVhw=="
     }
   ],
   "renderer": {
     "name": "getRenderer",
-    "filename": "C:/Users/Migz-NZXT/Documents/gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es5/transport/renderer.js",
-    "hash": "3jIctPEyA8805JWx5f2dZQ=="
+    "filename": "/home/migzwslnzxt/ubuntu_gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/transport/renderer.js",
+    "hash": "3R862v0mir9hw8EqHwIn6w=="
   }
 }
