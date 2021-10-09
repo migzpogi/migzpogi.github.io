@@ -4,23 +4,26 @@ A curated list of things I find awesome. Inspired by the [awesome list](https://
 ## [theaters](:Icon) Videos
 
 ### Hot Ones
-* [Matthew McConaughey](https://www.youtube.com/watch?v=sz1ovZUA4nQ)
-* [Blake Griffin](https://www.youtube.com/watch?v=41iUdhFi8Gs)
-* [Michael Cera](https://www.youtube.com/watch?v=uBJq-XCP27c)
+* [Big Sean](https://www.youtube.com/watch?v=4VoqwrEEAZM)
 * [Bill Burr](https://www.youtube.com/watch?v=8Lvrikv6oPs)
+* [Blake Griffin](https://www.youtube.com/watch?v=41iUdhFi8Gs)
+* [Ed Sheeran](https://www.youtube.com/watch?v=mKy5K-S4QpU)
+* [Elizabeth Olsen](https://www.youtube.com/watch?v=OFl9IRb9sEE)
+* [Gordon Ramsay](https://www.youtube.com/watch?v=U9DyHthJ6LA)
+* [Jimmy Kimmel](https://www.youtube.com/watch?v=2Rq-9iR4sRw)
+* [Matthew McConaughey](https://www.youtube.com/watch?v=sz1ovZUA4nQ)
+* [Michael Cera](https://www.youtube.com/watch?v=uBJq-XCP27c)
 * [Nick Offerman](https://www.youtube.com/watch?v=YbZmhgtZkdg)
 * [Pete Davidson](https://www.youtube.com/watch?v=-6BvA4U1dLI)
-* [Big Sean](https://www.youtube.com/watch?v=4VoqwrEEAZM)
-* [Zac Efron](https://www.youtube.com/watch?v=J5nz24jrLDE)
 * [T-Pain](https://www.youtube.com/watch?v=O0g2EtKFAcA) 
 * [T-Pain Pt. 2](https://www.youtube.com/watch?v=OSurn7YvpGk)
-* [Gordon Ramsay](https://www.youtube.com/watch?v=U9DyHthJ6LA)
+* [Zac Efron](https://www.youtube.com/watch?v=J5nz24jrLDE)
 
 ### Kurzgesagt
 * [An Antidote to Dissatisfaction](https://www.youtube.com/watch?v=WPPPFqsECz0)
 * [Optimistic Nihilism](https://www.youtube.com/watch?v=MBRqu0YOH14)
 * [The Past We Can Never Return To](https://www.youtube.com/watch?v=YbgnlkJPga4)
-* [TRUE Limits Of Humanity – The Final Border We Will Never Cross](https://www.youtube.com/watch?v=uzkD5SeuwzM)
+* [True Limits Of Humanity – The Final Border We Will Never Cross](https://www.youtube.com/watch?v=uzkD5SeuwzM)
 * [What Are You Doing With Your Life? The Tail End](https://www.youtube.com/watch?v=JXeJANDKwDc)
 
 ### Lessons From The Screenplay
@@ -28,9 +31,8 @@ A curated list of things I find awesome. Inspired by the [awesome list](https://
 
 ### Tom Scott
 * [Explosions](https://www.youtube.com/watch?v=nqJiWbD08Yw)
-* [Why Electronic Voting Is Still A Bad Idea](https://www.youtube.com/watch?v=LkH2r-sNjQs)
 * [Taking The Emergency Exit From A Wind Turbine](https://www.youtube.com/watch?v=UWSckm8zTc8)
-
+* [Why Electronic Voting Is Still A Bad Idea](https://www.youtube.com/watch?v=LkH2r-sNjQs)
 
 ### Mark Rober
 * [Backyard Squirrel Maze 2.0- The Walnut Heist](https://www.youtube.com/watch?v=DTvS9lvRxZ8)
@@ -43,31 +45,29 @@ A curated list of things I find awesome. Inspired by the [awesome list](https://
 ### [Stuff Made Here](https://www.youtube.com/channel/UCj1VqrHhDte54oLgPG4xpuQ)
 
 ### Others
-* [No Quit](https://www.youtube.com/watch?v=oIzBsvHwYr4) - My favorite Nike ad.
-* [UAAP 81 UP vs AdU](https://www.youtube.com/watch?v=hTcM0X4SY4w) - Nov. 28, 2018 UP advances to the finals.
-* [8:46 - Dave Chappelle](https://www.youtube.com/watch?v=3tR6mKcBbT4) - Why isn't Dave Chappelle saying anything? 
-Because Dave Chappelle understands what the fuck he is seeing. And these streets will speak for themselves whether I am 
-alive or dead.
-* [Better | Mamba Forever | Nike](https://www.youtube.com/watch?v=C9I-W1eTCbk) - Nike ad for 2020 Kobe Bryant Day.
-* [Rafael Nadal: Rally | Nike](https://www.youtube.com/watch?v=1tSDyLeUwJ4) - Nike ad for my favorite tennis player, Rafael Nadal.
-* [TED | Linus Torvalds](https://www.ted.com/talks/linus_torvalds_the_mind_behind_linux) - The mind behind Linux
-* [Sax-A-Boom](https://www.youtube.com/watch?v=cLmCJKT5ssw) - Jack Black plays the Sax-A-Boom
-* [Damian Lillard Game Winner](https://streamable.com/vflu6r) - Damian Lillard's shot against Paul George
-* [Sicario Mexico Border Scene](https://www.youtube.com/watch?v=LzKwClRvRco) - My favorite scene of a movie.
-* [A Few Good Men | You Can't Handle The Truth](https://www.youtube.com/watch?v=9FnO3igOkOk) - My second favorite scene of a movie.
-* [The Art of Code - Dylan Beattie](https://www.youtube.com/watch?v=6avJHaC3C2U) - Finally, a rockstar developer.
-* [How To Speak - Patrick Winston](https://www.youtube.com/watch?v=Unzc731iCUY) -  Improve your speaking ability in critical situations by teaching you a few heuristic rules.
-* [Take That For Data](https://www.youtube.com/watch?v=LGN5S-X9wIw&t=1s) - Fizdale's postgame rant
-* [CGP Grey | Metric Paper & Everything In The Universe](https://www.youtube.com/watch?v=pUF5esTscZI) - A4 paper and everything in the universe
-* [The Fastest Way To Loop In Python](https://www.youtube.com/watch?v=Qgevy75co8c) - numpy > sum range > for > while
-* [Let's Crack Zodiac - Episode 5 - The 340 Is Solved!](https://www.youtube.com/watch?v=-1oQLPRE21o) - The Zodiac Killer's cipher solved
-* [Saul Teaches Jesse Money Laundering](https://www.youtube.com/watch?v=RhsUHDJ0BFM) - Saul Goodman teaches Jesse Pinkman how to launder his money with a nail salon.
-* [The Future Of Reasoning](https://www.youtube.com/watch?v=_ArVh3Cj9rw) - Reasoning is a group activity.
-* [how we write/review code in big tech companies](https://www.youtube.com/watch?v=rR4n-0KYeKQ) - I have no idea what I'm doing.
-* [Unpickable Locks From Stuff Made Here](https://www.youtube.com/watch?v=Ecy1FBdCRbQ) - Best collab video in the internet. LPL x Stuff Made Here
-* [Super Mario Bros: The Human Limit](https://www.youtube.com/watch?v=7rIJNT7dCmE) - Explaining speed runs and the limits of human
-* [BrainCraft | Procrastination](https://www.youtube.com/watch?v=v7RX_5eGNJM) - Many people think procrastination is the opposite of productivity. 
-* [Student pilot loses engine](https://www.youtube.com/watch?v=PTrLxkVOShg) - Keeping cool under pressure
+* [No Quit](https://www.youtube.com/watch?v=oIzBsvHwYr4)
+* [UAAP 81 UP vs AdU](https://www.youtube.com/watch?v=hTcM0X4SY4w)
+* [8:46 - Dave Chappelle](https://www.youtube.com/watch?v=3tR6mKcBbT4)
+* [Better | Mamba Forever | Nike](https://www.youtube.com/watch?v=C9I-W1eTCbk)
+* [Rafael Nadal: Rally | Nike](https://www.youtube.com/watch?v=1tSDyLeUwJ4)
+* [TED | Linus Torvalds](https://www.ted.com/talks/linus_torvalds_the_mind_behind_linux)
+* [Sax-A-Boom](https://www.youtube.com/watch?v=cLmCJKT5ssw)
+* [Damian Lillard Game Winner](https://streamable.com/vflu6r)
+* [Sicario Mexico Border Scene](https://www.youtube.com/watch?v=LzKwClRvRco)
+* [A Few Good Men | You Can't Handle The Truth](https://www.youtube.com/watch?v=9FnO3igOkOk)
+* [The Art of Code - Dylan Beattie](https://www.youtube.com/watch?v=6avJHaC3C2U)
+* [How To Speak - Patrick Winston](https://www.youtube.com/watch?v=Unzc731iCUY)
+* [Take That For Data](https://www.youtube.com/watch?v=LGN5S-X9wIw&t=1s)
+* [CGP Grey | Metric Paper & Everything In The Universe](https://www.youtube.com/watch?v=pUF5esTscZI)
+* [The Fastest Way To Loop In Python](https://www.youtube.com/watch?v=Qgevy75co8c)
+* [Let's Crack Zodiac - Episode 5 - The 340 Is Solved!](https://www.youtube.com/watch?v=-1oQLPRE21o)
+* [Saul Teaches Jesse Money Laundering](https://www.youtube.com/watch?v=RhsUHDJ0BFM)
+* [The Future Of Reasoning](https://www.youtube.com/watch?v=_ArVh3Cj9rw)
+* [how we write/review code in big tech companies](https://www.youtube.com/watch?v=rR4n-0KYeKQ)
+* [Unpickable Locks From Stuff Made Here](https://www.youtube.com/watch?v=Ecy1FBdCRbQ)
+* [Super Mario Bros: The Human Limit](https://www.youtube.com/watch?v=7rIJNT7dCmE)
+* [BrainCraft | Procrastination](https://www.youtube.com/watch?v=v7RX_5eGNJM)
+* [Student pilot loses engine](https://www.youtube.com/watch?v=PTrLxkVOShg)
 * [Active Ball Joint Mechanism](https://www.youtube.com/watch?v=AHUv9Zda_48)
 
 ### NBA Finals 2021
@@ -124,28 +124,27 @@ alive or dead.
 * Ready Player One by Ernest Cline
 
 ## [language](:Icon) Websites
-* [The True Size Of](https://thetruesize.com/) - Shows a country's true size
-* [github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
-* [Sonic Pi](https://sonic-pi.net/) - Code-based music creation and performance tool
-* [Bartosz Ciechanowski](https://ciechanow.ski/archives/) - One of the best websites out there.
-* [Ticker](https://github.com/achannarasappa/ticker) - Terminal stock watcher and position tracker.
-* [Taskwarrior](https://taskwarrior.org/) - TODO list from the command line.
-* [Mitype](https://github.com/Mithil467/mitype) - Typing speed test in terminal.
-* [Pronouncing Non-English Names for English Speakers](https://github.com/SteveMCarroll/PronouncingNamesForEnglishSpeakers) -  A practical guide.
-* [Gooey](https://github.com/chriskiehl/Gooey) - Turn almost any Python 2/3 console program into a GUI application
+* [The True Size Of](https://thetruesize.com/)
+* [github1s](https://github.com/conwnet/github1s)
+* [Sonic Pi](https://sonic-pi.net/)
+* [Bartosz Ciechanowski](https://ciechanow.ski/archives/)
+* [Ticker](https://github.com/achannarasappa/ticker)
+* [Taskwarrior](https://taskwarrior.org/)
+* [Mitype](https://github.com/Mithil467/mitype)
+* [Pronouncing Non-English Names for English Speakers](https://github.com/SteveMCarroll/PronouncingNamesForEnglishSpeakers)
+* [Gooey](https://github.com/chriskiehl/Gooey)
 * [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 * [YT-DLP](https://github.com/yt-dlp/yt-dlp)
 
 ## [article](:Icon) Articles
-* [Reputation](https://www.theplayerstribune.com/posts/reputation-julius-randle-new-york-knicks-basketball-nba) - I'm grateful for the chance to make a second first impression. I'm damn proud to be a Knick.
-* [Donate Unrestricted](http://www.paulgraham.com/donate.html) - If you want to donate to a nonprofit, donate unrestricted. If you trust them to spend your money, trust them to decide how.
-* [Remove commits from remote branch](https://stackoverflow.com/questions/3293531/how-to-permanently-remove-few-commits-from-remote-branch) - We all know it is bad yada yada, but sometimes you just have to.
-* [ISO 8601](https://kirby.kevinson.org/blog/iso-8601-the-better-date-format/) - The only date format we should be using.
-* [Write Libraries Where Possible](http://catern.com/services.html) - The only date format we should be using
-* [How I Make Podcasts](https://www.caseyliss.com/2014/11/22/how-i-make-podcasts) - Casey Liss is a host in one of my favorite podcasts: ATP
-* [The Tail End](https://waitbutwhy.com/2015/12/the-tail-end.html) - Quality time matters.
-* [Why Should I Care About Climate Change](https://www.reddit.com/r/TooAfraidToAsk/comments/osmydt/if_100_companies_are_responsible_for_71_of/) -  Don’t let the impossibility of perfection stop you from trying to improve.t
-* [Command Line Interface Guidelines](https://clig.dev/) - An open-source guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
+* [Reputation](https://www.theplayerstribune.com/posts/reputation-julius-randle-new-york-knicks-basketball-nba)
+* [Donate Unrestricted](http://www.paulgraham.com/donate.html)
+* [Remove commits from remote branch](https://stackoverflow.com/questions/3293531/how-to-permanently-remove-few-commits-from-remote-branch)
+* [ISO 8601](https://kirby.kevinson.org/blog/iso-8601-the-better-date-format/)
+* [Write Libraries Where Possible](http://catern.com/services.html)
+* [How I Make Podcasts](https://www.caseyliss.com/2014/11/22/how-i-make-podcasts)
+* [The Tail End](https://waitbutwhy.com/2015/12/the-tail-end.html)
+* [Why Should I Care About Climate Change](https://www.reddit.com/r/TooAfraidToAsk/comments/osmydt/if_100_companies_are_responsible_for_71_of/)
 * [An incomplete list of skills senior engineers need, beyond coding](https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f)
 * [Fake Downtown LA Freeway Sign](https://www.motorbiscuit.com/guerrilla-artist-fakes-downtown-la-freeway-sign-stays-up-for-years/)
 * [You don't need to work on hard problems](https://www.benkuhn.net/hard/)
@@ -157,7 +156,6 @@ alive or dead.
 * [How percentile approximation works](https://blog.timescale.com/blog/how-percentile-approximation-works-and-why-its-more-useful-than-averages/)
 * [Vacation isn't the answer to employee burnout](https://technical.ly/2021/08/30/vacation-employee-burnout/)
 * [Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
-* [Fastest Way to Loop in Python](https://www.youtube.com/watch?v=Qgevy75co8c)
 
 ## [cake](:Icon) Fun
 * [XKCD | Circles](https://xkcd.com/2436/)

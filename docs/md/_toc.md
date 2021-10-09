@@ -2,6 +2,11 @@
 
 [Awesome Stuff](/awesome/awesome)
 
+> :Collapse label=Guides
+>
+> [MongoDB in Debian 10](/guides/mongodb)
+
+
 > :Collapse label=Project Euler
 >
 > [001](/euler/001)
