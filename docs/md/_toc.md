@@ -6,6 +6,7 @@
 >
 > [MongoDB for Debian 10](/guides/mongodb)
 > [Node.js for  Ubuntu 20.04](/guides/nodeubuntu)
+> [GearScore API](/guides/gswebapi)
 
 
 > :Collapse label=Project Euler
