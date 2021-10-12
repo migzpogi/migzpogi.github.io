@@ -17,6 +17,10 @@ export function Footer(config: CodedocConfig, renderer: any) {
   // else if (community$) return <_Footer>{community$}</_Footer>;
   // else return <_Footer><Watermark/></_Footer>;
   return <_Footer>
+  <a href="/index">Home</a>
+  <hr/>
+  <a href="/posts">Posts</a>
+  <hr/>
   <a href="https://github.com/migzpogi">GitHub</a>
   <hr/>
   <a href="https://www.linkedin.com/in/migzestrella/">LinkedIn</a>

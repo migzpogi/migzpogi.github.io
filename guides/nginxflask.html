@@ -1,0 +1,75 @@
+<!DOCTYPE html><html><head><title>Codedoc Sample Page</title><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"><meta name="robots" content="index,follow"><meta name="theme-color" content="#212121"><meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"><link rel="shortcut icon" href="/favicon.png"><link href="https://fonts.googleapis.com/css?family=Hind:400,700&amp;display=swap" rel="stylesheet"><link href="https://fonts.googleapis.com/css?family=Source+Code+Pro:300,400&amp;display=swap" rel="stylesheet"><link href="https://fonts.googleapis.com/icon?family=Material+Icons%7CMaterial+Icons+Outlined&amp;display=swap" rel="stylesheet"><style>
+      body, input, button {
+        font-family: 'Hind', sans-serif;
+      }
+
+      code, .hljs {
+        font-family: 'Source Code Pro', 'Courier New', Courier, monospace;
+      }
+
+      .icon-font {
+        font-family: 'Material Icons';
+        font-weight: normal;
+        font-style: normal;
+        font-size: 24px;  /* Preferred icon size */
+        display: inline-block;
+        line-height: 1;
+        text-transform: none;
+        letter-spacing: normal;
+        word-wrap: normal;
+        white-space: nowrap;
+        direction: ltr;
+      
+        /* Support for all WebKit browsers. */
+        -webkit-font-smoothing: antialiased;
+        /* Support for Safari and Chrome. */
+        text-rendering: optimizeLegibility;
+      
+        /* Support for Firefox. */
+        -moz-osx-font-smoothing: grayscale;
+      
+        /* Support for IE. */
+        font-feature-settings: 'liga';
+      }
+
+      .icon-font.outline {
+        font-family: 'Material Icons Outlined';
+      }
+    </style><link href="/docs/assets/codedoc-styles.css" rel="stylesheet"><script async="" defer="" src="/docs/assets/codedoc-bundle.js"></script><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.css" integrity="sha384-zB1R0rpPzHqg7Kpt0Aljp8JPLqbXI3bhnPWROx27a9N0Ll6ZP/+DiW/UqRcLbRjq" crossorigin="anonymous"></head><body><div class="header-0-0-5"></div><div id="-codedoc-container" class="container"><p>adduser flaskuser
+usermod -aG sudo flaskuser # --&gt; -aG is for append Groups
+sudo su flaskuser
+sudo whoami</p><p>sudo apt update
+sudo apt install nginx</p><p>sudo ufw app list
+sudo ufw allow 'Nginx HTTP'
+sudo ufw allow ssh
+sudo ufw enable
+sudo ufw status
+sudo ufw allow 5000
+sudo ufw allow 8080
+sudo ufw delete allow 5000</p><p>systemctl status nginx</p><p>sudo apt update
+sudo apt install python3-pip python3-dev build-essential libssl-dev libffi-dev python3-setuptools</p><p>sudo apt install python3-venv</p><p>cd /home/flaskuser
+mkdir flaskproj
+cd flaskproj
+python3.8 -m venv flaskprojvenv
+source flaskprojvenv/bin/activate</p><p>sudo apt install git</p><p>pip install wheel
+pip install uwsgi
+pip install -r requirements.txt</p><p><a href="http://server:port/path/endpoint">http://server:port/path/endpoint</a></p><p>~/flaskproj/gearscoreapi
+vim wsgi.py</p><p>from WeebApp import app</p><p>if <strong>name</strong> == "<strong>main</strong>":
+    app.run()</p><p>uwsgi --socket 0.0.0.0:5000 --protocol=http -w wsgi:app
+uwsgi --http :8080 -w wsgi:app
+uwsgi --http-socket :8080 -w wsgi:app</p><p>uwsgi --ini WebApp.ini</p><p>vim WebApp.ini</p><p>[uwsgi]
+module = wsgi:app</p><p>master = true
+processes = 5</p><p>socket = WebApp.sock
+chmod-socket = 660
+vacuum = true</p><p>die-on-term = true</p><p>sudo vim /etc/systemd/system/WebApp.service</p><p>[Unit]
+Description=uWSGI instance to serve myproject
+After=network.target</p><p>[Service]
+User=sammy
+Group=www-data
+WorkingDirectory=/home/sammy/myproject
+Environment="PATH=/home/sammy/myproject/myprojectenv/bin"
+ExecStart=/home/sammy/myproject/myprojectenv/bin/uwsgi --ini myproject.ini</p><p>[Install]
+WantedBy=multi-user.target</p><p>sudo systemctl start myproject
+sudo systemctl status WebApp</p><p>sudo systemctl enable WebApp
+sudo systemctl status myproject</p><p>sudo vim /etc/nginx/sites-available/WebApp</p><p>sudo ln -s /etc/nginx/sites-available/WebApp /etc/nginx/sites-enabled</p><p>sudo unlink /etc/nginx/sites-enabled/default</p><p>sudo nginx -t</p><p>sudo systemctl restart nginx
+sudo ufw allow 'Nginx Full'</p><p>alias</p><div class="contentnav-0-0-7" data-no-search=""></div></div> <div class="footer-0-0-6"><div class="left"><script id="UrkQdilKTd">(function(){function load(){if (window.__sdh_transport){window.__sdh_transport("UrkQdilKTd", "+KieMbbjofCG8mi4EMUxhw==", {});} }; if (document.readyState == 'complete') load(); else window.addEventListener('load', load); })()</script></div><div class="main"><div class="inside"><a href="/index">Home</a><hr><a href="/posts">Posts</a><hr><a href="https://github.com/migzpogi">GitHub</a><hr><a href="https://www.linkedin.com/in/migzestrella/">LinkedIn</a><hr><a href="https://github.com/CONNECT-platform/codedoc/">Codedoc</a></div></div><div class="right"><script id="VjAKmKKYgM">(function(){function load(){if (window.__sdh_transport){window.__sdh_transport("VjAKmKKYgM", "NqBTEGb5LCZ9A/R386IgBw==", {});} }; if (document.readyState == 'complete') load(); else window.addEventListener('load', load); })()</script></div></div><script id="LPWpnJjsCC">(function(){function load(){if (window.__sdh_transport){window.__sdh_transport("LPWpnJjsCC", "0fzUui8WISeUIekbH6XOXw==", {"namespace":""});} }; if (document.readyState == 'complete') load(); else window.addEventListener('load', load); })()</script></body></html>

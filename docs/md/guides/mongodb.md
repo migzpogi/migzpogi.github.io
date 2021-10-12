@@ -1,4 +1,4 @@
-# Installing MongoDB in Debian 10
+# Installing MongoDB in Debian 9
 This will install **MongoDB 5.0 Community Edition** using the `apt` package manager for **64-Bit Debian releases**.
 
 ## Initial Preparations

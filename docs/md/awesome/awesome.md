@@ -135,6 +135,7 @@ A curated list of things I find awesome. Inspired by the [awesome list](https://
 * [Gooey](https://github.com/chriskiehl/Gooey)
 * [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 * [YT-DLP](https://github.com/yt-dlp/yt-dlp)
+* [SQLite Playground](https://sqlime.org/)
 
 ## [article](:Icon) Articles
 * [Reputation](https://www.theplayerstribune.com/posts/reputation-julius-randle-new-york-knicks-basketball-nba)
