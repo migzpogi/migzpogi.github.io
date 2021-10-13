@@ -21,10 +21,6 @@ export function Footer(config: CodedocConfig, renderer: any) {
   <hr/>
   <a href="/posts">Posts</a>
   <hr/>
-  <a href="https://github.com/migzpogi">GitHub</a>
-  <hr/>
-  <a href="https://www.linkedin.com/in/migzestrella/">LinkedIn</a>
-  <hr/>
   <a href="https://github.com/CONNECT-platform/codedoc/">Codedoc</a>
 </_Footer>;
 }

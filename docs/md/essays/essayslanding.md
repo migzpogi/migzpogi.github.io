@@ -1,3 +1,4 @@
+* [Don't Assume Consensus](/essays/consensus)
 * [Mise-en-place for Knowledge Workers](/essays/mise-en-place)
 * [Advices](/essays/advices)
 * [Progress Bars](/essays/progress-bars)
