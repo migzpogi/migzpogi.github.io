@@ -2,13 +2,13 @@
 This will install **MongoDB 5.0 Community Edition** using the `apt` package manager for **64-Bit Debian releases**.
 
 ## Initial Preparations
-### Check if architecture is 64-bit
+* Check if operating system is 64-bit.
 ```bash
 uname -m
 > x86_64
 ```
 
-### Create a new user
+* As a good practice, create a user that has sudo privileges.
 ```bash
 adduser mongouser
 usermod -aG sudo mongouser # --> -aG is for append Groups
@@ -17,43 +17,43 @@ sudo whoami
 > root
 ```
 
-## Getting MongoDB
-### Import the public key
+## Get and install MongoDB
+* Import the public key.
 ```bash
 wget -qO - https://www.mongodb.org/static/pgp/server-5.0.asc | sudo apt-key add -
 > OK
 ```
 
-### Create sources list
+* Create sources list.
 ```bash
 echo "deb http://repo.mongodb.org/apt/debian stretch/mongodb-org/5.0 main" | sudo tee /etc/apt/sources.list.d/mongodb-org-5.0.list
 ```
 
-### Install the package
+* Install the package.
 ```bash
 sudo apt-get update
 sudo apt-get install -y mongodb-org
 ```
 
-### Verify if successful
+* Verify the installation if successful.
 ```bash
 mongod --version
 ```
 
-## Setting up the server
-### Start the service
+## Set up the server
+* Start the service
 ```bash
 sudo service mongod start
 sudo service mongod status
 ```
 
-### Use the mongodb shell and switch to admin database
+* Use the mongodb shell and switch to admin database
 ```bash
 mongosh
 use admin
 ```
 
-### Create an admin user
+* Create an admin user
 ```bash
 db.createUser(
   {
@@ -66,8 +66,10 @@ db.createUser(
   }
 )
 ```
+> :Buttons
+> > :CopyButton
 
-### Restart and exit
+* Restart and exit
 ```bash
 db.adminCommand( { shutdown: 1 } )
 exit
@@ -77,7 +79,6 @@ exit
 ```bash
 sudo vim /etc/mongod.conf
 ```
-Configuration file should look like this:
 ```
 net:
   bindIp: xxx.xxx.xxx.xxx  // --> IP Address
