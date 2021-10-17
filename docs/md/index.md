@@ -3,8 +3,7 @@
 * [cloud](:Icon) Azure DevOps
 * [keyboard](:Icon) Mechanical keyboards  
 
-I am currently working on a personal project called [azdo-cli](https://pypi.org/project/azdo-cli/), a command-line
-interface client for Azure DevOps; reading Catch-22 by Joseph Heller; and playing World of Warcraft after ten years.
+I am currently working on a project called [GearScore API](https://github.com/migzpogi/gearscoreapi), a web API for getting the GearScore of an item in the game World of Warcraft; reading Neverwhere by Neil Gaiman; and watching Start Up.
 
 > :Buttons
 > > :Button label=Github, url="https://github.com/migzpogi"
