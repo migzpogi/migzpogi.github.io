@@ -69,6 +69,7 @@ A curated list of things I find awesome. Inspired by the [awesome list](https://
 * [BrainCraft | Procrastination](https://www.youtube.com/watch?v=v7RX_5eGNJM)
 * [Student pilot loses engine](https://www.youtube.com/watch?v=PTrLxkVOShg)
 * [Active Ball Joint Mechanism](https://www.youtube.com/watch?v=AHUv9Zda_48)
+* [Why Japan Looks the Way it Does: Zoning](https://www.youtube.com/watch?v=wfm2xCKOCNk)
 
 ### NBA Finals 2021
 * [Giannis x Father Stretch My Hands](https://www.reddit.com/r/nba/comments/omp8j9/giannis_x_father_stretch_my_hands/)
@@ -79,6 +80,7 @@ A curated list of things I find awesome. Inspired by the [awesome list](https://
 
 ## [menu_book](:Icon) Books 
 ### 2021
+* Nerverwhere by Neil Gaiman
 * Catch-22 by Joseph Heller
 * Becoming by Michelle Obama
 * Anansi Boys by Neil Gaiman
@@ -136,6 +138,7 @@ A curated list of things I find awesome. Inspired by the [awesome list](https://
 * [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 * [YT-DLP](https://github.com/yt-dlp/yt-dlp)
 * [SQLite Playground](https://sqlime.org/)
+* [VSCode.dev](https://vscode.dev/)
 
 ## [article](:Icon) Articles
 * [Reputation](https://www.theplayerstribune.com/posts/reputation-julius-randle-new-york-knicks-basketball-nba)
