@@ -3,7 +3,7 @@
 * [cloud](:Icon) Azure DevOps
 * [keyboard](:Icon) Mechanical keyboards  
 
-I am currently working on a project called [GearScore API](https://github.com/migzpogi/gearscoreapi), a web API for getting the GearScore of an item in the game World of Warcraft; reading Neverwhere by Neil Gaiman; and watching Start Up.
+I am currently working on a project called [GearScore API](https://wotlkgs.com), a web API for getting the GearScore of an item in the game World of Warcraft; reading Neverwhere by Neil Gaiman; and watching Start Up.
 
 > :Buttons
 > > :Button label=Github, url="https://github.com/migzpogi"
