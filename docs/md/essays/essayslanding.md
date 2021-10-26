@@ -1,3 +1,4 @@
+* [Beyond Smart](/essays/extra)
 * [Always Do Extra](/essays/extra)
 * [Don't Assume Consensus](/essays/consensus)
 * [Mise-en-place for Knowledge Workers](/essays/mise-en-place)
