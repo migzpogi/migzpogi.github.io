@@ -1174,3 +1174,13 @@ body.dark code {
     opacity: 0;
   }
 }
+  .footnotes-0-0-16>div {
+    display: flex;
+  }
+  .footnotes-0-0-16>div>span {
+    font-weight: bold;
+    margin-right: 16px;
+  }
+  .footnotes-0-0-16>div>marker>p {
+    margin: 0;
+  }
