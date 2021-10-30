@@ -174,3 +174,4 @@ A curated list of things I find awesome. Inspired by the [awesome list](https://
 * [Spider-Man: No Way Home Trailer Cartoon Style](https://www.youtube.com/watch?v=IrrgeCuKPz4)
 * [Perceptual Illusions](https://nautil.us/blog/12-mind_bending-perceptual-illusions)
 * [rouille](https://github.com/bnjbvr/rouille)
+* [The Opera Game](https://gregkarber.com/opera/)
