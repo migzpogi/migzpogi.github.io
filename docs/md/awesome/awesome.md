@@ -175,3 +175,4 @@ A curated list of things I find awesome. Inspired by the [awesome list](https://
 * [Perceptual Illusions](https://nautil.us/blog/12-mind_bending-perceptual-illusions)
 * [rouille](https://github.com/bnjbvr/rouille)
 * [The Opera Game](https://gregkarber.com/opera/)
+* [Learning Music](https://learningmusic.ableton.com/)
