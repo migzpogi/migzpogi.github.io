@@ -139,6 +139,7 @@ A curated list of things I find awesome. Inspired by the [awesome list](https://
 * [YT-DLP](https://github.com/yt-dlp/yt-dlp)
 * [SQLite Playground](https://sqlime.org/)
 * [VSCode.dev](https://vscode.dev/)
+* [Excalidraw](https://excalidraw.com/)
 
 ## [article](:Icon) Articles
 * [Reputation](https://www.theplayerstribune.com/posts/reputation-julius-randle-new-york-knicks-basketball-nba)
