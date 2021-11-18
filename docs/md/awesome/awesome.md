@@ -145,6 +145,7 @@ A curated list of things I find awesome. Inspired by the [awesome list](https://
 ## [article](:Icon) Articles
 * [Reputation](https://www.theplayerstribune.com/posts/reputation-julius-randle-new-york-knicks-basketball-nba)
 * [Donate Unrestricted](http://www.paulgraham.com/donate.html)
+* [Is There Such Thing As Good Taste?](http://www.paulgraham.com/goodtaste.html)
 * [Remove commits from remote branch](https://stackoverflow.com/questions/3293531/how-to-permanently-remove-few-commits-from-remote-branch)
 * [ISO 8601](https://kirby.kevinson.org/blog/iso-8601-the-better-date-format/)
 * [Write Libraries Where Possible](http://catern.com/services.html)
