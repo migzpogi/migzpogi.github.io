@@ -70,6 +70,7 @@ A curated list of things I find awesome. Inspired by the [awesome list](https://
 * [Student pilot loses engine](https://www.youtube.com/watch?v=PTrLxkVOShg)
 * [Active Ball Joint Mechanism](https://www.youtube.com/watch?v=AHUv9Zda_48)
 * [Why Japan Looks the Way it Does: Zoning](https://www.youtube.com/watch?v=wfm2xCKOCNk)
+* [The Grand Seiko Spring Drive](https://www.youtube.com/watch?v=jVoRoK1u3Dg)
 
 ### NBA Finals 2021
 * [Giannis x Father Stretch My Hands](https://www.reddit.com/r/nba/comments/omp8j9/giannis_x_father_stretch_my_hands/)
