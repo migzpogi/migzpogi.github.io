@@ -98,14 +98,14 @@
       "hash": "0fzUui8WISeUIekbH6XOXw=="
     },
     {
-      "name": "CollapseControl",
-      "filename": "/home/migzwslnzxt/ubuntu_gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/collapse/collapse-control.js",
-      "hash": "SpFpnsAKsTQ3acQirgVykA=="
-    },
-    {
       "name": "TabSelector",
       "filename": "/home/migzwslnzxt/ubuntu_gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/tabs/selector.js",
       "hash": "gSftm/D577h6CiJyPVdP7Q=="
+    },
+    {
+      "name": "CollapseControl",
+      "filename": "/home/migzwslnzxt/ubuntu_gitprojects/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/collapse/collapse-control.js",
+      "hash": "SpFpnsAKsTQ3acQirgVykA=="
     },
     {
       "name": "ToCPrevNext",
