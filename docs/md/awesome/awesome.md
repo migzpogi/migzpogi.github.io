@@ -142,6 +142,7 @@ A curated list of things I find awesome. Inspired by the [awesome list](https://
 * [VSCode.dev](https://vscode.dev/)
 * [Excalidraw](https://excalidraw.com/)
 * [jog](https://github.com/natethinks/jog)
+* [lazygit](https://github.com/jesseduffield/lazygit)
 
 ## [article](:Icon) Articles
 * [Reputation](https://www.theplayerstribune.com/posts/reputation-julius-randle-new-york-knicks-basketball-nba)
