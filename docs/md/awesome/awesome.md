@@ -166,6 +166,7 @@ A curated list of things I find awesome. Inspired by the [awesome list](https://
 * [How percentile approximation works](https://blog.timescale.com/blog/how-percentile-approximation-works-and-why-its-more-useful-than-averages/)
 * [Vacation isn't the answer to employee burnout](https://technical.ly/2021/08/30/vacation-employee-burnout/)
 * [Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
+* [Open Source is broken](https://christine.website/blog/open-source-broken-2021-12-11)
 
 ## [cake](:Icon) Fun
 * [XKCD | Circles](https://xkcd.com/2436/)
