@@ -19,6 +19,7 @@ A curated list of things I find awesome. Inspired by the [awesome list](https://
 * [T-Pain](https://www.youtube.com/watch?v=O0g2EtKFAcA) 
 * [T-Pain Pt. 2](https://www.youtube.com/watch?v=OSurn7YvpGk)
 * [Zac Efron](https://www.youtube.com/watch?v=J5nz24jrLDE)
+* [Tom Holland](https://www.youtube.com/watch?v=qxGmGGmvFD8)
 
 ### Kurzgesagt
 * [An Antidote to Dissatisfaction](https://www.youtube.com/watch?v=WPPPFqsECz0)
