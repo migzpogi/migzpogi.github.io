@@ -74,6 +74,7 @@ A curated list of things I find awesome. Inspired by the [awesome list](https://
 * [Why Japan Looks the Way it Does: Zoning](https://www.youtube.com/watch?v=wfm2xCKOCNk)
 * [The Grand Seiko Spring Drive](https://www.youtube.com/watch?v=jVoRoK1u3Dg)
 * [The Antique Toaster that's Better than Yours](https://www.youtube.com/watch?v=1OfxlSG6q5Y)
+* [Lessons from a Can Opener](https://www.youtube.com/watch?v=i_mLxyIXpSY)
 
 ### NBA Finals 2021
 * [Giannis x Father Stretch My Hands](https://www.reddit.com/r/nba/comments/omp8j9/giannis_x_father_stretch_my_hands/)
