@@ -85,8 +85,11 @@ A curated list of things I find awesome. Inspired by the [awesome list](https://
 * [Ayton Alley-Oop](https://www.reddit.com/r/suns/comments/o6akkf/amazing_angle_of_the_valleyoop_i_found_on_twitter/)
 
 ## [menu_book](:Icon) Books 
+### 2022
+* Greenlights by Matthew McConaughey
+
 ### 2021
-* Nerverwhere by Neil Gaiman
+* Neverwhere by Neil Gaiman
 * Catch-22 by Joseph Heller
 * Becoming by Michelle Obama
 * Anansi Boys by Neil Gaiman
