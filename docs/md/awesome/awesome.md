@@ -87,6 +87,7 @@ A curated list of things I find awesome. Inspired by the [awesome list](https://
 ## [menu_book](:Icon) Books 
 ### 2022
 * Greenlights by Matthew McConaughey
+* The Anthropocene Reviewed by John Green
 
 ### 2021
 * Neverwhere by Neil Gaiman
