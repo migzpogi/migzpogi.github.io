@@ -76,7 +76,6 @@ A curated list of things I find awesome. Inspired by the [awesome list](https://
 * [The Antique Toaster that's Better than Yours](https://www.youtube.com/watch?v=1OfxlSG6q5Y)
 * [Lessons from a Can Opener](https://www.youtube.com/watch?v=i_mLxyIXpSY)
 * [Seatbelt | How does it work?](https://www.youtube.com/watch?v=uRaU1HMJyCo)
-* [Snapdrop](https://snapdrop.net/)
 
 ### NBA Finals 2021
 * [Giannis x Father Stretch My Hands](https://www.reddit.com/r/nba/comments/omp8j9/giannis_x_father_stretch_my_hands/)
@@ -153,6 +152,7 @@ A curated list of things I find awesome. Inspired by the [awesome list](https://
 * [Excalidraw](https://excalidraw.com/)
 * [jog](https://github.com/natethinks/jog)
 * [lazygit](https://github.com/jesseduffield/lazygit)
+* [Snapdrop](https://snapdrop.net/)
 
 ## [article](:Icon) Articles
 * [Reputation](https://www.theplayerstribune.com/posts/reputation-julius-randle-new-york-knicks-basketball-nba)
