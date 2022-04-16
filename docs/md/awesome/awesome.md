@@ -156,6 +156,7 @@ A curated list of things I find awesome. Inspired by the [awesome list](https://
 * [Snapdrop](https://snapdrop.net/)
 * [Awesome TUIs](https://github.com/rothgar/awesome-tuis)
 * [cheat.sh](https://cheat.sh/)
+* [bat](https://github.com/sharkdp/bat)
 
 ## [article](:Icon) Articles
 * [Reputation](https://www.theplayerstribune.com/posts/reputation-julius-randle-new-york-knicks-basketball-nba)
