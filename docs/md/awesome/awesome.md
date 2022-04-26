@@ -13,6 +13,7 @@ A curated list of things I find awesome. Inspired by the [awesome list](https://
 * [Gordon Ramsay](https://www.youtube.com/watch?v=U9DyHthJ6LA)
 * [Gordon Ramsay Pt. 2](https://www.youtube.com/watch?v=GJlNvSC5v6s)
 * [Jimmy Kimmel](https://www.youtube.com/watch?v=2Rq-9iR4sRw)
+* [Josh Brolin](https://www.youtube.com/watch?v=c0ZtaaMml90)
 * [Matthew McConaughey](https://www.youtube.com/watch?v=sz1ovZUA4nQ)
 * [Michael Cera](https://www.youtube.com/watch?v=uBJq-XCP27c)
 * [Nick Offerman](https://www.youtube.com/watch?v=YbZmhgtZkdg)
