@@ -80,6 +80,7 @@ A curated list of things I find awesome. Inspired by the [awesome list](https://
 * [Seatbelt | How does it work?](https://www.youtube.com/watch?v=uRaU1HMJyCo)
 * [The Biggest Cheater In Guitar Hero History](https://www.youtube.com/watch?v=58fqNL-kvaI)
 * [I Let My Wife Down](https://www.youtube.com/watch?v=aKkVqmvs4NA)
+* [Inside Perspective on Picking Disc Detainer Locks](https://www.youtube.com/watch?v=tjdDF_VcI_o)
 
 ### NBA Finals 2021
 * [Giannis x Father Stretch My Hands](https://www.reddit.com/r/nba/comments/omp8j9/giannis_x_father_stretch_my_hands/)
