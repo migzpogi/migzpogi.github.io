@@ -81,6 +81,7 @@ A curated list of things I find awesome. Inspired by the [awesome list](https://
 * [The Biggest Cheater In Guitar Hero History](https://www.youtube.com/watch?v=58fqNL-kvaI)
 * [I Let My Wife Down](https://www.youtube.com/watch?v=aKkVqmvs4NA)
 * [Inside Perspective on Picking Disc Detainer Locks](https://www.youtube.com/watch?v=tjdDF_VcI_o)
+* [Is this what endgame keyboard sound like](https://www.reddit.com/r/MechanicalKeyboards/comments/u3hazt/is_this_what_endgame_keyboard_sound_like/)
 
 ### NBA Finals 2021
 * [Giannis x Father Stretch My Hands](https://www.reddit.com/r/nba/comments/omp8j9/giannis_x_father_stretch_my_hands/)
