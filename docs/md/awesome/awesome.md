@@ -187,6 +187,7 @@ A curated list of things I find awesome. Inspired by the [awesome list](https://
 * [Open Source is broken](https://christine.website/blog/open-source-broken-2021-12-11)
 * [Red Light Green Light](https://jamessevedge.com/articles/red-light-green-light/)
 * [A career ending mistake](https://bitfieldconsulting.com/golang/career)
+* [The strange business of hole-in-one insurance](https://thehustle.co/the-strange-business-of-hole-in-one-insurance/)
 
 ## [cake](:Icon) Fun
 * [XKCD | Circles](https://xkcd.com/2436/)
