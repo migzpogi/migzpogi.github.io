@@ -52,6 +52,7 @@ A curated list of things I find awesome. Inspired by the [awesome list](https://
 * [No Quit](https://www.youtube.com/watch?v=oIzBsvHwYr4)
 * [UAAP 81 UP vs AdU](https://www.youtube.com/watch?v=hTcM0X4SY4w)
 * [UAAP 84 UP vs ADMU](https://www.youtube.com/watch?v=ww5mYfrdOno)
+* [UAAP 84 UP vs ADMU GIF](https://twitter.com/i/status/1526533267947524097)
 * [8:46 - Dave Chappelle](https://www.youtube.com/watch?v=3tR6mKcBbT4)
 * [Better | Mamba Forever | Nike](https://www.youtube.com/watch?v=C9I-W1eTCbk)
 * [Rafael Nadal: Rally | Nike](https://www.youtube.com/watch?v=1tSDyLeUwJ4)
