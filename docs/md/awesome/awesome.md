@@ -193,6 +193,7 @@ A curated list of things I find awesome. Inspired by the [awesome list](https://
 * [Red Light Green Light](https://jamessevedge.com/articles/red-light-green-light/)
 * [A career ending mistake](https://bitfieldconsulting.com/golang/career)
 * [The strange business of hole-in-one insurance](https://thehustle.co/the-strange-business-of-hole-in-one-insurance/)
+* [The Story Behind the Official Fifth Pocket](https://www.levistrauss.com/2021/05/03/the-story-behind-the-official-fifth-pocket/)
 
 ## [cake](:Icon) Fun
 * [XKCD | Circles](https://xkcd.com/2436/)
