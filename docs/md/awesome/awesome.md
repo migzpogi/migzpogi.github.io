@@ -168,6 +168,7 @@ A curated list of things I find awesome. Inspired by the [awesome list](https://
 * [bat](https://github.com/sharkdp/bat)
 * [Virtual bookshelf](https://github.com/petargyurov/virtual-bookshelf)
 * [Nosleep.page](https://nosleep.page/)
+* [Common picture sizes and aspect ratios](https://kelmond.com/common-picture-sizes-and-aspect-ratios/)
 
 ## [article](:Icon) Articles
 * [Reputation](https://www.theplayerstribune.com/posts/reputation-julius-randle-new-york-knicks-basketball-nba)
