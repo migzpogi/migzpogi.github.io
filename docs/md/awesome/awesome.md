@@ -85,6 +85,7 @@ A curated list of things I find awesome. Inspired by the [awesome list](https://
 * [The Biggest Cheater In Guitar Hero History](https://www.youtube.com/watch?v=58fqNL-kvaI)
 * [I Let My Wife Down](https://www.youtube.com/watch?v=aKkVqmvs4NA)
 * [Inside Perspective on Picking Disc Detainer Locks](https://www.youtube.com/watch?v=tjdDF_VcI_o)
+* [Help Me Identify This Bizarre Lock](https://www.youtube.com/watch?v=5kFXq06KveY)
 * [Is this what endgame keyboard sound like](https://www.reddit.com/r/MechanicalKeyboards/comments/u3hazt/is_this_what_endgame_keyboard_sound_like/)
 * [Inside Perspective On Comb Picking](https://www.youtube.com/watch?v=6DPCE1Ct8U8)
 
