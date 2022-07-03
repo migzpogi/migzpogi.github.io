@@ -1,56 +1,72 @@
 # Awesome Stuff
 A curated list of things I find awesome. Inspired by the [awesome list](https://github.com/sindresorhus/awesome).
 
-## [theaters](:Icon) Videos
+# Books 
+## 2022
+* Greenlights by Matthew McConaughey
+* The Anthropocene Reviewed by John Green
+* Kitchen Confidential by Anthony Bourdain
 
-### Hot Ones
-* [Big Sean](https://www.youtube.com/watch?v=4VoqwrEEAZM)
-* [Bill Burr](https://www.youtube.com/watch?v=8Lvrikv6oPs)
-* [Blake Griffin](https://www.youtube.com/watch?v=41iUdhFi8Gs)
-* [Colin Farrell](https://www.youtube.com/watch?v=pf9M8Ckomo0)
-* [Ed Sheeran](https://www.youtube.com/watch?v=mKy5K-S4QpU)
-* [Elizabeth Olsen](https://www.youtube.com/watch?v=OFl9IRb9sEE)
-* [Gordon Ramsay](https://www.youtube.com/watch?v=U9DyHthJ6LA)
-* [Gordon Ramsay Pt. 2](https://www.youtube.com/watch?v=GJlNvSC5v6s)
-* [Jimmy Kimmel](https://www.youtube.com/watch?v=2Rq-9iR4sRw)
-* [Josh Brolin](https://www.youtube.com/watch?v=c0ZtaaMml90)
-* [Matt Damon](https://www.youtube.com/watch?v=yaXma6K9mzo)
-* [Matthew McConaughey](https://www.youtube.com/watch?v=sz1ovZUA4nQ)
-* [Michael Cera](https://www.youtube.com/watch?v=uBJq-XCP27c)
-* [Nick Offerman](https://www.youtube.com/watch?v=YbZmhgtZkdg)
-* [Pete Davidson](https://www.youtube.com/watch?v=-6BvA4U1dLI)
-* [Post Malone](https://www.youtube.com/watch?v=A2aSmJ-SXCo)
-* [T-Pain](https://www.youtube.com/watch?v=O0g2EtKFAcA) 
-* [T-Pain Pt. 2](https://www.youtube.com/watch?v=OSurn7YvpGk)
-* [Zac Efron](https://www.youtube.com/watch?v=J5nz24jrLDE)
-* [Tom Holland](https://www.youtube.com/watch?v=qxGmGGmvFD8)
+## 2021
+* Neverwhere by Neil Gaiman
+* Catch-22 by Joseph Heller
+* Becoming by Michelle Obama
+* Anansi Boys by Neil Gaiman
+* Eleven Rings: The Soul Of Success by Phil Jackson
+* The Neil Gaiman Reader: Selected Fiction by Neil Gaiman
 
-### Kurzgesagt
-* [An Antidote to Dissatisfaction](https://www.youtube.com/watch?v=WPPPFqsECz0)
-* [Optimistic Nihilism](https://www.youtube.com/watch?v=MBRqu0YOH14)
-* [The Past We Can Never Return To](https://www.youtube.com/watch?v=YbgnlkJPga4)
-* [True Limits Of Humanity – The Final Border We Will Never Cross](https://www.youtube.com/watch?v=uzkD5SeuwzM)
-* [What Are You Doing With Your Life? The Tail End](https://www.youtube.com/watch?v=JXeJANDKwDc)
+## 2020
+* The Grapes of Wrath by John Steinbeck
+* The Invisible Hook by Peter Leeson
+* What Do You Care What Other People Think by Richard Feynman
+* Open by Andre Agassi
+* An Astronaut's Guide to Life on Earth by Chris Hadfield
+* Talking to Strangers: What We Should Know About the People We Don't Know by Malcolm Gladwell
+* On Writing: A Memoir of the Craft by Stephen King
+* The Elements of Style by William Strunk
+* What I Talk About When I Talk About Running by Haruki Murakami 
+* The Phoenix Project by Gene Kim
 
-### Lessons From The Screenplay
-* [Madmen - Layers of Meaning](https://www.youtube.com/watch?v=uQ1Rbdi189w)
+## 2019
+* 56 by Bob Ong
 
-### Tom Scott
-* [Explosions](https://www.youtube.com/watch?v=nqJiWbD08Yw)
-* [Taking The Emergency Exit From A Wind Turbine](https://www.youtube.com/watch?v=UWSckm8zTc8)
-* [Why Electronic Voting Is Still A Bad Idea](https://www.youtube.com/watch?v=LkH2r-sNjQs)
+## 2018
+* Anthem by Ayn Rand
 
-### Mark Rober
-* [Backyard Squirrel Maze 2.0- The Walnut Heist](https://www.youtube.com/watch?v=DTvS9lvRxZ8)
-* [Is NASA a waste of money?](https://www.youtube.com/watch?v=lARpY0nIQx0)
+## 2017
+* 1Q84 by Haruki Murakami
+* Norse Mythology by Neil Gaiman
+* Thirteen Reasons Why by Jay Asher
+* Wool Omnibus by Hugh Howey
+* Fahrenheit 451 by Ray Bradbury
+* Lord of the Flies by William Golding
+* The Ocean at the End of the Lane by Neil Gaiman
+* The Happiness Project by Gretchen Rubin
 
-### Veritasium
-* [The Discovery That Transformed Pi](https://www.youtube.com/watch?v=gMlf1ELvRzc)
-* [These Pools Help Support Half The People On Earth](https://www.youtube.com/watch?v=YMDJA4UvXLA)
+## 2016
+* How Music Got Free by Stephen Richard Witt
+* Go Set A Watchman by Harper Lee
+* Harry Potter and the Sorcerer's Stone by J.K. Rowling
+* The Golem and the Jinni by Helene Wecker
+* Challenger Deep by Neil Shusterman
+* The Story of Kullervo by J.R.R. Tolkien
+* What If? by Randall Munroe
+* Ready Player One by Ernest Cline
 
-### [Stuff Made Here](https://www.youtube.com/channel/UCj1VqrHhDte54oLgPG4xpuQ)
 
-### Others
+# Videos
+## Youtube Channels
+* [Hot Ones](https://www.youtube.com/c/FirstWeFeast)
+* [Kurzgesagt](https://www.youtube.com/c/inanutshell)
+* [Lessons From The Screenplay](https://www.youtube.com/c/LessonsfromtheScreenplay)
+* [Tom Scott](https://www.youtube.com/c/TomScottGo)
+* [Mark Rober](https://www.youtube.com/c/MarkRober)
+* [Veritasium](https://www.youtube.com/c/veritasium)
+* [Stuff Made Here](https://www.youtube.com/channel/UCj1VqrHhDte54oLgPG4xpuQ)
+> :Buttons
+> > :Button label=Favorite episodes, url=/awesome/yt-fav
+
+## Others
 * [No Quit](https://www.youtube.com/watch?v=oIzBsvHwYr4)
 * [UAAP 81 UP vs AdU](https://www.youtube.com/watch?v=hTcM0X4SY4w)
 * [UAAP 84 UP vs ADMU](https://www.youtube.com/watch?v=ww5mYfrdOno)
@@ -89,66 +105,16 @@ A curated list of things I find awesome. Inspired by the [awesome list](https://
 * [Is this what endgame keyboard sound like](https://www.reddit.com/r/MechanicalKeyboards/comments/u3hazt/is_this_what_endgame_keyboard_sound_like/)
 * [Inside Perspective On Comb Picking](https://www.youtube.com/watch?v=6DPCE1Ct8U8)
 
-### NBA Finals 2021
+## NBA Finals 2021
 * [Giannis x Father Stretch My Hands](https://www.reddit.com/r/nba/comments/omp8j9/giannis_x_father_stretch_my_hands/)
 * [Giannis Ego, Pride, Humility](https://twitter.com/Bucks/status/1416201484622917633)
 * [Giannis Block](https://www.reddit.com/r/nba/comments/okl4tt/highlight_gianniss_gamesaving_block_on_deandre/)
 * [Kevin Durant Clutch](https://www.reddit.com/r/nba/comments/o0w4w2/highlight_kevin_durant_comes_up_clutch_late_in/)
 * [Ayton Alley-Oop](https://www.reddit.com/r/suns/comments/o6akkf/amazing_angle_of_the_valleyoop_i_found_on_twitter/)
 
-## [menu_book](:Icon) Books 
-### 2022
-* Greenlights by Matthew McConaughey
-* The Anthropocene Reviewed by John Green
-* Kitchen Confidential by Anthony Bourdain
 
-### 2021
-* Neverwhere by Neil Gaiman
-* Catch-22 by Joseph Heller
-* Becoming by Michelle Obama
-* Anansi Boys by Neil Gaiman
-* Eleven Rings: The Soul Of Success by Phil Jackson
-* The Neil Gaiman Reader: Selected Fiction by Neil Gaiman
 
-### 2020
-* The Grapes of Wrath by John Steinbeck
-* The Invisible Hook by Peter Leeson
-* What Do You Care What Other People Think by Richard Feynman
-* Open by Andre Agassi
-* An Astronaut's Guide to Life on Earth by Chris Hadfield
-* Talking to Strangers: What We Should Know About the People We Don't Know by Malcolm Gladwell
-* On Writing: A Memoir of the Craft by Stephen King
-* The Elements of Style by William Strunk
-* What I Talk About When I Talk About Running by Haruki Murakami 
-* The Phoenix Project by Gene Kim
-
-### 2019
-* 56 by Bob Ong
-
-### 2018
-* Anthem by Ayn Rand
-
-### 2017
-* 1Q84 by Haruki Murakami
-* Norse Mythology by Neil Gaiman
-* Thirteen Reasons Why by Jay Asher
-* Wool Omnibus by Hugh Howey
-* Fahrenheit 451 by Ray Bradbury
-* Lord of the Flies by William Golding
-* The Ocean at the End of the Lane by Neil Gaiman
-* The Happiness Project by Gretchen Rubin
-
-### 2016
-* How Music Got Free by Stephen Richard Witt
-* Go Set A Watchman by Harper Lee
-* Harry Potter and the Sorcerer's Stone by J.K. Rowling
-* The Golem and the Jinni by Helene Wecker
-* Challenger Deep by Neil Shusterman
-* The Story of Kullervo by J.R.R. Tolkien
-* What If? by Randall Munroe
-* Ready Player One by Ernest Cline
-
-## [language](:Icon) Websites
+# Websites
 * [The True Size Of](https://thetruesize.com/)
 * [github1s](https://github.com/conwnet/github1s)
 * [Sonic Pi](https://sonic-pi.net/)
@@ -173,8 +139,28 @@ A curated list of things I find awesome. Inspired by the [awesome list](https://
 * [Nosleep.page](https://nosleep.page/)
 * [Common picture sizes and aspect ratios](https://kelmond.com/common-picture-sizes-and-aspect-ratios/)
 * [Wordalle](https://huggingface.co/spaces/huggingface-projects/wordalle)
+* [XKCD | Circles](https://xkcd.com/2436/)
+* [Explosm | Noise Canceling](https://explosm.net/comics/5825/)
+* [Penny Arcade | Pokemonopoly](https://www.penny-arcade.com/comic/2021/03/29/cards)
+* [Doom Captcha](https://vivirenremoto.github.io/doomcaptcha/)
+* [iPod JS](https://tannerv.com/ipod/)
+* [Elevator Saga](https://play.elevatorsaga.com/)
+* [Editable Laptop Screen](https://developer.bbc.com/login-required)
+* [How A Sewing Machine Works](https://www.reddit.com/r/woahdude/comments/o49rhf/how_a_sewing_machine_works/)
+* [Ask a bartender a question](https://www.datasecretslox.com/index.php/topic,4086.msg135692.html)
+* [Spider-Man: No Way Home Trailer Cartoon Style](https://www.youtube.com/watch?v=IrrgeCuKPz4)
+* [Perceptual Illusions](https://nautil.us/blog/12-mind_bending-perceptual-illusions)
+* [rouille](https://github.com/bnjbvr/rouille)
+* [The Opera Game](https://gregkarber.com/opera/)
+* [Learning Music](https://learningmusic.ableton.com/)
+* [After Dark in CSS](https://www.bryanbraun.com/after-dark-css/)
+* [Townscaper](https://oskarstalberg.com/Townscaper)
+* [How to imagine 52!](https://www.youtube.com/watch?v=ObiqJzfyACM)
+* [The Time Viewer](https://www.youtube.com/watch?v=SfgUL4HwaW8)
+* [Almost Pong](https://www.lessmilk.com/almost-pong/)
+* [100000 Stars](https://stars.chromeexperiments.com/)
 
-## [article](:Icon) Articles
+# Articles
 * [Reputation](https://www.theplayerstribune.com/posts/reputation-julius-randle-new-york-knicks-basketball-nba)
 * [Donate Unrestricted](http://www.paulgraham.com/donate.html)
 * [Is There Such Thing As Good Taste?](http://www.paulgraham.com/goodtaste.html)
@@ -202,24 +188,11 @@ A curated list of things I find awesome. Inspired by the [awesome list](https://
 * [The Story Behind the Official Fifth Pocket](https://www.levistrauss.com/2021/05/03/the-story-behind-the-official-fifth-pocket/)
 * [Well-Kept Gardens Die By Pacifism](https://www.lesswrong.com/posts/tscc3e5eujrsEeFN4/well-kept-gardens-die-by-pacifism)
 
-## [cake](:Icon) Fun
-* [XKCD | Circles](https://xkcd.com/2436/)
-* [Explosm | Noise Canceling](https://explosm.net/comics/5825/)
-* [Penny Arcade | Pokemonopoly](https://www.penny-arcade.com/comic/2021/03/29/cards)
-* [Doom Captcha](https://vivirenremoto.github.io/doomcaptcha/)
-* [iPod JS](https://tannerv.com/ipod/)
-* [Elevator Saga](https://play.elevatorsaga.com/)
-* [Editable Laptop Screen](https://developer.bbc.com/login-required)
-* [How A Sewing Machine Works](https://www.reddit.com/r/woahdude/comments/o49rhf/how_a_sewing_machine_works/)
-* [Ask a bartender a question](https://www.datasecretslox.com/index.php/topic,4086.msg135692.html)
-* [Spider-Man: No Way Home Trailer Cartoon Style](https://www.youtube.com/watch?v=IrrgeCuKPz4)
-* [Perceptual Illusions](https://nautil.us/blog/12-mind_bending-perceptual-illusions)
-* [rouille](https://github.com/bnjbvr/rouille)
-* [The Opera Game](https://gregkarber.com/opera/)
-* [Learning Music](https://learningmusic.ableton.com/)
-* [After Dark in CSS](https://www.bryanbraun.com/after-dark-css/)
-* [Townscaper](https://oskarstalberg.com/Townscaper)
-* [How to imagine 52!](https://www.youtube.com/watch?v=ObiqJzfyACM)
-* [The Time Viewer](https://www.youtube.com/watch?v=SfgUL4HwaW8)
-* [Almost Pong](https://www.lessmilk.com/almost-pong/)
-* [100000 Stars](https://stars.chromeexperiments.com/)
+
+
+
+
+# Anime
+* Haikyuu
+* Kuroko no Basuke
+* Spy x Family
