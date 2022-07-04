@@ -59,29 +59,40 @@ A curated list of things I find awesome. Inspired by the [awesome list](https://
 * [Hot Ones](https://www.youtube.com/c/FirstWeFeast)
 * [Kurzgesagt](https://www.youtube.com/c/inanutshell)
 * [Lessons From The Screenplay](https://www.youtube.com/c/LessonsfromtheScreenplay)
-* [Tom Scott](https://www.youtube.com/c/TomScottGo)
 * [Mark Rober](https://www.youtube.com/c/MarkRober)
-* [Veritasium](https://www.youtube.com/c/veritasium)
+* [Technology Connections](https://www.youtube.com/c/TechnologyConnections)
+* [Tom Scott](https://www.youtube.com/c/TomScottGo)
 * [Stuff Made Here](https://www.youtube.com/channel/UCj1VqrHhDte54oLgPG4xpuQ)
+* [Veritasium](https://www.youtube.com/c/veritasium)
+
 > :Buttons
 > > :Button label=Favorite episodes, url=/awesome/yt-fav
 
-## Others
-* [No Quit](https://www.youtube.com/watch?v=oIzBsvHwYr4)
+## Sports
 * [UAAP 81 UP vs AdU](https://www.youtube.com/watch?v=hTcM0X4SY4w)
 * [UAAP 84 UP vs ADMU](https://www.youtube.com/watch?v=ww5mYfrdOno)
 * [UAAP 84 UP vs ADMU GIF](https://twitter.com/i/status/1526533267947524097)
+* [NBA Finals 2021 | Giannis Father Stretch My Hands](https://www.reddit.com/r/nba/comments/omp8j9/giannis_x_father_stretch_my_hands/)
+* [NBA Finals 2021 | Giannis Ego, Pride, Humility](https://twitter.com/Bucks/status/1416201484622917633)
+* [NBA Finals 2021 | Giannis Block](https://www.reddit.com/r/nba/comments/okl4tt/highlight_gianniss_gamesaving_block_on_deandre/)
+* [NBA Finals 2021 | Kevin Durant Clutch](https://www.reddit.com/r/nba/comments/o0w4w2/highlight_kevin_durant_comes_up_clutch_late_in/)
+* [NBA Finals 2021 | Ayton Alley-Oop](https://www.reddit.com/r/suns/comments/o6akkf/amazing_angle_of_the_valleyoop_i_found_on_twitter/)
+* [Damian Lillard Game Winner](https://streamable.com/vflu6r)
+* [Take That For Data](https://www.youtube.com/watch?v=LGN5S-X9wIw&t=1s)
+
+## Clips
+* [Sicario Mexico Border Scene](https://www.youtube.com/watch?v=LzKwClRvRco)
+* [You Can't Handle The Truth - A Few Good Men](https://www.youtube.com/watch?v=9FnO3igOkOk)
 * [8:46 - Dave Chappelle](https://www.youtube.com/watch?v=3tR6mKcBbT4)
+
+## Others
+* [No Quit](https://www.youtube.com/watch?v=oIzBsvHwYr4)
 * [Better | Mamba Forever | Nike](https://www.youtube.com/watch?v=C9I-W1eTCbk)
 * [Rafael Nadal: Rally | Nike](https://www.youtube.com/watch?v=1tSDyLeUwJ4)
 * [TED | Linus Torvalds](https://www.ted.com/talks/linus_torvalds_the_mind_behind_linux)
 * [Sax-A-Boom](https://www.youtube.com/watch?v=cLmCJKT5ssw)
-* [Damian Lillard Game Winner](https://streamable.com/vflu6r)
-* [Sicario Mexico Border Scene](https://www.youtube.com/watch?v=LzKwClRvRco)
-* [A Few Good Men | You Can't Handle The Truth](https://www.youtube.com/watch?v=9FnO3igOkOk)
 * [The Art of Code - Dylan Beattie](https://www.youtube.com/watch?v=6avJHaC3C2U)
 * [How To Speak - Patrick Winston](https://www.youtube.com/watch?v=Unzc731iCUY)
-* [Take That For Data](https://www.youtube.com/watch?v=LGN5S-X9wIw&t=1s)
 * [CGP Grey | Metric Paper & Everything In The Universe](https://www.youtube.com/watch?v=pUF5esTscZI)
 * [The Fastest Way To Loop In Python](https://www.youtube.com/watch?v=Qgevy75co8c)
 * [Let's Crack Zodiac - Episode 5 - The 340 Is Solved!](https://www.youtube.com/watch?v=-1oQLPRE21o)
@@ -105,12 +116,6 @@ A curated list of things I find awesome. Inspired by the [awesome list](https://
 * [Is this what endgame keyboard sound like](https://www.reddit.com/r/MechanicalKeyboards/comments/u3hazt/is_this_what_endgame_keyboard_sound_like/)
 * [Inside Perspective On Comb Picking](https://www.youtube.com/watch?v=6DPCE1Ct8U8)
 
-## NBA Finals 2021
-* [Giannis x Father Stretch My Hands](https://www.reddit.com/r/nba/comments/omp8j9/giannis_x_father_stretch_my_hands/)
-* [Giannis Ego, Pride, Humility](https://twitter.com/Bucks/status/1416201484622917633)
-* [Giannis Block](https://www.reddit.com/r/nba/comments/okl4tt/highlight_gianniss_gamesaving_block_on_deandre/)
-* [Kevin Durant Clutch](https://www.reddit.com/r/nba/comments/o0w4w2/highlight_kevin_durant_comes_up_clutch_late_in/)
-* [Ayton Alley-Oop](https://www.reddit.com/r/suns/comments/o6akkf/amazing_angle_of_the_valleyoop_i_found_on_twitter/)
 
 
 
