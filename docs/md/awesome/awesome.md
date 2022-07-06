@@ -58,12 +58,14 @@ A curated list of things I find awesome. Inspired by the [awesome list](https://
 ## Youtube Channels
 * [Hot Ones](https://www.youtube.com/c/FirstWeFeast)
 * [Kurzgesagt](https://www.youtube.com/c/inanutshell)
+* [LockPickingLawyer](https://www.youtube.com/c/lockpickinglawyer)
 * [Lessons From The Screenplay](https://www.youtube.com/c/LessonsfromtheScreenplay)
 * [Mark Rober](https://www.youtube.com/c/MarkRober)
 * [Technology Connections](https://www.youtube.com/c/TechnologyConnections)
 * [Tom Scott](https://www.youtube.com/c/TomScottGo)
 * [Stuff Made Here](https://www.youtube.com/channel/UCj1VqrHhDte54oLgPG4xpuQ)
 * [Veritasium](https://www.youtube.com/c/veritasium)
+* [Vsauce](https://www.youtube.com/c/vsauce1)
 
 > :Buttons
 > > :Button label=Favorite episodes, url=/awesome/yt-fav
@@ -97,27 +99,18 @@ A curated list of things I find awesome. Inspired by the [awesome list](https://
 * [The Fastest Way To Loop In Python](https://www.youtube.com/watch?v=Qgevy75co8c)
 * [Let's Crack Zodiac - Episode 5 - The 340 Is Solved!](https://www.youtube.com/watch?v=-1oQLPRE21o)
 * [Saul Teaches Jesse Money Laundering](https://www.youtube.com/watch?v=RhsUHDJ0BFM)
-* [The Future Of Reasoning](https://www.youtube.com/watch?v=_ArVh3Cj9rw)
 * [how we write/review code in big tech companies](https://www.youtube.com/watch?v=rR4n-0KYeKQ)
-* [Unpickable Locks From Stuff Made Here](https://www.youtube.com/watch?v=Ecy1FBdCRbQ)
 * [Super Mario Bros: The Human Limit](https://www.youtube.com/watch?v=7rIJNT7dCmE)
 * [BrainCraft | Procrastination](https://www.youtube.com/watch?v=v7RX_5eGNJM)
 * [Student pilot loses engine](https://www.youtube.com/watch?v=PTrLxkVOShg)
 * [Active Ball Joint Mechanism](https://www.youtube.com/watch?v=AHUv9Zda_48)
 * [Why Japan Looks the Way it Does: Zoning](https://www.youtube.com/watch?v=wfm2xCKOCNk)
 * [The Grand Seiko Spring Drive](https://www.youtube.com/watch?v=jVoRoK1u3Dg)
-* [The Antique Toaster that's Better than Yours](https://www.youtube.com/watch?v=1OfxlSG6q5Y)
-* [Lessons from a Can Opener](https://www.youtube.com/watch?v=i_mLxyIXpSY)
 * [Seatbelt | How does it work?](https://www.youtube.com/watch?v=uRaU1HMJyCo)
 * [The Biggest Cheater In Guitar Hero History](https://www.youtube.com/watch?v=58fqNL-kvaI)
 * [I Let My Wife Down](https://www.youtube.com/watch?v=aKkVqmvs4NA)
-* [Inside Perspective on Picking Disc Detainer Locks](https://www.youtube.com/watch?v=tjdDF_VcI_o)
 * [Help Me Identify This Bizarre Lock](https://www.youtube.com/watch?v=5kFXq06KveY)
 * [Is this what endgame keyboard sound like](https://www.reddit.com/r/MechanicalKeyboards/comments/u3hazt/is_this_what_endgame_keyboard_sound_like/)
-* [Inside Perspective On Comb Picking](https://www.youtube.com/watch?v=6DPCE1Ct8U8)
-
-
-
 
 # Websites
 * [The True Size Of](https://thetruesize.com/)
