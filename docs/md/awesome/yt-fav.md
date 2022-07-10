@@ -36,6 +36,7 @@
 * [Unpickable Locks From Stuff Made Here](https://www.youtube.com/watch?v=Ecy1FBdCRbQ)
 * [Inside Perspective on Picking Disc Detainer Locks](https://www.youtube.com/watch?v=tjdDF_VcI_o)
 * [Inside Perspective On Comb Picking](https://www.youtube.com/watch?v=6DPCE1Ct8U8)
+* [VERY Clever “Loki” Puzzle Padlock Solved](https://www.youtube.com/watch?v=OFvTzppfJnA)
 
 ## Mark Rober
 * [Backyard Squirrel Maze 2.0- The Walnut Heist](https://www.youtube.com/watch?v=DTvS9lvRxZ8)

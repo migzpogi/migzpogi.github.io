@@ -191,6 +191,11 @@ A curated list of things I find awesome. Inspired by the [awesome list](https://
 
 
 # Anime
+* Barakamon
 * Haikyuu
+* Jujutsu Kaisen
+* Kimetsu no Yaiba
 * Kuroko no Basuke
+* Shingeki no Kyojin
 * Spy x Family
+
