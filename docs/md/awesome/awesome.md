@@ -112,6 +112,7 @@ A curated list of things I find awesome. Inspired by the [awesome list](https://
 * [Help Me Identify This Bizarre Lock](https://www.youtube.com/watch?v=5kFXq06KveY)
 * [Is this what endgame keyboard sound like](https://www.reddit.com/r/MechanicalKeyboards/comments/u3hazt/is_this_what_endgame_keyboard_sound_like/)
 * [Don't Mess with me (While I'm Jellyfishing) - Spongebob Rap Freestyle](https://www.youtube.com/watch?v=XTwkTVjbn78)
+* [I Attempted a Speedrun (and got a world record)](https://www.youtube.com/watch?v=YEoCQSXl_EY)
 # Websites
 * [The True Size Of](https://thetruesize.com/)
 * [github1s](https://github.com/conwnet/github1s)
