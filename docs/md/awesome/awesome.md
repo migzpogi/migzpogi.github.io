@@ -158,6 +158,7 @@ A curated list of things I find awesome. Inspired by the [awesome list](https://
 * [The Time Viewer](https://www.youtube.com/watch?v=SfgUL4HwaW8)
 * [Almost Pong](https://www.lessmilk.com/almost-pong/)
 * [100000 Stars](https://stars.chromeexperiments.com/)
+* [Politician using tiktok properly lmao](https://www.reddit.com/r/TikTokCringe/comments/w2ax17/politician_using_tiktok_properly_lmao/)
 
 # Articles
 * [Reputation](https://www.theplayerstribune.com/posts/reputation-julius-randle-new-york-knicks-basketball-nba)
