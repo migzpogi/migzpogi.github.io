@@ -113,6 +113,7 @@ A curated list of things I find awesome. Inspired by the [awesome list](https://
 * [Is this what endgame keyboard sound like](https://www.reddit.com/r/MechanicalKeyboards/comments/u3hazt/is_this_what_endgame_keyboard_sound_like/)
 * [Don't Mess with me (While I'm Jellyfishing) - Spongebob Rap Freestyle](https://www.youtube.com/watch?v=XTwkTVjbn78)
 * [I Attempted a Speedrun (and got a world record)](https://www.youtube.com/watch?v=YEoCQSXl_EY)
+
 # Websites
 * [The True Size Of](https://thetruesize.com/)
 * [github1s](https://github.com/conwnet/github1s)
@@ -159,6 +160,8 @@ A curated list of things I find awesome. Inspired by the [awesome list](https://
 * [Almost Pong](https://www.lessmilk.com/almost-pong/)
 * [100000 Stars](https://stars.chromeexperiments.com/)
 * [Politician using tiktok properly lmao](https://www.reddit.com/r/TikTokCringe/comments/w2ax17/politician_using_tiktok_properly_lmao/)
+* [GRAND THEFT AUTO 1996 Making Of - GTA - | Retro Gaming | BBC Archive](https://www.youtube.com/watch?v=7vWSi44ZTSw)
+
 
 # Articles
 * [Reputation](https://www.theplayerstribune.com/posts/reputation-julius-randle-new-york-knicks-basketball-nba)
