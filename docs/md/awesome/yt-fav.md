@@ -1,6 +1,7 @@
 # Favorite Episodes 
 
 ## Hot Ones
+* [Bear Grylls](https://www.youtube.com/watch?v=2pnBCHN9EOE)
 * [Big Sean](https://www.youtube.com/watch?v=4VoqwrEEAZM)
 * [Bill Burr](https://www.youtube.com/watch?v=8Lvrikv6oPs)
 * [Blake Griffin](https://www.youtube.com/watch?v=41iUdhFi8Gs)
