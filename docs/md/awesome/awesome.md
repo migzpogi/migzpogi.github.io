@@ -63,6 +63,7 @@ A curated list of things I find awesome. Inspired by the [awesome list](https://
 * [Mark Rober](https://www.youtube.com/c/MarkRober)
 * [Technology Connections](https://www.youtube.com/c/TechnologyConnections)
 * [Tom Scott](https://www.youtube.com/c/TomScottGo)
+* [Tracklib](https://www.youtube.com/c/tracklib)
 * [Stuff Made Here](https://www.youtube.com/channel/UCj1VqrHhDte54oLgPG4xpuQ)
 * [Veritasium](https://www.youtube.com/c/veritasium)
 * [Vsauce](https://www.youtube.com/c/vsauce1)
