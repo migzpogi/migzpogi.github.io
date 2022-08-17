@@ -56,6 +56,7 @@ A curated list of things I find awesome. Inspired by the [awesome list](https://
 
 # Videos
 ## Youtube Channels
+* [Hacksmith](https://www.youtube.com/c/theHacksmith)
 * [Hot Ones](https://www.youtube.com/c/FirstWeFeast)
 * [Kurzgesagt](https://www.youtube.com/c/inanutshell)
 * [LockPickingLawyer](https://www.youtube.com/c/lockpickinglawyer)

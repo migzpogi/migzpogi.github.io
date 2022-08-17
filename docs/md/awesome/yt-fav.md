@@ -1,5 +1,8 @@
 # Favorite Episodes 
 
+## Hacksmith
+* [GIANT THOR HAMMER vs TRUCK!](https://www.youtube.com/watch?v=u2ekb-L7xZ4)
+
 ## Hot Ones
 * [Bear Grylls](https://www.youtube.com/watch?v=2pnBCHN9EOE)
 * [Big Sean](https://www.youtube.com/watch?v=4VoqwrEEAZM)
