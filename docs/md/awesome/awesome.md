@@ -83,6 +83,7 @@ A curated list of things I find awesome. Inspired by the [awesome list](https://
 * [NBA Finals 2021 | Ayton Alley-Oop](https://www.reddit.com/r/suns/comments/o6akkf/amazing_angle_of_the_valleyoop_i_found_on_twitter/)
 * [Damian Lillard Game Winner](https://streamable.com/vflu6r)
 * [Take That For Data](https://www.youtube.com/watch?v=LGN5S-X9wIw&t=1s)
+* [Open Court "Best 2000's Team Without A Title"](https://www.youtube.com/watch?v=9aKzmRj_Bdk)
 
 ## Clips
 * [Sicario Mexico Border Scene](https://www.youtube.com/watch?v=LzKwClRvRco)
