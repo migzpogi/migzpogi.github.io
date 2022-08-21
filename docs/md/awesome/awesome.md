@@ -137,6 +137,7 @@ A curated list of things I find awesome. Inspired by the [awesome list](https://
 * [Snapdrop](https://snapdrop.net/)
 * [Awesome TUIs](https://github.com/rothgar/awesome-tuis)
 * [cheat.sh](https://cheat.sh/)
+* [wttr.in](https://wttr.in/)
 * [bat](https://github.com/sharkdp/bat)
 * [Virtual bookshelf](https://github.com/petargyurov/virtual-bookshelf)
 * [Nosleep.page](https://nosleep.page/)
