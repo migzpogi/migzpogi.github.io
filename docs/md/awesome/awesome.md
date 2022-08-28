@@ -6,6 +6,7 @@ A curated list of things I find awesome. Inspired by the [awesome list](https://
 * Greenlights by Matthew McConaughey
 * The Anthropocene Reviewed by John Green
 * Kitchen Confidential by Anthony Bourdain
+* Sapiens by Yuval Noah Harari
 
 ## 2021
 * Neverwhere by Neil Gaiman
