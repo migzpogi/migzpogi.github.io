@@ -89,6 +89,7 @@ A curated list of things I find awesome. Inspired by the [awesome list](https://
 ## Clips
 * [Sicario Mexico Border Scene](https://www.youtube.com/watch?v=LzKwClRvRco)
 * [You Can't Handle The Truth - A Few Good Men](https://www.youtube.com/watch?v=9FnO3igOkOk)
+* [Hacksaw Ridge - Lord, help me get one more](https://www.youtube.com/watch?v=5pBEnaBYwFI)
 * [8:46 - Dave Chappelle](https://www.youtube.com/watch?v=3tR6mKcBbT4)
 
 ## Others
