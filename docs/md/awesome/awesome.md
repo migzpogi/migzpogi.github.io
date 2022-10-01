@@ -121,6 +121,7 @@ A curated list of things I find awesome. Inspired by the [awesome list](https://
 * [AI Wrote and Performed a Jerry Seinfeld Routine!](https://www.youtube.com/watch?v=1onxri0duN0)
 * [GRAND THEFT AUTO 1996 Making Of - GTA - | Retro Gaming | BBC Archive](https://www.youtube.com/watch?v=7vWSi44ZTSw)
 * [Why our Screwdriver took 3 YEARS](https://www.youtube.com/watch?v=2K5Gqp1cEcM)
+* [Epic Cycling | 134.5 kg Concrete Bike](https://www.youtube.com/watch?v=Yqgn-qlg1X0)
 
 # Websites
 * [The True Size Of](https://thetruesize.com/)
