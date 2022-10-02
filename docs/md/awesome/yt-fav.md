@@ -9,6 +9,7 @@
 * [Bill Burr](https://www.youtube.com/watch?v=8Lvrikv6oPs)
 * [Blake Griffin](https://www.youtube.com/watch?v=41iUdhFi8Gs)
 * [Colin Farrell](https://www.youtube.com/watch?v=pf9M8Ckomo0)
+* [David Blaine](https://www.youtube.com/watch?v=4E2EbGoXlPQ)
 * [Ed Sheeran](https://www.youtube.com/watch?v=mKy5K-S4QpU)
 * [Elizabeth Olsen](https://www.youtube.com/watch?v=OFl9IRb9sEE)
 * [Gabriel Iglesias](https://www.youtube.com/watch?v=16vj35mwxm0)
