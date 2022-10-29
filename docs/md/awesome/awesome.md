@@ -93,6 +93,7 @@ A curated list of things I find awesome. Inspired by the [awesome list](https://
 * [Hacksaw Ridge - Lord, help me get one more](https://www.youtube.com/watch?v=5pBEnaBYwFI)
 * [8:46 - Dave Chappelle](https://www.youtube.com/watch?v=3tR6mKcBbT4)
 * [Whiplash](https://www.youtube.com/watch?v=2TAfvMn8_EQ)
+* [Hidden Figures](https://www.youtube.com/watch?v=hNK8FCFpmm4)
 
 ## Others
 * [No Quit](https://www.youtube.com/watch?v=oIzBsvHwYr4)
