@@ -206,7 +206,7 @@ A curated list of things I find awesome. Inspired by the [awesome list](https://
 * [The strange business of hole-in-one insurance](https://thehustle.co/the-strange-business-of-hole-in-one-insurance/)
 * [The Story Behind the Official Fifth Pocket](https://www.levistrauss.com/2021/05/03/the-story-behind-the-official-fifth-pocket/)
 * [Well-Kept Gardens Die By Pacifism](https://www.lesswrong.com/posts/tscc3e5eujrsEeFN4/well-kept-gardens-die-by-pacifism)
-
+* [Digital Gardening](https://nicolasbouliane.com/blog/digital-gardening)
 
 
 
