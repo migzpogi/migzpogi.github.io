@@ -220,4 +220,5 @@ A curated list of things I find awesome. Inspired by the [awesome list](https://
 * Kuroko no Basuke
 * Shingeki no Kyojin
 * Spy x Family
+* Summertime Rendering
 
