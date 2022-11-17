@@ -3,10 +3,10 @@ A curated list of things I find awesome. Inspired by the [awesome list](https://
 
 # Books 
 ## 2022
-* Greenlights by Matthew McConaughey
-* The Anthropocene Reviewed by John Green
-* Kitchen Confidential by Anthony Bourdain
 * Sapiens by Yuval Noah Harari
+* Kitchen Confidential by Anthony Bourdain
+* The Anthropocene Reviewed by John Green
+* Greenlights by Matthew McConaughey
 
 ## 2021
 * Neverwhere by Neil Gaiman
