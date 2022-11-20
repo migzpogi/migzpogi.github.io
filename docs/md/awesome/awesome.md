@@ -208,6 +208,7 @@ A curated list of things I find awesome. Inspired by the [awesome list](https://
 * [The Story Behind the Official Fifth Pocket](https://www.levistrauss.com/2021/05/03/the-story-behind-the-official-fifth-pocket/)
 * [Well-Kept Gardens Die By Pacifism](https://www.lesswrong.com/posts/tscc3e5eujrsEeFN4/well-kept-gardens-die-by-pacifism)
 * [Digital Gardening](https://nicolasbouliane.com/blog/digital-gardening)
+* [Convert a GPT disk into an MBR disk](https://learn.microsoft.com/en-us/windows-server/storage/disk-management/change-a-gpt-disk-into-an-mbr-disk)
 
 
 
