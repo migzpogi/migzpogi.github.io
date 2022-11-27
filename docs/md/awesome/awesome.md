@@ -129,6 +129,7 @@ A curated list of things I find awesome. Inspired by the [awesome list](https://
 * [Epic Cycling | 134.5 kg Concrete Bike](https://www.youtube.com/watch?v=Yqgn-qlg1X0)
 * [I made Minecraft in Minecraft with redstone!](https://www.youtube.com/watch?v=-BP7DhHTU-I)
 * [American Cheese Isn't Cheese](https://www.youtube.com/watch?v=bISFxFauTzM)
+* [Dave Chappelle Roasts Kanye West, Jews & Makes Woke Culture Cry](https://www.youtube.com/watch?v=3YqD_Qeukko)
 
 # Websites
 * [The True Size Of](https://thetruesize.com/)
