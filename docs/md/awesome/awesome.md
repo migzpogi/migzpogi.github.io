@@ -212,6 +212,7 @@ A curated list of things I find awesome. Inspired by the [awesome list](https://
 * [Convert a GPT disk into an MBR disk](https://learn.microsoft.com/en-us/windows-server/storage/disk-management/change-a-gpt-disk-into-an-mbr-disk)
 * [Corpse Run 1,175: …only for now](https://corpseruncomics.com/comic/corpse-run-1175-only-for-now/)
 * [May itsura pa naman yung babae.](https://www.reddit.com/r/Philippines/comments/z3zlwy/may_itsura_pa_naman_yung_babae/)
+* [Ashley Rivera on Siargao’s lack of medical facilities](https://www.reddit.com/r/Philippines/comments/z6v0h3/ashley_rivera_on_siargaos_lack_of_medical/)
 
 
 # Anime
