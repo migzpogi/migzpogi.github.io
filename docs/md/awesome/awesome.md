@@ -3,6 +3,7 @@ A curated list of things I find awesome. Inspired by the [awesome list](https://
 
 # Books 
 ## 2022
+* Crying in H Mart by Michelle Zauner
 * Sapiens by Yuval Noah Harari
 * Kitchen Confidential by Anthony Bourdain
 * The Anthropocene Reviewed by John Green
