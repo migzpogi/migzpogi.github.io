@@ -97,6 +97,7 @@ A curated list of things I find awesome. Inspired by the [awesome list](https://
 * [Hidden Figures](https://www.youtube.com/watch?v=hNK8FCFpmm4)
 * [Training Day](https://www.youtube.com/watch?v=neoAJrzKXq4)
 * [The Other Guys](https://www.youtube.com/watch?v=aDJgv1iARPg)
+* [Ted Lasso Dart Game](https://www.youtube.com/watch?v=oZ4YSXv6Xkg)
 
 ## Others
 * [No Quit](https://www.youtube.com/watch?v=oIzBsvHwYr4)
