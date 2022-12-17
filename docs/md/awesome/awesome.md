@@ -134,13 +134,18 @@ A curated list of things I find awesome. Inspired by the [awesome list](https://
 * [American Cheese Isn't Cheese](https://www.youtube.com/watch?v=bISFxFauTzM)
 * [Dave Chappelle Roasts Kanye West, Jews & Makes Woke Culture Cry](https://www.youtube.com/watch?v=3YqD_Qeukko)
 
-# Websites
-* [The True Size Of](https://thetruesize.com/)
+# Stuff I Actually Use
 * [github1s](https://github.com/conwnet/github1s)
-* [Sonic Pi](https://sonic-pi.net/)
+* [Taskwarrior](https://taskwarrior.org/)
 * [Bartosz Ciechanowski](https://ciechanow.ski/archives/)
 * [Ticker](https://github.com/achannarasappa/ticker)
-* [Taskwarrior](https://taskwarrior.org/)
+
+# Points of Interest
+* [This to That](https://www.thistothat.com/index.shtml?)
+
+# Websites
+* [The True Size Of](https://thetruesize.com/)
+* [Sonic Pi](https://sonic-pi.net/)
 * [Mitype](https://github.com/Mithil467/mitype)
 * [Pronouncing Non-English Names for English Speakers](https://github.com/SteveMCarroll/PronouncingNamesForEnglishSpeakers)
 * [Gooey](https://github.com/chriskiehl/Gooey)
