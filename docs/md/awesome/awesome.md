@@ -188,6 +188,7 @@ A curated list of things I find awesome. Inspired by the [awesome list](https://
 * [100000 Stars](https://stars.chromeexperiments.com/)
 * [Politician using tiktok properly lmao](https://www.reddit.com/r/TikTokCringe/comments/w2ax17/politician_using_tiktok_properly_lmao/)
 * [Markwhen](https://markwhen.com/)
+* [Lose the very](https://www.losethevery.com/)
 
 
 # Articles
