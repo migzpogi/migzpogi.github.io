@@ -134,6 +134,7 @@ A curated list of things I find awesome. Inspired by the [awesome list](https://
 * [American Cheese Isn't Cheese](https://www.youtube.com/watch?v=bISFxFauTzM)
 * [Dave Chappelle Roasts Kanye West, Jews & Makes Woke Culture Cry](https://www.youtube.com/watch?v=3YqD_Qeukko)
 * [Dashcam footage of cash van crew under attack from CIT robbers](https://www.youtube.com/watch?v=M6qEee1_4fw)
+* [When Roger was denied entry at Wimbledon](https://www.youtube.com/watch?v=feRqT9NZ6oU)
 
 # Stuff I Actually Use
 * [github1s](https://github.com/conwnet/github1s)
