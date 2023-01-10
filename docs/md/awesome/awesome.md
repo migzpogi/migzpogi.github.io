@@ -192,6 +192,7 @@ A curated list of things I find awesome. Inspired by the [awesome list](https://
 * [Lose the very](https://www.losethevery.com/)
 * [Gravity](https://xkcd.com/2712)
 * [Podcast.ai](https://podcast.ai/)
+* [Footybite](https://footybite.to/)
 
 
 # Articles
