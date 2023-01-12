@@ -2,6 +2,10 @@
 A curated list of things I find awesome. Inspired by the [awesome list](https://github.com/sindresorhus/awesome).
 
 # Books 
+
+## 2023
+* Escape Into Meaning by Evan Puschak
+
 ## 2022
 * Crying in H Mart by Michelle Zauner
 * Sapiens by Yuval Noah Harari
