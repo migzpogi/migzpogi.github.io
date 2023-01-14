@@ -2,6 +2,7 @@
 
 ## Hacksmith
 * [GIANT THOR HAMMER vs TRUCK!](https://www.youtube.com/watch?v=u2ekb-L7xZ4)
+* [Our BIGGEST project yet! (SPIDER MECH!)](https://www.youtube.com/watch?v=xd8dKY6Ozrg)
 
 ## Hot Ones
 * [Bear Grylls](https://www.youtube.com/watch?v=2pnBCHN9EOE)
