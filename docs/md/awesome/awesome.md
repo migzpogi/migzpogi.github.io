@@ -233,6 +233,7 @@ A curated list of things I find awesome. Inspired by the [awesome list](https://
 * [Ashley Rivera on Siargao’s lack of medical facilities](https://www.reddit.com/r/Philippines/comments/z6v0h3/ashley_rivera_on_siargaos_lack_of_medical/)
 * [The Cab Ride I'll Never Forget](https://kentnerburn.com/the-cab-ride-ill-never-forget/)
 
+
 # Anime
 * Barakamon
 * Haikyuu
