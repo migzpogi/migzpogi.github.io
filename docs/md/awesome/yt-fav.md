@@ -9,6 +9,7 @@
 * [Big Sean](https://www.youtube.com/watch?v=4VoqwrEEAZM)
 * [Bill Burr](https://www.youtube.com/watch?v=8Lvrikv6oPs)
 * [Blake Griffin](https://www.youtube.com/watch?v=41iUdhFi8Gs)
+* [Bryan Cranston](https://www.youtube.com/watch?v=OXEteCPQcGc)
 * [Colin Farrell](https://www.youtube.com/watch?v=pf9M8Ckomo0)
 * [David Blaine](https://www.youtube.com/watch?v=4E2EbGoXlPQ)
 * [Ed Sheeran](https://www.youtube.com/watch?v=mKy5K-S4QpU)
