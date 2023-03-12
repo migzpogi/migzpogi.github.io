@@ -232,6 +232,7 @@ A curated list of things I find awesome. Inspired by the [awesome list](https://
 * [May itsura pa naman yung babae.](https://www.reddit.com/r/Philippines/comments/z3zlwy/may_itsura_pa_naman_yung_babae/)
 * [Ashley Rivera on Siargao’s lack of medical facilities](https://www.reddit.com/r/Philippines/comments/z6v0h3/ashley_rivera_on_siargaos_lack_of_medical/)
 * [The Cab Ride I'll Never Forget](https://kentnerburn.com/the-cab-ride-ill-never-forget/)
+* [So, what's next?](https://github.com/zloirock/core-js/blob/master/docs/2023-02-14-so-whats-next.md)
 
 
 # Anime
