@@ -139,6 +139,7 @@ A curated list of things I find awesome. Inspired by the [awesome list](https://
 * [Dave Chappelle Roasts Kanye West, Jews & Makes Woke Culture Cry](https://www.youtube.com/watch?v=3YqD_Qeukko)
 * [Dashcam footage of cash van crew under attack from CIT robbers](https://www.youtube.com/watch?v=M6qEee1_4fw)
 * [When Roger was denied entry at Wimbledon](https://www.youtube.com/watch?v=feRqT9NZ6oU)
+* [Triple-Screen Laptop DONE RIGHT!](https://www.youtube.com/watch?v=aUKpY0o5tMo)
 
 # Stuff I Actually Use
 * [github1s](https://github.com/conwnet/github1s)
@@ -198,6 +199,11 @@ A curated list of things I find awesome. Inspired by the [awesome list](https://
 * [Podcast.ai](https://podcast.ai/)
 * [Footybite](https://footybite.to/)
 
+# Thoughts
+* [The Cab Ride I'll Never Forget](https://kentnerburn.com/the-cab-ride-ill-never-forget/)
+* [So, what's next?](https://github.com/zloirock/core-js/blob/master/docs/2023-02-14-so-whats-next.md)
+* [Ashley Rivera on Siargao’s lack of medical facilities](https://www.reddit.com/r/Philippines/comments/z6v0h3/ashley_rivera_on_siargaos_lack_of_medical/)
+
 
 # Articles
 * [Reputation](https://www.theplayerstribune.com/posts/reputation-julius-randle-new-york-knicks-basketball-nba)
@@ -230,9 +236,8 @@ A curated list of things I find awesome. Inspired by the [awesome list](https://
 * [Convert a GPT disk into an MBR disk](https://learn.microsoft.com/en-us/windows-server/storage/disk-management/change-a-gpt-disk-into-an-mbr-disk)
 * [Corpse Run 1,175: …only for now](https://corpseruncomics.com/comic/corpse-run-1175-only-for-now/)
 * [May itsura pa naman yung babae.](https://www.reddit.com/r/Philippines/comments/z3zlwy/may_itsura_pa_naman_yung_babae/)
-* [Ashley Rivera on Siargao’s lack of medical facilities](https://www.reddit.com/r/Philippines/comments/z6v0h3/ashley_rivera_on_siargaos_lack_of_medical/)
-* [The Cab Ride I'll Never Forget](https://kentnerburn.com/the-cab-ride-ill-never-forget/)
-* [So, what's next?](https://github.com/zloirock/core-js/blob/master/docs/2023-02-14-so-whats-next.md)
+
+
 
 
 # Anime
