@@ -64,7 +64,6 @@ A curated list of things I find awesome. Inspired by the [awesome list](https://
 ## Youtube Channels
 * [Brick Technology](https://www.youtube.com/c/BrickTechnology)
 * [Hacksmith](https://www.youtube.com/c/theHacksmith)
-* [Hot Ones](https://www.youtube.com/c/FirstWeFeast)
 * [Kurzgesagt](https://www.youtube.com/c/inanutshell)
 * [LockPickingLawyer](https://www.youtube.com/c/lockpickinglawyer)
 * [Lessons From The Screenplay](https://www.youtube.com/c/LessonsfromtheScreenplay)
@@ -92,17 +91,6 @@ A curated list of things I find awesome. Inspired by the [awesome list](https://
 * [Take That For Data](https://www.youtube.com/watch?v=LGN5S-X9wIw&t=1s)
 * [Open Court "Best 2000's Team Without A Title"](https://www.youtube.com/watch?v=9aKzmRj_Bdk)
 
-## Clips
-* [Sicario Mexico Border Scene](https://www.youtube.com/watch?v=LzKwClRvRco)
-* [You Can't Handle The Truth - A Few Good Men](https://www.youtube.com/watch?v=9FnO3igOkOk)
-* [Hacksaw Ridge - Lord, help me get one more](https://www.youtube.com/watch?v=5pBEnaBYwFI)
-* [8:46 - Dave Chappelle](https://www.youtube.com/watch?v=3tR6mKcBbT4)
-* [Whiplash](https://www.youtube.com/watch?v=2TAfvMn8_EQ)
-* [Hidden Figures](https://www.youtube.com/watch?v=hNK8FCFpmm4)
-* [Training Day](https://www.youtube.com/watch?v=neoAJrzKXq4)
-* [The Other Guys](https://www.youtube.com/watch?v=aDJgv1iARPg)
-* [Ted Lasso Dart Game](https://www.youtube.com/watch?v=oZ4YSXv6Xkg)
-* [Fences](https://www.youtube.com/watch?v=TbkUwE_Po-s)
 
 ## Others
 * [No Quit](https://www.youtube.com/watch?v=oIzBsvHwYr4)
