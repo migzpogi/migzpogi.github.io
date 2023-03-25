@@ -78,20 +78,6 @@ A curated list of things I find awesome. Inspired by the [awesome list](https://
 > :Buttons
 > > :Button label=Favorite episodes, url=/awesome/yt-fav
 
-## Sports
-* [UAAP 81 UP vs AdU](https://www.youtube.com/watch?v=hTcM0X4SY4w)
-* [UAAP 84 UP vs ADMU](https://www.youtube.com/watch?v=ww5mYfrdOno)
-* [UAAP 84 UP vs ADMU GIF](https://twitter.com/i/status/1526533267947524097)
-* [NBA Finals 2021 | Giannis Father Stretch My Hands](https://www.reddit.com/r/nba/comments/omp8j9/giannis_x_father_stretch_my_hands/)
-* [NBA Finals 2021 | Giannis Ego, Pride, Humility](https://twitter.com/Bucks/status/1416201484622917633)
-* [NBA Finals 2021 | Giannis Block](https://www.reddit.com/r/nba/comments/okl4tt/highlight_gianniss_gamesaving_block_on_deandre/)
-* [NBA Finals 2021 | Kevin Durant Clutch](https://www.reddit.com/r/nba/comments/o0w4w2/highlight_kevin_durant_comes_up_clutch_late_in/)
-* [NBA Finals 2021 | Ayton Alley-Oop](https://www.reddit.com/r/suns/comments/o6akkf/amazing_angle_of_the_valleyoop_i_found_on_twitter/)
-* [Damian Lillard Game Winner](https://streamable.com/vflu6r)
-* [Take That For Data](https://www.youtube.com/watch?v=LGN5S-X9wIw&t=1s)
-* [Open Court "Best 2000's Team Without A Title"](https://www.youtube.com/watch?v=9aKzmRj_Bdk)
-
-
 ## Others
 * [No Quit](https://www.youtube.com/watch?v=oIzBsvHwYr4)
 * [Better | Mamba Forever | Nike](https://www.youtube.com/watch?v=C9I-W1eTCbk)
