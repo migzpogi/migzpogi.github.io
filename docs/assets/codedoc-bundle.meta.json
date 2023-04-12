@@ -98,9 +98,9 @@
       "hash": "aa09u7XPvNn0PoGLSC9eYA=="
     },
     {
-      "name": "ToCPrevNext",
-      "filename": "/home/migzlegionubuntu/ubuntu_git/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js",
-      "hash": "u57FALME0msFjeOPW2+9hg=="
+      "name": "CollapseControl",
+      "filename": "/home/migzlegionubuntu/ubuntu_git/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/collapse/collapse-control.js",
+      "hash": "Nhhl4b58B/csvm7vrQnzrg=="
     },
     {
       "name": "TabSelector",
@@ -108,9 +108,9 @@
       "hash": "wbEYsoiy+k0DlDA91YBqcg=="
     },
     {
-      "name": "CollapseControl",
-      "filename": "/home/migzlegionubuntu/ubuntu_git/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/collapse/collapse-control.js",
-      "hash": "Nhhl4b58B/csvm7vrQnzrg=="
+      "name": "ToCPrevNext",
+      "filename": "/home/migzlegionubuntu/ubuntu_git/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js",
+      "hash": "u57FALME0msFjeOPW2+9hg=="
     }
   ],
   "renderer": {
