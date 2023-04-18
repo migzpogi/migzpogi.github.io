@@ -114,6 +114,7 @@ A curated list of things I find awesome. Inspired by the [awesome list](https://
 * [Dashcam footage of cash van crew under attack from CIT robbers](https://www.youtube.com/watch?v=M6qEee1_4fw)
 * [When Roger was denied entry at Wimbledon](https://www.youtube.com/watch?v=feRqT9NZ6oU)
 * [Triple-Screen Laptop DONE RIGHT!](https://www.youtube.com/watch?v=aUKpY0o5tMo)
+* [Casually Explained: Rock Climbing](https://www.youtube.com/watch?v=VtIyrJCfhk4)
 
 # Stuff I Actually Use
 * [github1s](https://github.com/conwnet/github1s)
