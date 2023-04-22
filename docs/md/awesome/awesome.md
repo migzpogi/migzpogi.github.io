@@ -115,6 +115,7 @@ A curated list of things I find awesome. Inspired by the [awesome list](https://
 * [When Roger was denied entry at Wimbledon](https://www.youtube.com/watch?v=feRqT9NZ6oU)
 * [Triple-Screen Laptop DONE RIGHT!](https://www.youtube.com/watch?v=aUKpY0o5tMo)
 * [Casually Explained: Rock Climbing](https://www.youtube.com/watch?v=VtIyrJCfhk4)
+* [Linus said WHAT about me??](https://www.youtube.com/watch?v=aYFwSlxe8ZI)
 
 # Stuff I Actually Use
 * [github1s](https://github.com/conwnet/github1s)
