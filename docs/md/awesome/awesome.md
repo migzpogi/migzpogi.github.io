@@ -116,6 +116,7 @@ A curated list of things I find awesome. Inspired by the [awesome list](https://
 * [Triple-Screen Laptop DONE RIGHT!](https://www.youtube.com/watch?v=aUKpY0o5tMo)
 * [Casually Explained: Rock Climbing](https://www.youtube.com/watch?v=VtIyrJCfhk4)
 * [Linus said WHAT about me??](https://www.youtube.com/watch?v=aYFwSlxe8ZI)
+* [Lying during small talk just to act like you're normal.](https://www.youtube.com/watch?v=X0Uyux2zfko)
 
 # Stuff I Actually Use
 * [github1s](https://github.com/conwnet/github1s)
