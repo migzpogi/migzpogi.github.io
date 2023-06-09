@@ -1,65 +1,6 @@
 # Awesome Stuff
 A curated list of things I find awesome. Inspired by the [awesome list](https://github.com/sindresorhus/awesome).
 
-# Books 
-
-## 2023
-* Escape Into Meaning by Evan Puschak
-
-## 2022
-* Crying in H Mart by Michelle Zauner
-* Sapiens by Yuval Noah Harari
-* Kitchen Confidential by Anthony Bourdain
-* The Anthropocene Reviewed by John Green
-* Greenlights by Matthew McConaughey
-
-## 2021
-* Neverwhere by Neil Gaiman
-* Catch-22 by Joseph Heller
-* Becoming by Michelle Obama
-* Anansi Boys by Neil Gaiman
-* Eleven Rings: The Soul Of Success by Phil Jackson
-* The Neil Gaiman Reader: Selected Fiction by Neil Gaiman
-
-## 2020
-* The Grapes of Wrath by John Steinbeck
-* The Invisible Hook by Peter Leeson
-* What Do You Care What Other People Think by Richard Feynman
-* Open by Andre Agassi
-* An Astronaut's Guide to Life on Earth by Chris Hadfield
-* Talking to Strangers: What We Should Know About the People We Don't Know by Malcolm Gladwell
-* On Writing: A Memoir of the Craft by Stephen King
-* The Elements of Style by William Strunk
-* What I Talk About When I Talk About Running by Haruki Murakami 
-* The Phoenix Project by Gene Kim
-
-## 2019
-* 56 by Bob Ong
-
-## 2018
-* Anthem by Ayn Rand
-
-## 2017
-* 1Q84 by Haruki Murakami
-* Norse Mythology by Neil Gaiman
-* Thirteen Reasons Why by Jay Asher
-* Wool Omnibus by Hugh Howey
-* Fahrenheit 451 by Ray Bradbury
-* Lord of the Flies by William Golding
-* The Ocean at the End of the Lane by Neil Gaiman
-* The Happiness Project by Gretchen Rubin
-
-## 2016
-* How Music Got Free by Stephen Richard Witt
-* Go Set A Watchman by Harper Lee
-* Harry Potter and the Sorcerer's Stone by J.K. Rowling
-* The Golem and the Jinni by Helene Wecker
-* Challenger Deep by Neil Shusterman
-* The Story of Kullervo by J.R.R. Tolkien
-* What If? by Randall Munroe
-* Ready Player One by Ernest Cline
-
-
 # Videos
 ## Youtube Channels
 * [Brick Technology](https://www.youtube.com/c/BrickTechnology)
