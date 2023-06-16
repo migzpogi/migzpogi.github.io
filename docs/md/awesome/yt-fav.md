@@ -1,9 +1,5 @@
 # Favorite Episodes 
 
-## Hacksmith
-* [GIANT THOR HAMMER vs TRUCK!](https://www.youtube.com/watch?v=u2ekb-L7xZ4)
-* [Our BIGGEST project yet! (SPIDER MECH!)](https://www.youtube.com/watch?v=xd8dKY6Ozrg)
-
 ## Kurzgesagt 
 * [An Antidote to Dissatisfaction](https://www.youtube.com/watch?v=WPPPFqsECz0)
 * [Optimistic Nihilism](https://www.youtube.com/watch?v=MBRqu0YOH14)

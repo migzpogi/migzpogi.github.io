@@ -3,12 +3,9 @@ A curated list of things I find awesome. Inspired by the [awesome list](https://
 
 # Videos
 ## Youtube Channels
-* [Brick Technology](https://www.youtube.com/c/BrickTechnology)
-* [Hacksmith](https://www.youtube.com/c/theHacksmith)
 * [Kurzgesagt](https://www.youtube.com/c/inanutshell)
 * [LockPickingLawyer](https://www.youtube.com/c/lockpickinglawyer)
 * [Lessons From The Screenplay](https://www.youtube.com/c/LessonsfromtheScreenplay)
-* [Mark Rober](https://www.youtube.com/c/MarkRober)
 * [Technology Connections](https://www.youtube.com/c/TechnologyConnections)
 * [Tom Scott](https://www.youtube.com/c/TomScottGo)
 * [Tracklib](https://www.youtube.com/c/tracklib)
