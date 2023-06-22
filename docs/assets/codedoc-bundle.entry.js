@@ -18,17 +18,17 @@ import { gatherFootnotes } from '/home/migzlegionubuntu/ubuntu_git/migzpogi.gith
 import { ToCToggle } from '/home/migzlegionubuntu/ubuntu_git/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toggle/index.js';
 import { DarkModeSwitch } from '/home/migzlegionubuntu/ubuntu_git/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/darkmode/index.js';
 import { ConfigTransport } from '/home/migzlegionubuntu/ubuntu_git/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/transport/config.js';
-import { ToCPrevNext } from '/home/migzlegionubuntu/ubuntu_git/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js';
 import { CollapseControl } from '/home/migzlegionubuntu/ubuntu_git/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/collapse/collapse-control.js';
 import { TabSelector } from '/home/migzlegionubuntu/ubuntu_git/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/tabs/selector.js';
+import { ToCPrevNext } from '/home/migzlegionubuntu/ubuntu_git/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js';
 
 const components = {
   '2KQ/U4adi/Z/oAWMjb12/g==': ToCToggle,
   'jR4pIl18XyJlqy0MRQ030Q==': DarkModeSwitch,
   'aa09u7XPvNn0PoGLSC9eYA==': ConfigTransport,
-  'u57FALME0msFjeOPW2+9hg==': ToCPrevNext,
   'Nhhl4b58B/csvm7vrQnzrg==': CollapseControl,
-  'wbEYsoiy+k0DlDA91YBqcg==': TabSelector
+  'wbEYsoiy+k0DlDA91YBqcg==': TabSelector,
+  'u57FALME0msFjeOPW2+9hg==': ToCPrevNext
 };
 
 const renderer = getRenderer();
