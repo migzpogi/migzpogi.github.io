@@ -16,10 +16,6 @@
 * [Inside Perspective On Comb Picking](https://www.youtube.com/watch?v=6DPCE1Ct8U8)
 * [VERY Clever “Loki” Puzzle Padlock Solved](https://www.youtube.com/watch?v=OFvTzppfJnA)
 
-## Mark Rober
-* [Backyard Squirrel Maze 2.0- The Walnut Heist](https://www.youtube.com/watch?v=DTvS9lvRxZ8)
-* [Is NASA a waste of money?](https://www.youtube.com/watch?v=lARpY0nIQx0)
-
 ## Technology Connections
 * [The Antique Toaster that's Better than Yours](https://www.youtube.com/watch?v=1OfxlSG6q5Y)
 * [Lessons from a Can Opener](https://www.youtube.com/watch?v=i_mLxyIXpSY)
