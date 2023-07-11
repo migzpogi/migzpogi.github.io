@@ -15,6 +15,7 @@ import { tocHighlight } from '/home/migzlegionubuntu/ubuntu_git/migzpogi.github.
 import { postNavSearch } from '/home/migzlegionubuntu/ubuntu_git/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/search/post-nav/index.js';postNavSearch();
 import { copyLineLinks } from '/home/migzlegionubuntu/ubuntu_git/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-links/copy-line-link.js';copyLineLinks();
 import { gatherFootnotes } from '/home/migzlegionubuntu/ubuntu_git/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/footnote/gather-footnotes.js';gatherFootnotes();
+import { reloadOnChange } from '/home/migzlegionubuntu/ubuntu_git/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/serve/reload.js';reloadOnChange();
 import { ToCToggle } from '/home/migzlegionubuntu/ubuntu_git/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toggle/index.js';
 import { DarkModeSwitch } from '/home/migzlegionubuntu/ubuntu_git/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/darkmode/index.js';
 import { ConfigTransport } from '/home/migzlegionubuntu/ubuntu_git/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/transport/config.js';

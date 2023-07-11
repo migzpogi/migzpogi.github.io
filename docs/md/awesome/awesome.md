@@ -55,6 +55,11 @@ A curated list of things I find awesome. Inspired by the [awesome list](https://
 * [Casually Explained: Rock Climbing](https://www.youtube.com/watch?v=VtIyrJCfhk4)
 * [Linus said WHAT about me??](https://www.youtube.com/watch?v=aYFwSlxe8ZI)
 * [Lying during small talk just to act like you're normal.](https://www.youtube.com/watch?v=X0Uyux2zfko)
+* [How They Fool Ya (live) | Math parody of Hallelujah](https://www.youtube.com/watch?v=NOCsdhzo6Jg)
+* [In Time Movie "Poker Scene"](https://www.youtube.com/watch?v=7DqqSsFWcHI)
+* [Giannis was asked if this season was a failure after playoffs elimination](https://www.youtube.com/watch?v=uZwlAzr44ys)
+* [Fences 2016 - TV Scene, "I ain't got to like you'" Scene](https://www.youtube.com/watch?v=TbkUwE_Po-s)
+* [J.R. Smith and Richard Jefferson Play Truth or Dab | Hot Ones](https://www.youtube.com/watch?v=NMT48N8EKZo)
 
 # Stuff I Actually Use
 * [github1s](https://github.com/conwnet/github1s)
@@ -113,6 +118,7 @@ A curated list of things I find awesome. Inspired by the [awesome list](https://
 * [Gravity](https://xkcd.com/2712)
 * [Podcast.ai](https://podcast.ai/)
 * [Footybite](https://footybite.to/)
+* [Pronouns](https://explosm.net/comics/pronouns-2)
 
 # Thoughts
 * [The Cab Ride I'll Never Forget](https://kentnerburn.com/the-cab-ride-ill-never-forget/)
