@@ -2,19 +2,6 @@
 A curated list of things I find awesome. Inspired by the [awesome list](https://github.com/sindresorhus/awesome).
 
 # Videos
-## Youtube Channels
-* [Kurzgesagt](https://www.youtube.com/c/inanutshell)
-* [LockPickingLawyer](https://www.youtube.com/c/lockpickinglawyer)
-* [Lessons From The Screenplay](https://www.youtube.com/c/LessonsfromtheScreenplay)
-* [Technology Connections](https://www.youtube.com/c/TechnologyConnections)
-* [Tom Scott](https://www.youtube.com/c/TomScottGo)
-* [Tracklib](https://www.youtube.com/c/tracklib)
-* [Stuff Made Here](https://www.youtube.com/channel/UCj1VqrHhDte54oLgPG4xpuQ)
-* [Veritasium](https://www.youtube.com/c/veritasium)
-* [Vsauce](https://www.youtube.com/c/vsauce1)
-
-> :Buttons
-> > :Button label=Favorite episodes, url=/awesome/yt-fav
 
 ## Others
 * [No Quit](https://www.youtube.com/watch?v=oIzBsvHwYr4)
