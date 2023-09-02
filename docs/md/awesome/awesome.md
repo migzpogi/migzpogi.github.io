@@ -1,67 +1,7 @@
 # Awesome Stuff
 A curated list of things I find awesome. Inspired by the [awesome list](https://github.com/sindresorhus/awesome).
 
-# Videos
-
-## Others
-* [No Quit](https://www.youtube.com/watch?v=oIzBsvHwYr4)
-* [Better | Mamba Forever | Nike](https://www.youtube.com/watch?v=C9I-W1eTCbk)
-* [Rafael Nadal: Rally | Nike](https://www.youtube.com/watch?v=1tSDyLeUwJ4)
-* [TED | Linus Torvalds](https://www.ted.com/talks/linus_torvalds_the_mind_behind_linux)
-* [Sax-A-Boom](https://www.youtube.com/watch?v=cLmCJKT5ssw)
-* [The Art of Code - Dylan Beattie](https://www.youtube.com/watch?v=6avJHaC3C2U)
-* [How To Speak - Patrick Winston](https://www.youtube.com/watch?v=Unzc731iCUY)
-* [CGP Grey | Metric Paper & Everything In The Universe](https://www.youtube.com/watch?v=pUF5esTscZI)
-* [The Fastest Way To Loop In Python](https://www.youtube.com/watch?v=Qgevy75co8c)
-* [Let's Crack Zodiac - Episode 5 - The 340 Is Solved!](https://www.youtube.com/watch?v=-1oQLPRE21o)
-* [Saul Teaches Jesse Money Laundering](https://www.youtube.com/watch?v=RhsUHDJ0BFM)
-* [how we write/review code in big tech companies](https://www.youtube.com/watch?v=rR4n-0KYeKQ)
-* [Super Mario Bros: The Human Limit](https://www.youtube.com/watch?v=7rIJNT7dCmE)
-* [BrainCraft | Procrastination](https://www.youtube.com/watch?v=v7RX_5eGNJM)
-* [Student pilot loses engine](https://www.youtube.com/watch?v=PTrLxkVOShg)
-* [Active Ball Joint Mechanism](https://www.youtube.com/watch?v=AHUv9Zda_48)
-* [Why Japan Looks the Way it Does: Zoning](https://www.youtube.com/watch?v=wfm2xCKOCNk)
-* [The Grand Seiko Spring Drive](https://www.youtube.com/watch?v=jVoRoK1u3Dg)
-* [Seatbelt | How does it work?](https://www.youtube.com/watch?v=uRaU1HMJyCo)
-* [The Biggest Cheater In Guitar Hero History](https://www.youtube.com/watch?v=58fqNL-kvaI)
-* [I Let My Wife Down](https://www.youtube.com/watch?v=aKkVqmvs4NA)
-* [Help Me Identify This Bizarre Lock](https://www.youtube.com/watch?v=5kFXq06KveY)
-* [Is this what endgame keyboard sound like](https://www.reddit.com/r/MechanicalKeyboards/comments/u3hazt/is_this_what_endgame_keyboard_sound_like/)
-* [Don't Mess with me (While I'm Jellyfishing) - Spongebob Rap Freestyle](https://www.youtube.com/watch?v=XTwkTVjbn78)
-* [I Attempted a Speedrun (and got a world record)](https://www.youtube.com/watch?v=YEoCQSXl_EY)
-* [AI Wrote and Performed a Jerry Seinfeld Routine!](https://www.youtube.com/watch?v=1onxri0duN0)
-* [GRAND THEFT AUTO 1996 Making Of - GTA - | Retro Gaming | BBC Archive](https://www.youtube.com/watch?v=7vWSi44ZTSw)
-* [Why our Screwdriver took 3 YEARS](https://www.youtube.com/watch?v=2K5Gqp1cEcM)
-* [Epic Cycling | 134.5 kg Concrete Bike](https://www.youtube.com/watch?v=Yqgn-qlg1X0)
-* [I made Minecraft in Minecraft with redstone!](https://www.youtube.com/watch?v=-BP7DhHTU-I)
-* [American Cheese Isn't Cheese](https://www.youtube.com/watch?v=bISFxFauTzM)
-* [Dave Chappelle Roasts Kanye West, Jews & Makes Woke Culture Cry](https://www.youtube.com/watch?v=3YqD_Qeukko)
-* [Dashcam footage of cash van crew under attack from CIT robbers](https://www.youtube.com/watch?v=M6qEee1_4fw)
-* [When Roger was denied entry at Wimbledon](https://www.youtube.com/watch?v=feRqT9NZ6oU)
-* [Triple-Screen Laptop DONE RIGHT!](https://www.youtube.com/watch?v=aUKpY0o5tMo)
-* [Casually Explained: Rock Climbing](https://www.youtube.com/watch?v=VtIyrJCfhk4)
-* [Linus said WHAT about me??](https://www.youtube.com/watch?v=aYFwSlxe8ZI)
-* [Lying during small talk just to act like you're normal.](https://www.youtube.com/watch?v=X0Uyux2zfko)
-* [How They Fool Ya (live) | Math parody of Hallelujah](https://www.youtube.com/watch?v=NOCsdhzo6Jg)
-* [In Time Movie "Poker Scene"](https://www.youtube.com/watch?v=7DqqSsFWcHI)
-* [Giannis was asked if this season was a failure after playoffs elimination](https://www.youtube.com/watch?v=uZwlAzr44ys)
-* [Fences 2016 - TV Scene, "I ain't got to like you'" Scene](https://www.youtube.com/watch?v=TbkUwE_Po-s)
-* [J.R. Smith and Richard Jefferson Play Truth or Dab | Hot Ones](https://www.youtube.com/watch?v=NMT48N8EKZo)
-
-# Stuff I Actually Use
-* [github1s](https://github.com/conwnet/github1s)
-* [Taskwarrior](https://taskwarrior.org/)
-* [Bartosz Ciechanowski](https://ciechanow.ski/archives/)
-* [Ticker](https://github.com/achannarasappa/ticker)
-
-# Points of Interest
-* [This to That](https://www.thistothat.com/index.shtml?)
-
 # Websites
-* [The True Size Of](https://thetruesize.com/)
-* [Sonic Pi](https://sonic-pi.net/)
-* [Mitype](https://github.com/Mithil467/mitype)
-* [Pronouncing Non-English Names for English Speakers](https://github.com/SteveMCarroll/PronouncingNamesForEnglishSpeakers)
 * [Gooey](https://github.com/chriskiehl/Gooey)
 * [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 * [YT-DLP](https://github.com/yt-dlp/yt-dlp)
@@ -106,11 +46,6 @@ A curated list of things I find awesome. Inspired by the [awesome list](https://
 * [Podcast.ai](https://podcast.ai/)
 * [Footybite](https://footybite.to/)
 * [Pronouns](https://explosm.net/comics/pronouns-2)
-
-# Thoughts
-* [The Cab Ride I'll Never Forget](https://kentnerburn.com/the-cab-ride-ill-never-forget/)
-* [So, what's next?](https://github.com/zloirock/core-js/blob/master/docs/2023-02-14-so-whats-next.md)
-* [Ashley Rivera on Siargao’s lack of medical facilities](https://www.reddit.com/r/Philippines/comments/z6v0h3/ashley_rivera_on_siargaos_lack_of_medical/)
 
 
 # Articles
