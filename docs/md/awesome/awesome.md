@@ -2,15 +2,6 @@
 A curated list of things I find awesome. Inspired by the [awesome list](https://github.com/sindresorhus/awesome).
 
 # Websites
-* [Gooey](https://github.com/chriskiehl/Gooey)
-* [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
-* [YT-DLP](https://github.com/yt-dlp/yt-dlp)
-* [SQLite Playground](https://sqlime.org/)
-* [VSCode.dev](https://vscode.dev/)
-* [Excalidraw](https://excalidraw.com/)
-* [jog](https://github.com/natethinks/jog)
-* [lazygit](https://github.com/jesseduffield/lazygit)
-* [Snapdrop](https://snapdrop.net/)
 * [Awesome TUIs](https://github.com/rothgar/awesome-tuis)
 * [cheat.sh](https://cheat.sh/)
 * [wttr.in](https://wttr.in/)
