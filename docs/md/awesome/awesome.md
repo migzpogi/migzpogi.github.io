@@ -2,25 +2,6 @@
 A curated list of things I find awesome. Inspired by the [awesome list](https://github.com/sindresorhus/awesome).
 
 # Websites
-* [Awesome TUIs](https://github.com/rothgar/awesome-tuis)
-* [cheat.sh](https://cheat.sh/)
-* [wttr.in](https://wttr.in/)
-* [bat](https://github.com/sharkdp/bat)
-* [Virtual bookshelf](https://github.com/petargyurov/virtual-bookshelf)
-* [Nosleep.page](https://nosleep.page/)
-* [Common picture sizes and aspect ratios](https://kelmond.com/common-picture-sizes-and-aspect-ratios/)
-* [Wordalle](https://huggingface.co/spaces/huggingface-projects/wordalle)
-* [XKCD | Circles](https://xkcd.com/2436/)
-* [Explosm | Noise Canceling](https://explosm.net/comics/5825/)
-* [Penny Arcade | Pokemonopoly](https://www.penny-arcade.com/comic/2021/03/29/cards)
-* [Doom Captcha](https://vivirenremoto.github.io/doomcaptcha/)
-* [iPod JS](https://tannerv.com/ipod/)
-* [Elevator Saga](https://play.elevatorsaga.com/)
-* [Editable Laptop Screen](https://developer.bbc.com/login-required)
-* [How A Sewing Machine Works](https://www.reddit.com/r/woahdude/comments/o49rhf/how_a_sewing_machine_works/)
-* [Ask a bartender a question](https://www.datasecretslox.com/index.php/topic,4086.msg135692.html)
-* [Spider-Man: No Way Home Trailer Cartoon Style](https://www.youtube.com/watch?v=IrrgeCuKPz4)
-* [Perceptual Illusions](https://nautil.us/blog/12-mind_bending-perceptual-illusions)
 * [rouille](https://github.com/bnjbvr/rouille)
 * [The Opera Game](https://gregkarber.com/opera/)
 * [Learning Music](https://learningmusic.ableton.com/)
@@ -37,6 +18,11 @@ A curated list of things I find awesome. Inspired by the [awesome list](https://
 * [Podcast.ai](https://podcast.ai/)
 * [Footybite](https://footybite.to/)
 * [Pronouns](https://explosm.net/comics/pronouns-2)
+* [XKCD | Circles](https://xkcd.com/2436/)
+* [Explosm | Noise Canceling](https://explosm.net/comics/5825/)
+* [Penny Arcade | Pokemonopoly](https://www.penny-arcade.com/comic/2021/03/29/cards)
+* [Ask a bartender a question](https://www.datasecretslox.com/index.php/topic,4086.msg135692.html)
+* [Spider-Man: No Way Home Trailer Cartoon Style](https://www.youtube.com/watch?v=IrrgeCuKPz4)
 
 
 # Articles
