@@ -1,5 +1,0 @@
-* [Awesome Stuff](/awesome/awesome)
-* [Guides](/guides/guideslanding)
-* [Essays](/essays/essayslanding)
-* [Project Euler](/euler/eulerlanding)
-* [Blogs](/blog/bloglanding)
