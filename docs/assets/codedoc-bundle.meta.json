@@ -74,11 +74,6 @@
       "name": "gatherFootnotes",
       "filename": "/home/migzlegionubuntu/ubuntu_git/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/footnote/gather-footnotes.js",
       "hash": "ylTI2AF0o5wI+mxxPwW84A=="
-    },
-    {
-      "name": "reloadOnChange",
-      "filename": "/home/migzlegionubuntu/ubuntu_git/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/serve/reload.js",
-      "hash": "Y5UR+bWcar556lvT/TqEPw=="
     }
   ],
   "components": [
