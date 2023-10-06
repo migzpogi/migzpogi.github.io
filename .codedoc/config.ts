@@ -11,7 +11,7 @@ export const config = /*#__PURE__*/configuration({
   },
   page: {
     title: {
-      base: 'Migzpogi.github.io'          // --> the base title of your doc pages
+      base: ''          // --> the base title of your doc pages
     }
   },
   misc: {
