@@ -15,7 +15,6 @@ import { postNavSearch } from '/home/migzlegionubuntu/ubuntu_git/migzpogi.github
 import { copyLineLinks } from '/home/migzlegionubuntu/ubuntu_git/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-links/copy-line-link.js';copyLineLinks();
 import { gatherFootnotes } from '/home/migzlegionubuntu/ubuntu_git/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/footnote/gather-footnotes.js';gatherFootnotes();
 import { ToCPrevNext } from '/home/migzlegionubuntu/ubuntu_git/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js';
-import { GithubSearch } from '/home/migzlegionubuntu/ubuntu_git/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/misc/github/search.js';
 import { ToCToggle } from '/home/migzlegionubuntu/ubuntu_git/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toggle/index.js';
 import { DarkModeSwitch } from '/home/migzlegionubuntu/ubuntu_git/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/darkmode/index.js';
 import { ConfigTransport } from '/home/migzlegionubuntu/ubuntu_git/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/transport/config.js';
@@ -24,7 +23,6 @@ import { CollapseControl } from '/home/migzlegionubuntu/ubuntu_git/migzpogi.gith
 
 const components = {
   'u57FALME0msFjeOPW2+9hg==': ToCPrevNext,
-  'g/9EaBIUAsb1bzuQ4TUDZg==': GithubSearch,
   '2KQ/U4adi/Z/oAWMjb12/g==': ToCToggle,
   'jR4pIl18XyJlqy0MRQ030Q==': DarkModeSwitch,
   'aa09u7XPvNn0PoGLSC9eYA==': ConfigTransport,
