@@ -78,11 +78,6 @@
   ],
   "components": [
     {
-      "name": "ToCPrevNext",
-      "filename": "/home/migzlegionubuntu/ubuntu_git/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js",
-      "hash": "u57FALME0msFjeOPW2+9hg=="
-    },
-    {
       "name": "ToCToggle",
       "filename": "/home/migzlegionubuntu/ubuntu_git/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toggle/index.js",
       "hash": "2KQ/U4adi/Z/oAWMjb12/g=="
@@ -106,6 +101,11 @@
       "name": "CollapseControl",
       "filename": "/home/migzlegionubuntu/ubuntu_git/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/collapse/collapse-control.js",
       "hash": "Nhhl4b58B/csvm7vrQnzrg=="
+    },
+    {
+      "name": "ToCPrevNext",
+      "filename": "/home/migzlegionubuntu/ubuntu_git/migzpogi.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js",
+      "hash": "u57FALME0msFjeOPW2+9hg=="
     }
   ],
   "renderer": {

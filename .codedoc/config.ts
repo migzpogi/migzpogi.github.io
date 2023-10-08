@@ -9,6 +9,7 @@ export const config = /*#__PURE__*/configuration({
   page: {
     title: {
       base: ''          // --> the base title of your doc pages
-    }
+    },
+    favicon: "/favicon.png"
   }
 });

@@ -1,12 +1,11 @@
-# Codedoc Boilerplate
+# Hello!
+* [laptop_mac](:Icon) Python and C#
+* [cloud](:Icon) Azure DevOps
+* [keyboard](:Icon) Mechanical keyboards  
 
-Modify `docs/md/index.md` to change the contents of this page. This will be your starting
-page on your GitHub Pages site.
-
-To get started, run `codedoc check` to see which configurations you most probably need to change,
-and get instructions on how to change them. Also don't forget to check the official docs of **CODEDOC**.
+I am currently working on a project called [GearScore API](https://wotlkgs.com), a web API for getting the GearScore of an item in the game World of Warcraft; reading Brave New World by Aldous Huxley; watching Beef, and staying in Haarlem.
 
 > :Buttons
-> > :Button label=Official Docs, url=https://codedoc.cc
-
-> :ToCPrevNext
+> > :Button label=Github, url="https://github.com/migzpogi"
+>
+> > :Button label=LinkedIn, url="https://www.linkedin.com/in/migzestrella/"
