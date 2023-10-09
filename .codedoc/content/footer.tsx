@@ -6,6 +6,8 @@ export function Footer(config: CodedocConfig, renderer: any) {
   return <_Footer>
   <a href="/index">Home</a>
   <hr/>
+  <a href="/guides">Guides</a>
+  <hr/>
   <a href="http://onemiguel.es">Blog</a>
 </_Footer>;
 }
