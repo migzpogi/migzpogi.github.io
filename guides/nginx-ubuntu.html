@@ -1,0 +1,95 @@
+<!DOCTYPE html><html><head><title>Nginx For Ubuntu 20.04</title><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"><meta name="robots" content="index,follow"><meta name="theme-color" content="#212121"><meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"><link rel="shortcut icon" href="/favicon.png"><link href="https://fonts.googleapis.com/css?family=Hind:400,700&amp;display=swap" rel="stylesheet"><link href="https://fonts.googleapis.com/css?family=Source+Code+Pro:300,400&amp;display=swap" rel="stylesheet"><link href="https://fonts.googleapis.com/icon?family=Material+Icons%7CMaterial+Icons+Outlined&amp;display=swap" rel="stylesheet"><style>
+      body, input, button {
+        font-family: 'Hind', sans-serif;
+      }
+
+      code, .hljs {
+        font-family: 'Source Code Pro', 'Courier New', Courier, monospace;
+      }
+
+      .icon-font {
+        font-family: 'Material Icons';
+        font-weight: normal;
+        font-style: normal;
+        font-size: 24px;  /* Preferred icon size */
+        display: inline-block;
+        line-height: 1;
+        text-transform: none;
+        letter-spacing: normal;
+        word-wrap: normal;
+        white-space: nowrap;
+        direction: ltr;
+      
+        /* Support for all WebKit browsers. */
+        -webkit-font-smoothing: antialiased;
+        /* Support for Safari and Chrome. */
+        text-rendering: optimizeLegibility;
+      
+        /* Support for Firefox. */
+        -moz-osx-font-smoothing: grayscale;
+      
+        /* Support for IE. */
+        font-feature-settings: 'liga';
+      }
+
+      .icon-font.outline {
+        font-family: 'Material Icons Outlined';
+      }
+    </style><link href="/docs/assets/codedoc-styles.css" rel="stylesheet"><script async="" defer="" src="/docs/assets/codedoc-bundle.js"></script></head><body><div class="header-0-0-4"></div><div id="-codedoc-container" class="container"><h1 id="nginx-for-ubuntu-2004" class="heading-0-0-1"><span class="anchor-0-0-2" data-ignore-text=""><span class="icon-font" data-ignore-text="" style="vertical-align: sub">link</span></span>Nginx For Ubuntu 20.04</h1><h2 id="create-user-with-sudo-privileges" class="heading-0-0-1"><span class="anchor-0-0-2" data-ignore-text=""><span class="icon-font" data-ignore-text="" style="vertical-align: sub">link</span></span>Create user with sudo privileges</h2><p>adduser mongouser
+usermod -aG sudo mongouser # --&gt; -aG is for append Groups
+sudo su mongouser
+sudo whoami</p><h2 id="install-nginx" class="heading-0-0-1"><span class="anchor-0-0-2" data-ignore-text=""><span class="icon-font" data-ignore-text="" style="vertical-align: sub">link</span></span>Install nginx</h2><p>sudo apt update
+sudo apt install nginx</p><h1 id="adjust-firewall" class="heading-0-0-1"><span class="anchor-0-0-2" data-ignore-text=""><span class="icon-font" data-ignore-text="" style="vertical-align: sub">link</span></span>Adjust firewall</h1><p>sudo ufw app list
+sudo ufw allow 'Nginx HTTP'
+sudo ufw allow ssh
+sudo ufw enable</p><blockquote><p>Firewall is active and enabled on system startup
+sudo ufw status</p></blockquote><h2 id="check-nginx" class="heading-0-0-1"><span class="anchor-0-0-2" data-ignore-text=""><span class="icon-font" data-ignore-text="" style="vertical-align: sub">link</span></span>Check nginx</h2><p>systemctl status nginx
+<a href="http://139.162.55.188/">http://139.162.55.188/</a>
+sudo systemctl enable nginx</p><h1 id="flask" class="heading-0-0-1"><span class="anchor-0-0-2" data-ignore-text=""><span class="icon-font" data-ignore-text="" style="vertical-align: sub">link</span></span>Flask</h1><h2 id="install" class="heading-0-0-1"><span class="anchor-0-0-2" data-ignore-text=""><span class="icon-font" data-ignore-text="" style="vertical-align: sub">link</span></span>Install</h2><p>sudo apt update
+sudo apt install python3-pip python3-dev build-essential libssl-dev libffi-dev python3-setuptools</p><h2 id="virtual-env" class="heading-0-0-1"><span class="anchor-0-0-2" data-ignore-text=""><span class="icon-font" data-ignore-text="" style="vertical-align: sub">link</span></span>Virtual env</h2><p>sudo apt install python3-venv
+cd /home/flaskuser
+mkdir flaskproject
+cd flaskproject
+python3.8 -m  venv flaskprojectvenv</p><h2 id="alias" class="heading-0-0-1"><span class="anchor-0-0-2" data-ignore-text=""><span class="icon-font" data-ignore-text="" style="vertical-align: sub">link</span></span>Alias</h2><p>vim ~/.bashrc
+alias myalias='cat ~/.bashrc | grep alias'
+alias venvflask='source ~/flaskproject/flaskprojectvenv/bin/activate'
+source ~/.bashrc
+venvflask</p><h2 id="git" class="heading-0-0-1"><span class="anchor-0-0-2" data-ignore-text=""><span class="icon-font" data-ignore-text="" style="vertical-align: sub">link</span></span>Git</h2><p>sudo apt install git
+git  clone <a href="https://github.com/migzpogi/gearscoreapi.git">https://github.com/migzpogi/gearscoreapi.git</a>
+cd gearscoreapi
+pip install -r requirements.txt
+sudo ufw allow 8080
+sudo ufw enable
+pip install wheel
+pip install uwsgi
+python WebApp.py
+<a href="http://139.162.55.188:8080/">http://139.162.55.188:8080/</a>
+uwsgi --ini WebApp.ini
+<a href="http://139.162.55.188:8080/">http://139.162.55.188:8080/</a></p><h2 id="systemd" class="heading-0-0-1"><span class="anchor-0-0-2" data-ignore-text=""><span class="icon-font" data-ignore-text="" style="vertical-align: sub">link</span></span>Systemd</h2><p>sudo vim /etc/systemd/system/WebApp.service</p><p>[Unit]
+Description=uWSGI instance to serve WebApp
+After=network.target</p><p>[Service]
+User=flaskuser
+Group=www-data
+WorkingDirectory=/home/flaskuser/flaskproject/gearscoreapi
+Environment="PATH=/home/flaskuser/flaskproject/flaskprojectvenv/bin"
+ExecStart=/home/flaskuser/flaskproject/flaskprojectvenv/bin/uwsgi --ini WebApp.ini</p><p>[Install]
+WantedBy=multi-user.target</p><p>sudo systemctl start WebApp
+sudo systemctl enable WebApp</p><h2 id="nginx" class="heading-0-0-1"><span class="anchor-0-0-2" data-ignore-text=""><span class="icon-font" data-ignore-text="" style="vertical-align: sub">link</span></span>Nginx</h2><p>vim ~/.bashrc
+alias editwebnginx='sudo vim /etc/nginx/sites-available/WebApp'
+source ~/.bashrc
+venvflask
+editwebnginx</p><p>upstream webapp {
+    server 139.162.55.188:8080;
+}
+server {
+    listen 80;
+    server_name 139.162.55.188;
+    location / {
+        include uwsgi_params;
+        proxy_pass <a href="http://webapp">http://webapp</a>;
+    }
+}</p><p>sudo ln -s /etc/nginx/sites-available/WebApp /etc/nginx/sites-enabled</p><p>sudo nginx -t</p><p>sudo systemctl restart nginx</p><p>sudo ufw allow 'Nginx Full'
+sudo ufw enable</p><p>If you encounter any errors, try checking the following:</p><p>sudo less /var/log/nginx/error.log: checks the Nginx error logs.
+sudo less /var/log/nginx/access.log: checks the Nginx access logs.
+sudo journalctl -u nginx: checks the Nginx process logs.
+sudo journalctl -u myproject: checks your Flask app’s uWSGI logs.</p><p><a href="https://www.digitalocean.com/community/tutorials/how-to-serve-flask-applications-with-uwsgi-and-nginx-on-ubuntu-20-04">https://www.digitalocean.com/community/tutorials/how-to-serve-flask-applications-with-uwsgi-and-nginx-on-ubuntu-20-04</a></p><p>Always edit /etc/nginx/sites-available/WebApp</p></div> <div class="footer-0-0-5"><div class="left"><script id="uBQilKF_IQ">(function(){function load(){if (window.__sdh_transport){window.__sdh_transport("uBQilKF_IQ", "2KQ/U4adi/Z/oAWMjb12/g==", {});} }; if (document.readyState == 'complete') load(); else window.addEventListener('load', load); window.setImmediate = window.setImmediate || function(f){setTimeout(f, 0)}; })()</script></div><div class="main"><div class="inside"><a href="/index">Home</a><hr><a href="/guides">Guides</a><hr><a href="http://onemiguel.es">Blog</a></div></div><div class="right"><script id="aPhW__cJpX">(function(){function load(){if (window.__sdh_transport){window.__sdh_transport("aPhW__cJpX", "jR4pIl18XyJlqy0MRQ030Q==", {});} }; if (document.readyState == 'complete') load(); else window.addEventListener('load', load); window.setImmediate = window.setImmediate || function(f){setTimeout(f, 0)}; })()</script></div></div><script id="MStzqkayfV">(function(){function load(){if (window.__sdh_transport){window.__sdh_transport("MStzqkayfV", "aa09u7XPvNn0PoGLSC9eYA==", {"namespace":""});} }; if (document.readyState == 'complete') load(); else window.addEventListener('load', load); window.setImmediate = window.setImmediate || function(f){setTimeout(f, 0)}; })()</script></body></html>
