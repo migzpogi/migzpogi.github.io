@@ -3,7 +3,7 @@
 * [cloud](:Icon) Azure DevOps
 * [keyboard](:Icon) Mechanical keyboards  
 
-I am currently working on a project called [GearScore API](https://wotlkgs.com), a web API for getting the GearScore of an item in the game World of Warcraft; reading Brave New World by Aldous Huxley; watching Beef, and staying in Haarlem.
+I am currently working on a project called [GearScore API](https://wotlkgs.com), a web API for getting the GearScore of an item in the game World of Warcraft; reading Nickel Boys by Colson Whitehead; watching Lupin, and staying in Haarlem.
 
 > :Buttons
 > > :Button label=Github, url="https://github.com/migzpogi"
